@@ -24,8 +24,6 @@ keywords:
 attachment: "68_susu.pdf"
 ---
 
-# Süsü
-
 Mindenki megáll egy helyben és két kezét tenyérrel előretartja.
 
 Amikor a játékvezető jelet ad, mindenki becsukja a szemét (ha teremben játszunk, a villanyt is kapcsoljuk le), és elkezd ide-oda járkálni.

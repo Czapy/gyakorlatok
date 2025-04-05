@@ -25,8 +25,6 @@ keywords:
 attachment: "220_jelentestani_jatszadozas.pdf"
 ---
 
-# Jelentéstani játszadozás
-
 **A gyakorlat célja** ráébreszteni a résztvevőket arra, hogy milyen eltérő módon ítéljük meg magunkat és másokat, felismertetni ebben a jelenségben az eredményes kommunikációt gátló tényezőt.
 
 **Bevezető tájékoztatás**

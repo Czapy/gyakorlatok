@@ -27,8 +27,6 @@ keywords:
 attachment: "130_az_elet_hidja.pdf"
 ---
 
-# Az élet hídja
-
 4-10 fős csapatokra osztjuk a csoportot. Kijelölünk egy nagyobb területet. A csapatoknak át kell juttatniuk egy embert a másik oldalra, anélkül, hogy bármely testrésze érintené a földet és anélkül, hogy átvinnék egyik oldalról a másikra.
 
 Nehezíthető a gyakorlat úgy, hogy több csoporttagot kell átjuttatni a másik oldalra.

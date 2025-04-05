@@ -25,8 +25,6 @@ keywords:
 attachment: "28_holdlabda.pdf"
 ---
 
-# Holdlabda
-
 A gyakorlat célja, hogy a csoport annyiszor üsse fel a labdát a levegőbe, ahányszor csak tudja, anélkül, hogy a földre esne. Érdemes a csoporttal előtte megbecsültetni, szerintük hányszor tudják felütni.
 
 Két fontos szabály van:

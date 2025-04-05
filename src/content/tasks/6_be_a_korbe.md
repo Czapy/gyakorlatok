@@ -22,7 +22,5 @@ keywords:
 attachment: "6_be_a_korbe.pdf"
 ---
 
-# Be a körbe!
-
  Rakja le a kötelet körbe a földre. A csoport a körön belül áll körben, és fogják egymás kezét. Lehet fogni egymás csuklóját, ruháját, de a kezeket nem lehet használni a gyakorlat alatt. A feladatuk az, hogy vegyék fel a kötelet, emeljék át mindenki feje fölött, és dobják be a csoport által alkotott körbe úgy, hogy közben a kezüket nem szabad használniuk.  
   

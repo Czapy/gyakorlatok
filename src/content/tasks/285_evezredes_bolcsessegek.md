@@ -19,8 +19,6 @@ keywords:
 attachment: "285_evezredes_bolcsessegek.pdf"
 ---
 
-# Évezredes bölcsességek
-
 A gyakorlat vezetője felolvassa a következő Lao-Ce idézetet:
 
  _Minél több a tilalom és a szabály, a nép annál szegényebb, minél több a fegyver, a nép annál nyugtalanabb, minél több a rendelet, annál nagyobb a felfordulás, minél több a törvény, annál több a tolvaj és a rabló._

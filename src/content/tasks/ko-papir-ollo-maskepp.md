@@ -21,8 +21,6 @@ keywords:
 attachment: "undefined"
 ---
 
-# Kő-papír-olló másképp
-
 Az ismert kő - papír - olló mozgásos változata. A csoportot két csapatra osztjuk, és kijelölünk egy pályát, aminek meghúzzuk a középvonalát is.
 
 Az egyik csoport a pálya egyik felén az alapvonalon, a másik a másik felén az alapvonalon várakozik. Az egyes csapatok megegyeznek abban, hogy milyen jelet mutatnak (legyünk kreatívak: sárkány-kezeivel markolni készül, szájából lángok csapnak ki, lovag – előre lép és kardot tart a kezében, királylány – tipegve ruháját fogja), minden csoporttag ugyanazt a jelet mutatja. Majd a középvonalhoz mennek, ahol a csoportvezető jelére mind egyszerre mutatják az előre megbeszélt jelet.

@@ -23,8 +23,6 @@ keywords:
 attachment: "174_graffiti_fal.pdf"
 ---
 
-# Graffiti fal
-
 Egy perc csendben mindenki átgondolja, hogy mik azok a dolgok, amik igazán jellemzők rá: amiket ha festékszóróval kiírna egy graffiti falra, akkor valami lényegeset közölne önmagáról.
 
 Ezután minden tanuló választ magának valamilyen papírt és filctollakat. Készít egy vagy több ábrát – kedve szerint. Olyan jelszavakat, mondásokat és/vagy vizuális elemeket felhasználva, amelyek elárulnak valamit a személyiségéről, kedvteléseiről, szenvedélyeiről.

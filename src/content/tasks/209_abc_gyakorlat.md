@@ -44,8 +44,6 @@ keywords:
 attachment: "209_abc_gyakorlat.pdf"
 ---
 
-# ABC-gyakorlat
-
 A csoportoknak a flipchart lap szélére, egymás alá fel kell írniuk az ABC összes betűjét. A versenyfeladat, hogy minden betűhöz találjanak és írjanak 1 db. tárgyat, amit rá is helyeznek a papírlapra (találatnak ui. csak az a tárgy számít majd, amit fel is írtak és a papírra is helyeztek, és más csoportnál nem szerepel). A verseny ideje 3 perc. Ha letelt az idő, a csoportok összeszámolják, hogy hány találatuk van, és csoportforgóval ellenőrizik, hogy a több csoportnál is azonos tárgyak kihúzásra kerüljenek a listából.
 
 Variációk:

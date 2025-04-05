@@ -17,8 +17,6 @@ keywords:
 attachment: "284_elokepek.pdf"
 ---
 
-# Élőképek
-
 A csoportvezető röviden ismerteti az asszertivitás (határozottság, magbiztosság, önérvényesítés, „nyertes-nyertes” kommunikáció), az agresszivitás és a szubmisszivitás (alárendelődés, “nyusziság”) közötti különbséget.
 
 A csoportból 4-6 önként jelentkező lesz a megfigyelő.

@@ -19,8 +19,6 @@ keywords:
 attachment: "125_alliteracios_jatek.pdf"
 ---
 
-# Alliterációs játék
-
 Álljunk, vagy üljünk körbe. Osszunk mindenkinek egy lapot, és kérjük meg a résztvevőket, hogy fejjel lefelé tartsák a lapot. A csoportvezetőtől balra álló elkezdi a feladatot: Elmentem a boltba és vásároltam…. Abban a pillanatban, amikor elhangzott az, hogy vásároltam, a csoportvezetőtől jobbra lévő felmutatja a kártyáját. Ebben a pillanatban a beszélőnek villámgyorsan ki kell mondani a számot, amit lát, és a számmal alliteráló szót mondani. Pl: két kanári, négy nő, három hal
 
 A játék körben folytatódik, a következő körben kiegészíthetik egy alliteráló melléknévvel is.

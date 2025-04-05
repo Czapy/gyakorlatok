@@ -17,8 +17,6 @@ keywords:
 attachment: "215_negativ_szkander.pdf"
 ---
 
-# Negatív szkanderezés
-
 **Instrukció**: „A következő játékot párokban játsszuk. Párokban kell szkanderezni, és az a páros győz, ahol a megadott idő alatt a legtöbb győzelem születik. Számoljátok, kérlek, hogy mennyi győzelem született addig, amíg jelzek, hogy vége van a játéknak, és azt is jegyezzétek meg, hogy ki győzött!”
 
 **A játék menete:**

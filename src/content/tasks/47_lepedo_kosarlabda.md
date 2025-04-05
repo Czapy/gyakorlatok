@@ -22,7 +22,5 @@ keywords:
 attachment: "47_lepedo_kosarlabda.pdf"
 ---
 
-# Lepedő kosárlabda
-
  Alakítsunk 4 fős csapatokat, akiknek az a feladata, hogy a lepedő négy sarkát fogva (a labda a lepedő közepén van) beletaláljanak a kosárba/körbe.  
   

@@ -22,8 +22,6 @@ keywords:
 attachment: "99_mediavita.pdf"
 ---
 
-# Médiavita a droghasználatról
-
 Felteszünk a csoportnak egy eldöntendő kérdést egy olyan társadalmi problémával kapcsolatban, amely foglalkoztatja őket. Ilyenek lehetnek például a következők: „Van-e drogprobléma a fiatalok körében?” vagy „Célszerű lenne-e legalizálni a füvet?”
 
 A feltett kérdésre adott válasz alapján a csoportot két részre osztjuk, és megkérjük őket, hogy gyűjtsenek érveket saját igazuk mellett, készüljenek fel egy szimulált televíziós vitaműsorra.

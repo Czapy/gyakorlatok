@@ -20,8 +20,6 @@ keywords:
 attachment: "143_kigyozo_szakmak.pdf"
 ---
 
-# Kígyózó szakmák
-
 A gyakorlat, melynek középpontjában a foglalkozásnevek terén való szókincsbővítés áll, jó bevezetője lehet a szakmákkal való ismerkedésnek.
 
 A tanulók párokat vagy kisebb csoportokat alkotnak. Húznak egy-egy betűkártyát, és olyan papírt kapnak, amelyen előrajzolt kígyóforma látható. Az első feladat egy olyan szakmanév írása, amely a kihúzott betűvel kezdődik. Ezután mindenki az általa írt név utolsó betűjével írja a következő nevet, s ez így folytatódik a rendelkezésre álló idő végéig (kb. 5 perc). A leghosszabb kígyót alkotó pár/csoport lesz a győztes.

@@ -51,8 +51,6 @@ keywords:
 attachment: "34_harom_kultura.pdf"
 ---
 
-# Három kultúra
-
 A játékvezető 3 csoportra bontja a résztvevőket (kékek, zöldek, pirosak), és a csoportszínnek megfelelő matricákat helyez a diákok homlokára, majd mindhárom csoportnak átad egy-egy instrukciós kártyát úgy, hogy annak értelmezését a többi csoport ne hallja.
 
 A résztvevők feladata, hogy szabadon mozogjanak a térben, és próbáljanak egymással beszélgetni bármiről. Ha a játékvezető tapsol, hirtelen megállnak és elhallgatnak. Csendben körülnéznek, majd újabb jelre újra 5 percen át sétálnak és beszélgetnek. A tapsra megint megmerevednek.

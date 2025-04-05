@@ -21,8 +21,6 @@ keywords:
 attachment: "173_tiz_jo_tanacs.pdf"
 ---
 
-# Tíz jó tanács az élethez
-
 Minden tanuló kap három cédulát, amelyekre felír egy-egy olyan útmutatást, amit a maga tapasztalatai vagy másoktól hallott gondolatok alapján fontosnak tart a sikeres élethez – nyelvileg tanács formájában, tegező, felszólító módban. (Pl. „Ne becsüld le a … jelentőségét! stb.). A cédulákat beteszik egy dobozba és összekeverik, majd három kupacba osztják.
 
 3 csoport alakul: egy-egy ifjúsági lap szerkesztőségének képzeletbeli tagjai. Mindegyik csoport megkapja a cédulák egyharmadát, amit elosztanak egymás között.

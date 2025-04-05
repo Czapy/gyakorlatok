@@ -22,8 +22,6 @@ keywords:
 attachment: "300_tepelodes.pdf"
 ---
 
-# Tépelődés
-
 Osszuk a csoportot 3-4 kisebb csoportra (6-8 fős csapatokra). Mindenki válasszon egy színes papírt, amit darabokra kell tépnie anélkül, hogy elmondanánk, miért, majd tegyék egy kupacba.
 
 Adjunk minden csapatnak egy ív csomagolópapírt és ragasztót.

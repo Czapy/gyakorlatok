@@ -19,8 +19,6 @@ keywords:
 attachment: "95_jeruzsalem_jeriko.pdf"
 ---
 
-# Jeruzsálem, Jerikó
-
 A játékosok körben ülnek, köztük ül a játékvezető. Ha ő Jeruzsálem-et kiált, akkor mindenkinek fel kell állnia, ha Jerikó-t, akkor le kell ülnie. Ha eleve állnak, amikor a Jeruzsálem elhangzik, akkor állva maradnak, ha a Jerikó elhangzásánál amúgy is ülnek, akkor ülve maradnak.
 
 A játékvezető megnehezítheti a gyakorlatot azzal, hogy ő maga nem a saját instrukciójának megfelelően dolgozik.

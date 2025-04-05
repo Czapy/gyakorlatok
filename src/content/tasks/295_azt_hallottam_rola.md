@@ -24,8 +24,6 @@ keywords:
 attachment: "295_azt_hallottam_rola.pdf"
 ---
 
-# Azt hallottam róla…
-
 A hat csoport azonos tartalmú szöveget kap, amit minden csoport más szempontból vizsgál meg. Véleményüket a szóforgó szabályai szerint alakítják ki. Ez azt jelenti, hogy a csoportban, az óra járásával megegyező irányban haladva, mindenki sorban elmondhatja a gondolatait a feltett kérdéssel kapcsolatban. A másikat megszakítani, beleszólni, cáfolni vagy a sorrendet megváltoztatni nem szabad!
 
 Az elhangzó gondolatok lényegét érdemes lejegyezni, hogy könnyebb legyen majd a közös állásfoglalás kialakítása, és annak összefoglalása.

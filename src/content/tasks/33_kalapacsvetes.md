@@ -21,7 +21,5 @@ keywords:
 attachment: "33_kalapacsvetes.pdf"
 ---
 
-# Kalapácsvetés
-
  A feladat az, hogy a csoport a kiindulási helyről minél messzebbre dobja az összekötött kötelet. Időt kapnak arra, hogy kidolgozzák a dobás módszerét, esetleg valamilyen szerkezetet állítsanak össze, amivel messzebbre dobhatják. A kötelet összecsomózhatják, megcsavarhatják (ezt ne javasoljuk, várjuk ki, hogy a résztvevők maguk rájöjjenek), de semmihez nem köthetik hozzá.  
   

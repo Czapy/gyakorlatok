@@ -20,8 +20,6 @@ keywords:
 attachment: "171_a_munka_egeszen_mas.pdf"
 ---
 
-# A munka az egészen más?
-
 Ráhangolásként a tanár elmondja a fiataloknak, hogy a munkaadók elvárják a pályakezdőktől: a lehető legnagyobb mértékben „munkára-készek” legyenek, vagyis rendelkezzenek mindazokkal a készségekkel, amelyek a szakmai tudásukon kívül elengedhetetlenek ahhoz, hogy sikeresen beilleszkedjenek a munkahelyre. E készségeknek fontos részét képezi bizonyos szabályok ismerete és betartása is.
 
 A diákok 3-4 fős csoportokat alkotnak, és összegyűjtik a legfontosabb írott és/vagy íratlan iskolai szabályokat. A külön-külön megfogalmazott gondolatokat a táblán vagy egy nagy lapon összegzik.

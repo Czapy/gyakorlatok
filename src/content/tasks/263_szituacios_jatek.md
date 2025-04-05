@@ -27,8 +27,6 @@ keywords:
 attachment: "263_szituacios_jatek.pdf"
 ---
 
-# Szituációs játék kapott problémahelyzettel
-
 **A játék célja:** A problémamegoldó készség fejlesztése, megoldási alternatívák kidolgozásával.
 
  **Instrukció**: „Minden csoport kap egy kártyát, amin egy nehéz élethelyzet, problémás szituáció rövid leírása található. Dolgozzatok ki legalább két megoldást az adott helyzetre.”

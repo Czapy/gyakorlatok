@@ -24,8 +24,6 @@ keywords:
 attachment: "131_az_elet_napos-_oldala.pdf"
 ---
 
-# Az élet napos oldala
-
 Minden játékosnak a hátára erősítünk egy papírlapot, mindenki kap egy íróeszközt. A csoporttagok kört alkotnak, az egyik játékos elindul, s a mellette lévő hátán lévő papírra ír valami pozitív jellemzőt az illetőről, majd az ír valamit a mellette ülő hátára. Addig folytatódik a gyakorlat, ameddig mindenki írt valamit a valamennyi társa papírjára. Amikor a sor végére érnek, mindenki elolvassa a rá vonatkozó véleményeket.
 
 **Variáció**

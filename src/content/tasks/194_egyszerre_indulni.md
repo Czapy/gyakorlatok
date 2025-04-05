@@ -20,8 +20,6 @@ keywords:
 attachment: "194_egyszerre_indulni.pdf"
 ---
 
-# Egyszerre indulni
-
 A párok egymás mellett állnak, de nem érhetnek egymáshoz és nem nézhetnek egymásra. Koncentrálás után – mindenféle jelzés nélkül – egyszerre kell elindulniuk, meghatározott számú lépést megtenniük, majd megállniuk.
 
 Ha párosával már jól megy, játszhatják hármasával vagy négyesével.

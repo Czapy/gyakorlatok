@@ -18,8 +18,6 @@ keywords:
 attachment: "267_tuz_viz_fold_levego.pdf"
 ---
 
-# Tűz-víz-föld-levegő
-
 A diákok kiválasztják maguknak a négy őselem – tűz, víz, föld, levegő – közül azt, amelyiket saját magukra a legjellemzőbbnek gondolnak (például választásuknak megfelelően a terem négy különböző sarkában gyűlnek össze).
 
 Egymás között megbeszélik, hogy miért a szóban forgó őselemet választották, majd az így kialakult csoportok egy közös képben megjelenítik az általuk választott elemet.

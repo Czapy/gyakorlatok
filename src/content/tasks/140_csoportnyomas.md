@@ -23,8 +23,6 @@ keywords:
 attachment: "140_csoportnyomas.pdf"
 ---
 
-# Csoportnyomás demonstrálása
-
 4-5 fős kiscsoportokra osztjuk a résztvevőket.
 
 Kétféle csoportfeladatot adunk.

@@ -21,8 +21,6 @@ keywords:
 attachment: "243_kartyas_csoportosulas.pdf"
 ---
 
-# Kártyás csoportosulás
-
 **A játék menete:** Mindenki kapjon egy kártyát, de nem nézheti meg. Amikor minden játékos megkapta a kártyáját, kifelé fordítva maga előtt kell tartania. A játékosok a csoportvezető által mondott szempontok szerint csoportosulnak. A feladat közben a játékosok nem szólalhatnak meg.
 
 * Csoportosuljanak a kártyájuk színe (piros, fekete) szerint.

@@ -20,8 +20,6 @@ keywords:
 attachment: "89_aukcio_az_ertekekkel.pdf"
 ---
 
-# Aukció az értékekkel
-
 **Instrukció**: “Minden csoporttagnak van 100 zsetonja. Ezeken vásárolhat egy különleges árverésen. Minden „tárgy” kikiáltási ára 10 zseton. Árverésre kerül:
 
 szerelem, karrier, gazdagság, hosszú élet, tehetség, sikeres házasság, furfang, gyönyör-öröm, barátság, közösség, kaland, műveltség, egészség, tudás, magabiztosság, korlátlan lehetőségek, hatalom, különleges egyéniség, könnyedség-önfeledtség, szabadság, bátorság, erő, elismertség, hírnév, önbizalom. Mindenki, akár több alkalommal is licitálhat és vásárolhat.”

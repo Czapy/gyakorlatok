@@ -22,8 +22,6 @@ keywords:
 attachment: "230_nev_keresztrejtveny.pdf"
 ---
 
-# Név keresztrejtvény
-
 A játékosok kapnak egy-egy papírt, a feladatuk elsőként, hogy a lap közepére felírják a keresztnevüket/becenevüket. A játékosok feladata, hogy a társaik nevéből egy keresztrejtvényt hozzanak létre.
 
 Az a játékos, akinek a legtöbb nevet sikerül beírnia a keresztrejtvénybe, megnyerte a játékot.

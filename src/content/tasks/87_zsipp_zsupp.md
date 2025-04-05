@@ -22,8 +22,6 @@ keywords:
 attachment: "87_zsipp_zsupp.pdf"
 ---
 
-# Zsipp-zsupp
-
 A játékosok körben ülnek. A játékvezető rámutat valakire és ha azt mondja:
 
 * Zsipp! – akkor akire rámutatott, annak azonnal meg kell mondania a tőle jobbra ülő társa nevét.

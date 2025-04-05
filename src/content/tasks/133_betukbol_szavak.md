@@ -20,8 +20,6 @@ keywords:
 attachment: "133_betukbol_szavak.pdf"
 ---
 
-# Betűkből szavak
-
 Alkossunk 6-10 fős kiscsoportokat. Mindent csoport kapjon egyenlő mennyiségű cédulát, és írjanak fel személyenként 5-5 betűt. A betűket nem mutathatják meg a társaiknak.
 
 A csoport tegye egy kupacba a cetliket. A feladatuk, hogy meghatározott idő alatt (5-10 perc) rakjanak ki ezekből minél több értelmes szót. Egy betű csak egyszer használható fel.

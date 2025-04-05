@@ -25,8 +25,6 @@ keywords:
 attachment: "170_az_egyuttmukodes_nehezsegei.pdf"
 ---
 
-# Az együttműködés nehézségei
-
 Előkészítés:
 
 minden diák felteszi a következő két kérdést valakinek a környezetében, és magával hozza a kapott válaszokat:

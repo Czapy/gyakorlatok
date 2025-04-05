@@ -22,8 +22,6 @@ keywords:
 attachment: "115_megbirkozom.pdf"
 ---
 
-# Megbirkózom
-
 A gyakorlat célja a mindennapi élet bosszantó kihívásairól való közös gondolkodás, és pozitív megküzdési a stratégiák megerősítése a résztvevőkben.
 
 A tanulók beszélgetéshez megfelelő módon helyezkednek el a térben. Sorban példákat mondanak olyan helyzetekre, amelyek zavarják őket, bosszúságot okoznak nekik a mindennapokban. A foglalkozás vezetője is egyenrangú partnerként kapcsolódhat be a körbe. Mindegyik problémát listázzák a táblán vagy egy nagy papíron.

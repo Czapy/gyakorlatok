@@ -22,8 +22,6 @@ keywords:
 attachment: "112_hala_kartya.pdf"
 ---
 
-# Hála-kártya
-
 A foglalkozás vezetője elmond néhány személyes élményt, gondolatot arra vonatkozóan, hogy néha milyen nehéz kifejezni, ha hálásak vagyunk valakinek valamiért. A diákok – önkéntes alapon – megoszthatnak hasonló érzéseket a többiekkel.
 
 A tanár ezután arra kéri a résztvevőket, hogy gondolatban mindenki keressen a saját családi, ismeretségi körében olyan embert, akiről úgy érzi, hogy lenni miért köszönetet mondani neki. A feladat az, hogy mindenki fogalmazzon meg egy rövid, köszönő szöveget az általa kiválasztott személynek. Írja le ezt szépen megformálva egy kártyára. Válasszon hozzá valamilyen képi elemet a szétvágható újságokból (készíthet persze montázst is), és ragassza fel ezeket a kártyájára.

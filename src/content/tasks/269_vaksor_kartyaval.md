@@ -26,8 +26,6 @@ keywords:
 attachment: "269_vaksor_kartyaval.pdf"
 ---
 
-# Vaksor kártyával
-
 **A játék előkészítése:** Vegyük ki a figurákat ábrázoló lapokat, majd keverjük meg a paklit.
 
  **A játék menete:**

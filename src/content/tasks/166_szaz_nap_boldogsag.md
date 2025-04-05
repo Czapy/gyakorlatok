@@ -22,8 +22,6 @@ keywords:
 attachment: "166_szaz_nap_boldogsag.pdf"
 ---
 
-# Száz nap boldogság
-
 A tanár elmondja a diákoknak, hogy 2014 tavaszán azzal a kérdéssel találkozott a Facebook-on, hogy „Tudnál-e boldog lenni 100 napon keresztül?” A kérdés honlapja felhívta a figyelmet rá, hogy életünk szinte teljesen „betábláztatott” és így egyre kevesebb időnk jut arra, hogy örömet találjunk a pillanatokban. A diákok mérlegelik, hogy mennyire értenek egyet ezzel a megállapítással, s kicsit beszélgetnek a témáról.
 
 Ezután a tanár bemutatja nekik a honlap által javasolt ötletet: aki elfogadja a kérdésben rejlő kihívást, az minden napjában keres legalább egy olyan mozzanatot, ami örömet okoz neki, és készít egy olyan fényképet, ami megörökíti / később is felidézhetővé teszi ezt. A képeket megoszthatja valamilyen közösségi oldalon, de össze is fűzheti egy kis könyv formájában, amit később fellapozhat.

@@ -15,8 +15,6 @@ keywords:
 attachment: "104_szek_szociometria.pdf"
 ---
 
-# Szék szociometria
-
 Ez a gyakorlat jól alkalmazható olyan csoportfoglalkozáson, ahol egy témát szeretnénk feldolgozni (pl.: droghasználat, pályaorientáció)
 
  **Instrukció**: „ A kör közepén lévő szék legyen most a szenvedély, azt szeretném, hogy mindenki helyezkedjen el tőle olyan távolságra és vegyen fel olyan testtartást, ami kifejezi a saját viszonyát a szenvedélyekhez. Az egész termet használhatjátok, kipróbálhattok több pozíciót is, végül maradjatok abban a helyzetben, ami számotokra a legkifejezőbb.”

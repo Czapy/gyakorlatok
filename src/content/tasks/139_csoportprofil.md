@@ -26,8 +26,6 @@ keywords:
 attachment: "139_csoportprofil.pdf"
 ---
 
-# Csoportprofil
-
 3-4 fős kiscsoportok alakulnak. A csoport egyik tagját rajzolják körbe a csomagolópapíron. A rajzon belül az egyes testrészekhez beírják azokat a gondolatokat, véleményeket, amelyekben a csoport egyezségre jutott. Így elkészül a kiscsoportra jellemző profil.
 
 **A testséma értelmezése:**

@@ -21,8 +21,6 @@ keywords:
 attachment: "177_a_csucson_es_padlon.pdf"
 ---
 
-# A csúcson és a padlón
-
 A tanár arról beszél a fiataloknak, hogy az életünk tele van csúcs- és padló-élményekkel. Egyszer „fent” vagyunk, máskor meg „magunk alatt”. Mond egy olyan személyes élményt is, ami számára a „csúcsot” jelentette. Akinek kedve van hozzá, a diákok közül is említ ilyet. Felidézik az ilyen fajta helyzetekhez kapcsolódó lelki állapotukat is.
 
 Ezután mindenki egy olyan negatív élményre gondol, ami a „padlóra” küldte, s röviden – mások számára is érthető módon – leírja azt egy lapra. A lapokat összekeverik, és mindenki húz egyet közülük (ha valakihez épp a saját története került volna, akkor kicserélheti). A diákok feladata, hogy – egy fiataloknak szóló újság lelki tanácsadó rovatának szerkesztőjeként – írjanak választ a történetre, amely erőt, lelki kapaszkodót kínál annak, aki az adott helyzet elszenvedője volt.

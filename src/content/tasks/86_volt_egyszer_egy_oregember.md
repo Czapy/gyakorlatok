@@ -20,8 +20,6 @@ keywords:
 attachment: "86_volt_egyszer_egy_oregember.pdf"
 ---
 
-# Volt egyszer egy öregember
-
 A csoport tagjai körben állnak.
 
 A játékvezető a következő mesét mondja: _Volt egy öregember, volt annak egy háromlábú széke. Azt irgette-forgatta, bolond, aki …_

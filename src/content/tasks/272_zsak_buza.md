@@ -15,8 +15,6 @@ keywords:
 attachment: "272_zsak_buza.pdf"
 ---
 
-# Zsák búza
-
 Azonosulásra épülő lazító játék. Karnyújtásnyi távolságra, körben állnak a résztvevők.
 
 Instrukció:

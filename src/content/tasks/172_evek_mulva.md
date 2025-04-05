@@ -21,8 +21,6 @@ keywords:
 attachment: "172_evek_mulva.pdf"
 ---
 
-# Évek múlva
-
 A tanár egy olyan táblázatot készít elő, majd sokszorosít minden diák számára, amelynek vízszintes soraiban az alábbi célterületek jelennek meg: tanulási / karrierépítési / családi / pénzügyi / egészségi célok. A kategóriák melletti két oszlop fejlécében pedig az szerepel, hogy 5 év múlva, illetve 20 év múlva.
 
 Mindenki kap egy űrlapot. A két oszlop tetejére odaírják, hogy hány évesek lesznek 5 és 20 év múlva, majd mind az öt területen belül megpróbálják leírni, hogy milyen célt fogalmaznak meg maguknak rövidebb és hosszabb távon.

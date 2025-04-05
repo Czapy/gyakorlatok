@@ -24,8 +24,6 @@ keywords:
 attachment: "175_a_media_hatasai.pdf"
 ---
 
-# A média hatásai
-
 A diákok párokat alkotnak, és két-két percben olyan TV-adásokhoz, filmekhez és/vagy számítógépes játékokhoz kapcsolódó emlékeket idéznek fel, amelyekről úgy érzik, hogy legalább egy ideig erős hatással voltak érdeklődésük, ízlésük, gondolataik, vágyaik alakulására. Azt is elmondják egymásnak, hogy milyen hatást váltottak ki belőlük ezek a dolgok.
 
 Mindenki körbe ül, és röviden összefoglalja, hogy melyek voltak a párjára leginkább hatást gyakorló médiaelemek, és mi volt a hatásuk lényege.

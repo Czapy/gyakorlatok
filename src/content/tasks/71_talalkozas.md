@@ -19,7 +19,5 @@ keywords:
 attachment: "71_talalkozas.pdf"
 ---
 
-# Találkozás
-
  Körben, szorosan egymás mellett, a társak derekára tett kézzel áll a csoport. Egy-egy játékos a körön belül, illetve kívül helyezkedik el. A feladat: a körön kívül és belül álló játékosoknak találkozniuk kell, a többieknek pedig meg kell ezt akadályozniuk.  
   

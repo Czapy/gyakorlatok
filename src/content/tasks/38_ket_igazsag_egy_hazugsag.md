@@ -23,8 +23,6 @@ keywords:
 attachment: "38_ket_igazsag_egy_hazugsag.pdf"
 ---
 
-# Két igazság és egy hazugság
-
 A csoporttagok feladata az, hogy három állítást fogalmazzanak meg magukkal kapcsolatban. Ebből kettő igaz és egy hamis. A csoport tagjai megpróbálják kitalálni mindenki esetében, melyik a hazug állítása, és ebben fontos, hogy konszenzusra jussanak (azaz mindenki értsen egyet benne).
 
 Adjon időt a tagoknak, hogy kitalálják a három állítást.

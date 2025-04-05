@@ -18,8 +18,6 @@ keywords:
 attachment: "14_elo_szoborcsoport.pdf"
 ---
 
-# Élő szoborcsoport
-
 Egy-egy játékos vagy játékosok egy-egy csoportja kitalál egy témát, amiből a többiek beállításával állóképet formál. Lehet ez pl. egy film jelenete, ismert festmény, beszédet tartó politikus, kirakati bábuk, hétvégi piaci nyüzsgés. Amikor felállt a jelenet, a nem játszóknak ki kell találniuk, mit ábrázol az állókép.
 
  **Változat 1:** A játékvezető előre megmondja a "megépítendő" szobor címét. A játékosok ezt anélkül alkotják meg, hogy előre megbeszélnék egymással. Egy ember elkezdi, majd utána sorban mindenki beépül a képbe. Az egész csoport vegyen részt benne!

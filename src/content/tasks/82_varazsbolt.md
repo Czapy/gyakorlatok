@@ -21,8 +21,6 @@ keywords:
 attachment: "82_varazsbolt.pdf"
 ---
 
-# Varázsbolt és varázskuka
-
 Meséljük el a csoportnak, hogy létezik egy Varázsbolt, ahol az emberek tulajdonságokat vásárolhatnak maguknak. Mindenki azt, amit szeretne, amire úgy érzi, szüksége van.
 
 A gyerekek, fiatalok feltehetően azokat a tulajdonságokat fogják megvásárolni, amivel nem rendelkeznek, ami a hiányosságuk.

@@ -25,8 +25,6 @@ keywords:
 attachment: "234_tanc_a_fatorzson.pdf"
 ---
 
-# Tánc a fatörzsön
-
 Kérjük meg a csoport tagjait, hogy lépjenek fel a fatörzsre. A cél, hogy a résztvevők a keresztnevük szerint ABC sorrendbe álljanak a fatörzsön a gyakorlat végére.
 
 Mindenkinek a fatörzsön kell maradnia, amikor valaki megérinti a talajt bármilyen testrészével, a csoportnak újra kell kezdenie a feladatot, beállnak tehát az eredeti pozícióba.

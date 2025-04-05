@@ -31,7 +31,5 @@ keywords:
 attachment: "239_igen_de.pdf"
 ---
 
-# Igen, de…, Igen, és…
-
  A résztvevők párokban dolgoznak, az lesz a feladatuk, hogy megszervezzenek egy karácsonyi partit az iskolájuk/cégük számára mint a diáktanács/a cég marketing osztályának tagjai. Az egyikük fő feladata lesz, hogy kezdeményezze a tervezést: ötletekkel, újításokkal álljon elő. A másik résztvevő szerepe, hogy minden válaszában „Igen, de…” kezdetű mondattal reagáljon. A pár szerepcseréje után a kezdeményező, tervező ötletekre a válasz minden mondat esetében „Igen, és…” kezdetű legyen. Mindkét beszélgetés 5-5 percig tartson. A gyakorlat végrehajtása után a tapasztalatok megbeszélésére kerül sor.  
   

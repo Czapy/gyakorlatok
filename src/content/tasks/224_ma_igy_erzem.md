@@ -22,8 +22,6 @@ keywords:
 attachment: "224_ma_igy_erzem.pdf"
 ---
 
-# Ma így érzem magam
-
 A játékosok megkapnak egy lapot az alábbi érzelmekkel:
 
 Boldog vagyok. Beteg vagyok. Jól vagyok. Gyönyörű vagyok. Vesztes vagyok, Győztes vagyok. Hülye vagyok. Minden rendben van. Pletykás vagyok, Kétbalkezes vagyok. Unatkozom. Ideges vagyok. Sikeres vagyok. Csodás vagyok. Szerethető vagyok. Hibás vagyok valamiért. Szomorú vagyok. Okos vagyok. Össze vagyok zavarodva. Jó tanár vagyok. Jó ember vagyok. Lassan tanulok. Nem vagyok jól. stb.

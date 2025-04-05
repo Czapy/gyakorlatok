@@ -19,7 +19,5 @@ keywords:
 attachment: "238_helycsere.pdf"
 ---
 
-# Helycsere
-
  A játékosok körben ülnek, egyikük középre áll, neki tehát nincs széke. Mond egy tulajdonságot. Akik ezt magukra igaznak érzik, azoknak gyorsan helyet kell cserélniük. Természetesen az is igyekszik leülni, aki a tulajdonságot mondta. Akinek nem jut szék, az áll be középre, ő mondja a következő tulajdonságot.  
   

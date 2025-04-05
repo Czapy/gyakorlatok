@@ -30,8 +30,6 @@ keywords:
 attachment: "76_tovabb_a_kort.pdf"
 ---
 
-# Tovább a kört!
-
 A résztvevők kört alkotnak, és megfogják egymás kezét. A csoportvezető megkér két csoporttagot, hogy engedjék el egymás kezét, és egy karikát (vagy kötélből kört) helyez el közöttük, az egyikőjük karján. Majd megkéri őket, hogy fogják meg egymás kezét.
 
 A csoportnak az a feladata, hogy ezt a karikát juttassák körbe, vissza a kiindulási pontra anélkül, hogy a kezeiket elengednék. A karikán átlépni, átbújni szabad. Kérjük meg a csoportot, hogy becsülje meg: mennyi időre van szüksége a feladat végrehajtásához.

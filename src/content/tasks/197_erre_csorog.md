@@ -21,8 +21,6 @@ keywords:
 attachment: "197_erre_csorog.pdf"
 ---
 
-# Erre csörög
-
 Kiküldünk egy játékost a teremből, és megkérünk valakit, hogy a hangot adó tárggyal (például halkra állított mobiltelefonnal) helyezkedjen el valahol a teremben.
 
 Behívjuk a játékost, bekötjük a szemét, és arra kérjük, hogy találja meg a hang forrását. Ne rendezzük át a termet, így akadályok is képződnek, ami nehezíti a feladatot.

@@ -23,8 +23,6 @@ keywords:
 attachment: "48_lepjen_elore.pdf"
 ---
 
-# Lépjen előre az, aki…
-
 Jelöljön ki egy kezdő vonalat és egy végcélt. A csoport az alapvonalon felsorakozik, és a feladata az, hogy eljusson a célig, közösen. A csoportvezető feltesz egy kérdést, majd átadja a kérdés feltevés jogát a csoportnak. Aki igennel válaszol a kérdésre, az egyet előrelép. Tehát érdemes olyan kérdéseket feltenni, amire minél több ember válaszol igennel: ezek lesznek a csoport közös jellemzői.
 
 Akkor van vége a gyakorlatnak, ha mindenki beért a célba.

@@ -20,8 +20,6 @@ keywords:
 attachment: "90_bagoly.pdf"
 ---
 
-# Bagoly
-
 A gyakorlat: mindenki álljon csukott szemmel! A gyakorlatvezető, például a játékos vállát megérintve, kijelöl valakit, ő lesz a bagoly. A kijelölt játékos nem szólhat egy szót sem, csak kinyitja a szemét.
 
 A gyakorlatvezető jelzésére a többi játékos csukott szemmel, kinyújtott kézzel óvatosan elindul a teremben, vigyázva egymásra. Ha valakihez hozzáérnek megkérdezik a megérintett játékost, hogy: - Bagoly? Ha a másik játékos ugyanígy kérdez vissza, akkor nem találta meg az igazi baglyot, tovább kell keresgélnie csukott szemmel.

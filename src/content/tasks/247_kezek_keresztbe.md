@@ -17,8 +17,6 @@ keywords:
 attachment: "247_kezek_keresztbe.pdf"
 ---
 
-# Kezek keresztbe
-
 Körben ülünk. Mindkét kezünket a két szomszédunk térdeire tesszük és fordítva, így a kezeink keresztezik egymást.
 
 A játék szabálya egyszerű. Egy kézcsapásnál tovább halad a kör, kettőnél megfordul. Aki(nek a keze) elvéti, kiesik (az a kéz) a játékból. Addig játszunk, amíg el nem fogynak a kezek.

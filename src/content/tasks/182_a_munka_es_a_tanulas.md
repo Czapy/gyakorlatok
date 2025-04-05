@@ -18,8 +18,6 @@ keywords:
 attachment: "182_a_munka_es_a_tanulas.pdf"
 ---
 
-# A munka és a tanulás
-
 A diákok arról beszélgetnek, hogy ki rendelkezik már valamilyen munkatapasztalattal: függetlenül attól, hogy azt fizetésért vagy családon belül, illetve önkéntes munka keretében végzett tevékenységgel szerezte.
 
 Az élmények felidézése után 3-4 fős csoportok alakulnak, s minden csoport kap egy kettéosztott lapot. A feladat olyan jellemzők összegyűjtése, amelyekben hasonlít egymásra a tanulás és a munkavégzés, illetve amiben különbözik egymástól ez a kétféle tevékenység. A hasonlóságokat a lap egyik, az eltérő vonásokat pedig a lap másik felére írják.

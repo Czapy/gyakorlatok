@@ -20,8 +20,6 @@ keywords:
 attachment: "260_szembekotos_helycserevel.pdf"
 ---
 
-# Szembekötős helycserével
-
 Körben ülünk. Egy székkel kevesebb van a körben, mint amennyien vagyunk.
 
 A kör közepén állónak bekötjük a szemét.

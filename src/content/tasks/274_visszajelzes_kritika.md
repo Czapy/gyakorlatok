@@ -41,8 +41,6 @@ keywords:
 attachment: "274_visszajelzes_kritika.pdf"
 ---
 
-# Visszajelzés vagy kritika?
-
 A gyakorlat célja, hogy a résztvevők különbséget tudjanak tenni a kritika és a visszajelzés között, és a saját élményű gyakorlat alatt felismerjék és tudatosítsák a közben bennük keletkező érzéseket.
 
 A csoporttagok párokba rendeződnek („A” és „B”), jó, ha az egymást jól ismerők kerülnek egy párba. A csoportvezető elmondja, hogy a párok közeli osztálytársak/munkatársak, akik már évek óta együtt dolgoznak.

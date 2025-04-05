@@ -28,8 +28,6 @@ keywords:
 attachment: "41_konfrontalodunk.pdf"
 ---
 
-# Konfrontálódunk?
-
 A résztvevők játékos formában kaphatnak szemléletes képet konfliktusokról és azok kezeléséről azáltal, hogy közvetlenül szembesülnek saját konfrontálódó viselkedésük másokra gyakorolt hatásával.
 
 A csoport tagjai egymással szemben, párban állnak, a tenyerüket összerakják. A csoportvezető felszólítására nyomják és tolják egymást mindaddig, amíg a csoportvezető le nem állítja a feladatot (30-60 mp).

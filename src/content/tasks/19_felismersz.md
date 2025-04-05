@@ -20,8 +20,6 @@ keywords:
 attachment: "19_felismersz.pdf"
 ---
 
-# Felismersz?
-
 A gyerekeket sorba ültetjük. A játékos alaposan megfigyeli őket: mit viselnek, hogyan hordják a hajukat stb.
 
 Ha kész van, akkor bekötjük a szemét és megkérjük, hogy keresse meg valamelyik társát. Közben a játékosok cserélhetnek sapkát, szemüveget stb.

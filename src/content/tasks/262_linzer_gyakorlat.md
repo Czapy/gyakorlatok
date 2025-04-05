@@ -27,8 +27,6 @@ keywords:
 attachment: "262_linzer_gyakorlat.pdf"
 ---
 
-# Linzer gyakorlat
-
  A csoport tagjai párokba rendeződnek, majd egy külső és egy belső kört alkotnak olyan módon, hogy a pár egyik tagja a külső, a másik tagja a belső körben áll egymással szembefordulva. A gyakorlat vezetője különböző témákat nevez meg, amelyekről a párok egy meghatározott időtartam alatt beszélgetnek. Ennek az időtartamnak a felében az egyik fél a beszélő, a másik figyeli, esetleg kérdéseket tesz fel, majd szerepet cserélnek. A témák váltásánál a két körben elhelyezkedő résztvevők egymással ellentétes irányban elindulnak, és amikor a vezető jelt ad, megállnak, és szembefordulnak az új párjukkal. A témák kezdetben mindennapi, könnyed dolgok, majd egyre komolyabb és intimebb kérdések kerülnek szóba. A témák komolyabbá válásával nő a rászánt időtartam.**Példa az alkalmazható témasorra:** 
 * _A kedvenc étele (1 perc)._
 * _A múlt hétvégi programja (1,5 perc)_

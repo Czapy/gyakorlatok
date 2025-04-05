@@ -25,8 +25,6 @@ keywords:
 attachment: "55_mocsarjaras.pdf"
 ---
 
-# Mocsárjárás
-
 A játékosok egyes oszlopba állnak. Kijelöljük a „mocsár” elejét és végét.
 
 Minden résztvevőnek adunk 2-2 „követ” (kartonpapírt vagy textíliát), mindképpen olyat, ami nem csúszik a földön.

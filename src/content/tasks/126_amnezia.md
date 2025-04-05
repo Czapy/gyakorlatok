@@ -22,8 +22,6 @@ keywords:
 attachment: "126_amnezia.pdf"
 ---
 
-# Amnézia
-
 A gyakorlat feltétele, hogy a csoporttagok jól ismerjék egymást. Egy önként jelentkezőt amnéziával „diagnosztizálunk”, ismertetjük vele, hogy semmire nem emlékszik a múltból.
 
 A csoport többi tagjának a feladata, hogy olyan dolgokat idézzen fel, amely segíti az illetőt az emlékezésben. Olyan jellegzetes dolgokat kell tehát mondaniuk, amelyek jellemzők rá: kedvenc szavai és kifejezései, az osztálybeli viselkedése, a felnőttekkel való magatartása, bizonyos szituációkban játszott szerepe, az ezekről alkotott véleménye stb.

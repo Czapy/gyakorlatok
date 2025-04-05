@@ -28,8 +28,6 @@ keywords:
 attachment: "9_csomo_vagy_nem_csomo.pdf"
 ---
 
-# Csomó vagy nem csomó
-
 A csoporttagok párokat alkotva körben ülnek, és megkérünk mindenkit, hogy becsukott szemmel forduljanak el, ne lássák azt, amit a kör közepén csinálunk. A kötélből hurkokat, csavarokat és tekeréseket képezünk a földön úgy, hogy első pillanatra ne legyen nyilvánvaló, hogy ha a kötél két végét meghúzzuk, keletkezik-e rajta csomó vagy nem.
 
 A pároknak az lesz a feladata, hogy jussanak konszenzusra abban a tekintetben, hogy ha a két végét meghúzzuk, keletkezik-e rajta csomó vagy sem (vagy a hurkok, csavarok egyszerűen szétcsúsznak és a kötél egyenes marad). A párok, miután döntésre jutottak, nagycsoportban mondják el azt.

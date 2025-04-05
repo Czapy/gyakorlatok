@@ -25,7 +25,5 @@ keywords:
 attachment: "232_pattano_info.pdf"
 ---
 
-# Pattanó info
-
  Egy önkéntes játékos beáll a kör közepére, nála van a labda. Odadobja valakinek a labdát, akinek 5 másodpercen belük mondania kell valamit magáról. Majd visszadobja a középen állónak, aki tovább passzolja a labdát. Ha valaki nem tud mondani valamit magáról 5 másodpercen belül, amikor nála van a labda, helyet cserél a középen állóval.  
   

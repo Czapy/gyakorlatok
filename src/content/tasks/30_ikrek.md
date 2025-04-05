@@ -24,8 +24,6 @@ keywords:
 attachment: "30_ikrek.pdf"
 ---
 
-# Ikrek
-
 Irányított párválasztó játékkal alakítsunk párokat a diákokból! A feladatuk az lesz, hogy egymás mögé állva a hátul álló tegye előre két karját az előtte álló hóna alatt, miközben ő az egyik kezében tartsa a szöveget tartalmazó papírt, a másik kezét pedig tegye hátra!
 
 Az elöl álló mondja a verset, a hátul álló gesztikulálással kísérje a mondanivalót!

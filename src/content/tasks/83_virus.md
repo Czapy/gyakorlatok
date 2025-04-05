@@ -23,8 +23,6 @@ keywords:
 attachment: "83_virus.pdf"
 ---
 
-# Vírus
-
 A játéktéren terítsünk le egy lepedőt: ez lesz a „kórház”. A játékosok számától függően a játékvezető kiválaszt 1-2 vagy 3 „vírushordozót”, akik a többieket kergetik. azzal terjesztik a betegséget, hogy hozzáérnek a társaikhoz (a vírusok kendőt viselnek, hogy meg tudjuk őket különböztetni).
 
 Az a játékos, akit megérintett a vírushordozó, lefekszik a földre. A többi játékos úgy tudja megmenteni őt, hogy beszállítják a kórházba, azaz elviszik a lepedőre. Ezután újra bekapcsolódhat a játékba.

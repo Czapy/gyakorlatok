@@ -22,8 +22,6 @@ keywords:
 attachment: "155_munkaido_szabadido.pdf"
 ---
 
-# Munkaidő – szabadidő
-
 Előkészítés:
 
 A tanár egyszerű űrlapot készít, amelynek oszlopfejlécein a hét napjainak nevei szerepelnek. Sorainak elején pedig egy dolgozó felnőtt legjellemzőbb tevékenységei (munkához kapcsolódó közlekedés, munkavégzés, alvás, étkezés, pihenés – szabadidős tevékenységek). Minden diák kiválaszt egy dolgozó felnőttet a saját környezetéből, és megkéri, hogy segítsen neki kitölteni a heti időbeosztását áttekintő táblázatot. A tanulók összesítik a megkérdezett felnőtt által a különféle tevékenységtípusokra fordított heti idő mennyiségét, kiszámolják ezek egymáshoz viszonyított százalékos arányait. Az így előkészített lappal jönnek el a foglalkozásra.

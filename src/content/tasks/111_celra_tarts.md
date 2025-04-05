@@ -20,8 +20,6 @@ keywords:
 attachment: "111_celra_tarts.pdf"
 ---
 
-# Célra tarts!
-
 A diákok ötletbörze keretében olyan távlati célokat azonosítanak, amelyek nagy valószínűséggel mindannyiuk számára fontosak. Minden közösnek látszó cél felkerül egy nagy csomagolópapírra. Ezután szavazással kiválasztják, hogy valamilyen szempont szerint (pl. a személyes boldogság, egy jó munkahely megszerzése stb.) melyik az a cél, ami a többség számára az adott pillanatban a legfontosabbnak tűnik.
 
 Valamilyen módszerrel 3-4 fős csoportok alakulnak. Minden csoport kap egy munkalapot, amelyen a kitűzött célok elérésének alábbi lépései olvashatók, a gondolatok lejegyzéséhez szükséges hely biztosításával:

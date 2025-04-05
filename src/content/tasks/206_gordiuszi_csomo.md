@@ -22,7 +22,5 @@ keywords:
 attachment: "206_gordiuszi_csomo.pdf"
 ---
 
-# Gordiuszi csomó
-
  8-10 fős csoportokra osztjuk a nagy csoportot. A kis csoportok szorosan körben állnak úgy, hogy a résztvevők válla összeér. Ekkor behunyják a szemüket és előre nyújtva a karjukat, megfognak egy-egy kezet, amihez hozzáérnek, amit éppen érzékelnek. Fontos, hogy mindenki mindkét kezét fogják valakik, kéz „ne maradjon üresen”. Ekkor a résztvevők kinyitják a szemüket, a feladat a gordiuszi csomót kibontani úgy, hogy ne szakadjon szét a lánc, ne engedjék el a résztvevők egymás kezét. (Ehhez át kell lépni, bújni a láncon, ki kell fordulni a körből).  
   

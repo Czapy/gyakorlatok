@@ -23,8 +23,6 @@ keywords:
 attachment: "248_konyvborito.pdf"
 ---
 
-# Könyvborító
-
 5-6 fős kiscsoportokban célszerű elvégezni a gyakorlatot. Minden csoport kap egy A/3-as lapot.
 
  **Instrukciók** (az egyes instrukciók között tartsunk annyi szünetet, hogy a csoportok végre tudják hajtani az adott feladatot)

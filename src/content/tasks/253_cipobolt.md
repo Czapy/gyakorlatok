@@ -19,8 +19,6 @@ keywords:
 attachment: "253_cipobolt.pdf"
 ---
 
-# Cipőbolt
-
 A játékvezető elmond egy rövid történetet, amelynek végén egy kérdést tesz föl. Arra kéri a résztvevőket, hogy jól figyeljenek, és a kérdésre fejben adják meg a választ.
 
 _Egy kisvárosi cipőboltba bemegy valaki nyitás után, és vesz magának egy cipőt 6 ezer forintért. Az áruért tízezres bankjeggyel fizet. A boltosnak még nincs pénze a kasszában, ezért a szomszédos postára megy, és fölváltja a tízezrest. Odaadja a cipőt és a visszajáró pénzt a vevőnek, aki ezután távozik. Félóra múlva bejön a boltba a postás, és közli, hogy a nemrégen fölváltott tízezres bankjegy hamis. Ezért arra kéri a boltost, hogy vegye vissza, és adjon helyette jó pénzt, mert csakis tőle származhat a hamis pénz. A boltos odaad tízezer forintot a postásnak, és megsemmisíti a hamis tízezrest._ _**Mennyi a boltos vesztesége, ha nem számítjuk a cipő árát?**_

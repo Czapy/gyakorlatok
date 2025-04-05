@@ -24,8 +24,6 @@ keywords:
 attachment: "162_mivel_dolgozik.pdf"
 ---
 
-# Mivel dolgozik?
-
 Előkészítés:
 
 A tanár olyan képeket gyűjt össze (újságokból vagy az internetről), amelyek különféle gyakorlatias munkákat végző embereket ábrázolnak.

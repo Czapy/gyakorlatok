@@ -23,8 +23,6 @@ keywords:
 attachment: "242_kartyakor.pdf"
 ---
 
-# Kártyakör
-
 **A játék előkészítése:** Két kört alakítsunk ki kb. 6-7 méterre a kezdővonaltól. A két körben két különböző formát szórjunk szét, egymástól egyenlő távolságra, képpel felfelé.
 
  **A játék menete:**

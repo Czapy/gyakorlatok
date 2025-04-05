@@ -24,8 +24,6 @@ keywords:
 attachment: "11_dobd_be.pdf"
 ---
 
-# Dobd be!
-
 A csapat minden tagja a megállapodás szerint 2-4 labdát fog dobni a szemetes kosárba – bekötött szemmel! A játékosok felállnak a céltól 2-3 méterre. Dobás előtt megforgatjuk őket, vagy áthelyezzük a célt. Társai instruálják őt. A találatokat számoljuk. (Megkérdezhetjük a csapatot a játék elkezdése előtt, hogy mennyi találatot várnak.)
 
 Találatnak számít a bedobott, de kipattant eszköz is.

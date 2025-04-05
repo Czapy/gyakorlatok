@@ -21,8 +21,6 @@ keywords:
 attachment: "279_aforizmak_eroszakrol.pdf"
 ---
 
-# Aforizmák az erőszakról
-
 Az osztály három részre oszlik, és ezen belül 3-4 fős kiscsoportok alakulnak. A foglalkozás vezetője háromféle feladatlapot oszt ki.
 
 A táblára felkerülnek a végrehajtandó feladatok (esetleg projektorral kivetítik ezeket), és az egyes kiscsoportok a saját témájuknak megfelelően elvégzik őket.

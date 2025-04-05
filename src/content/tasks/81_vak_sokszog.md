@@ -25,8 +25,6 @@ keywords:
 attachment: "81_vak_sokszog.pdf"
 ---
 
-# Vak sokszög
-
 Minden résztvevőnek bekötjük a szemét A kötél két végét összekötjük és a földre tesszük. A résztvevők feladata, hogy az egyik kezüket mindig a kötélen tartva kialakítsanak a kötélből egy megadott sokszöget.
 
 Amikor a csoporttagok úgy érzik, kialakították az adott geometriai formát, levehetik a kendőt és ellenőrizhetik. Először érdemes könnyebb alakzatokkal kezdeni: négyzet, háromszög, majd fokozatosan nehezíteni (pl.: csillag).

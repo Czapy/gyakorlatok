@@ -21,8 +21,6 @@ keywords:
 attachment: "183_mire_tanitanak_a_tantargyak.pdf"
 ---
 
-# Mire tanítanak a tantárgyak?
-
 A tanár előzetesen készít néhány kártyát, amelyekre olyan tantárgyak neveit írja fel, amiket a diákok tanulnak (pl. matematika, történelem, testnevelés, magyar nyelv és irodalom, informatika, biológia és/vagy bármi más).
 
 A tanulók ötletbörze keretében különféle munkákat, foglalkozásokat neveznek meg. Valaki felírja a tábla egyik felére az elhangzó szavakat.

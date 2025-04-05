@@ -20,8 +20,6 @@ keywords:
 attachment: "61_paros_bemutatkozas.pdf"
 ---
 
-# Páros bemutatkozás
-
 Párokat alakítunk, ha van rá lehetőség, úgy, hogy fiúk és lányok kerüljenek párba, és a párok tagjai korábbról ne ismerjék egymást. A párok tíz percre elvonulnak beszélgetni, és ezalatt minél több dolgot igyekeznek megtudni egymásról (5-5 perc jut egy-egy résztvevőre, érdemes 5 perc után jelezni, hogy cseréljenek).
 
 A tíz perc letelte után mindenki visszatér, és bemutatja párját a csoportnak, illetve válaszol a feltett kérdésekre.

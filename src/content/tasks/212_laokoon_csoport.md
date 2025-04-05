@@ -22,8 +22,6 @@ keywords:
 attachment: "212_laokoon_csoport.pdf"
 ---
 
-# Szoborcsoport
-
 A csoportnak létre kell hoznia egy szoborcsoportot úgy, hogy azzal valamilyen érzést vagy történetet fejezzenek ki.
 
 Az első játékos (aki elég bátor kezdeni) megdermed a terem közepén egy általa választott pózban. Odamegy a következő játékos, és megpróbál hozzákapcsolódni úgy, hogy megérinti valamelyik pontján a „szobrot”. Hívjuk fel a figyelmet a „nem illő” érintésekre!

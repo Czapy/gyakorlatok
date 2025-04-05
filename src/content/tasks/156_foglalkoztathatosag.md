@@ -23,8 +23,6 @@ keywords:
 attachment: "156_foglalkoztathatosag.pdf"
 ---
 
-# Foglalkoztathatóság
-
 Előkészítés: a tanár fogalom- és definíciós kártyákat készít az alábbi tartalommal:
 
 * _Kommunikációs készség_ \= Képes meghallgatni másokat, és továbbítja a szerzett információt a megfelelő személyhez/személyekhez.

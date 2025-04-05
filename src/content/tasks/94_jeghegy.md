@@ -25,8 +25,6 @@ keywords:
 attachment: "94_jeghegy.pdf"
 ---
 
-# Jéghegy
-
 A gyakorlat menete: a térben elhelyezzük az újságpapírokat a földön kinyitva. A játékosok közöttük sétálgatnak. A játékvezető elkiáltja magát: - Jéghegy!, mire a játékosoknak fel kell kapaszkodniuk a „jéghegyekre” (újságokra) úgy, hogy ne lógjanak le róla.
 
 Akinek valamely testrésze érinti a talajt, az kiesik a játékból (esetleg vezetheti tovább ő a játékot, lehet „bíró”vagy megfigyelő ).

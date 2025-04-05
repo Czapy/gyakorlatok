@@ -21,8 +21,6 @@ keywords:
 attachment: "178_merre_tovabb.pdf"
 ---
 
-# Merre tovább?
-
 A tanár bemutatja a diákoknak a következő helyzetet:
 
 Dóri az ország egyik legjobb gimnáziumába járt, és mindig jó tanulmányi eredményei voltak. 16-17 éves korában az orvosi egyetemre készült, oda is adta be a jelentkezési lapját. Az érettségi évében azonban egyre bizonytalanabb lett a jövőre vonatkozó terveit illetően. A tél közepén talált rá egy felhívásra, amelynek kitöltésével egy éves önkéntes munkára lehetett pályázni különféle európai városokba. A középiskola befejezése utáni nyáron egyszerre kapta meg az orvosi egyetemre való felvételről szóló értesítést, és azt a levelet, hogy várják egy belgiumi gyerekotthonba a jövő tanév idejére.

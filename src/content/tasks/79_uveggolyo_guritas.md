@@ -25,8 +25,6 @@ keywords:
 attachment: "79_uveggolyo_guritas.pdf"
 ---
 
-# Üveggolyó gurítás
-
 A csoport minden tagja kap egy PVC sínt, amelyben az üveggolyót a cső egyik végétől a másikig gurítja. A feladat végrehajtása előtt a csoport megbecsüli, hogy mennyi időre lesz szüksége ahhoz, hogy egy golyót az első embertől az utolsóig eljuttasson.
 
 Amikor az üveggolyó az egyik sínen végiggurult, át kell adni azt a következő játékosnak úgy, hogy a sínek nem érintkezhetnek, és a gurítás közben az ujjak nem érhetnek a golyóhoz.

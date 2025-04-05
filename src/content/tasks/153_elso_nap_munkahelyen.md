@@ -19,8 +19,6 @@ keywords:
 attachment: "153_elso_nap_munkahelyen.pdf"
 ---
 
-# Első nap a munkahelyen
-
 Ráhangolásként a foglalkozás vezetője arról beszél a diákoknak, hogy a munkahelyi közérzet és a teljesítmény szempontjából is sok múlik azon, hogy milyen benyomást kelt valaki a kollégáiban, amikor először lép be közéjük. Ha vannak ezzel kapcsolatos személyes élményei, akkor ezekről is mesél a fiataloknak.
 
 A tanulók elképzelnek maguknak egy leendő munkahelyet, ahol szívesen kezdenék felnőtt pályájukat. Átgondolják, hogyan öltöznének fel, hogyan mutatkoznának be, miként tájékozódnának, hogyan töltenék el az első napot az új helyen. Mindenki készít egy listát arról, hogy mi lenne az, amire mindenképp figyelni szeretne majd ezen a napon.

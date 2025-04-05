@@ -18,8 +18,6 @@ keywords:
 attachment: "78_uljunk_egymas_olebe.pdf"
 ---
 
-# Üljünk egymás ölébe!
-
 Fontos, hogy a csoport létszáma legalább 10 fő legyen.
 
 A résztvevők egymás kezét fogva kört alkotnak, majd megkérjük őket, hogy mindenki forduljon el ugyanabba az irányba 90 fokot. Mindenki a másik hátát látja, válluk a kör közepe felé áll.

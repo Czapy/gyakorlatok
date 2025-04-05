@@ -22,8 +22,6 @@ keywords:
 attachment: "154_szabadido_gazdalkodas.pdf"
 ---
 
-# Szabadidő-gazdálkodás
-
 Előkészítés:
 
 A diákok felidézik egy átlagos szombati napjukat. Olyan tevékenységeket mondanak, amiket gyakran végeznek ilyenkor – beleértve az összes hétköznapi cselekvést is.

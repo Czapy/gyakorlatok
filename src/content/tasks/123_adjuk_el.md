@@ -19,8 +19,6 @@ keywords:
 attachment: "123_adjuk_el.pdf"
 ---
 
-# Adjuk el!
-
 A résztvevők 5-6 fős csoportokban dolgoznak. Minden csoport kap egy újságból kivágott fotót. (Ha van rá mód, jobb ilyenkor kivetített képekkel dolgozni).
 
 5 percet kapnak arra, hogy felkészüljenek a képen látható emberből. Az a feladat, hogy a csoport egy tagja (a munkaközvetítő) „eladja” a fényképen szereplő munkavállalót mint embert és szakembert egy általa választott munkakörben a cégnek.

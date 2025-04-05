@@ -19,8 +19,6 @@ keywords:
 attachment: "62_paros_fogo.pdf"
 ---
 
-# Páros fogó
-
 Miután kijelöltük a játékteret, párokra osztjuk a csoportot. A párok egymásba karolva állnak. Az egyik pár lesz a fogó, majd mindig az a páros lesz az új fogó, akit megfogtak. Mielőtt a fogók elkezdik kergetni a többieket, háromszor meg kell fordulniuk a saját tengelyük körül, hogy az ellenfelek egy kis egérúthoz jussanak.
 
 Szabályok:

@@ -20,8 +20,6 @@ keywords:
 attachment: "127_antireklamok.pdf"
 ---
 
-# Antireklámok
-
 **Instrukció 1.**: Olyan újságkivágásokat, reklámanyagokat, posztereket hoztam nektek, amilyenekkel nap mint nap találkozhattok a magazinokban, az utcán vagy a televízióban, ezeket lerakom középre a földre. Nézzétek meg őket, és fejtsük meg együtt, mit üzennek nekünk ezek a reklámok, milyen életet, milyen életérzést sugallnak a képek, a színek, a szövegek, a szereplők. Mit ígérnek nekünk, ha megvesszük, megisszuk, megesszük…”
 
 A résztvevők spontán reakcióit követő kötetlen beszélgetés után a csoportvezető (szóban vagy tacepaón) összegzi a legfontosabb üzeneteket.

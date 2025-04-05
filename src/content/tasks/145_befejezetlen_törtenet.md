@@ -23,8 +23,6 @@ keywords:
 attachment: "145_befejezetlen_törtenet.pdf"
 ---
 
-# Befejezetlen történet
-
 A gyakorlat segítségével a tanulók arról szerezhetnek tapasztalatot, hogy a konfliktusok többféle módon oldhatók meg.
 
 A foglalkozás vezetője kiválaszt egy olyan valós vagy bármilyen forrásból vett történetet, amelyben konfliktus jelenik meg, és az jól megérthető az adott tanulói csoport számára. Elmeséli a történetet, de befejezetlenül hagyja azt.

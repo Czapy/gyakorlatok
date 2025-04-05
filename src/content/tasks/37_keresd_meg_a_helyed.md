@@ -25,8 +25,6 @@ keywords:
 attachment: "37_keresd_meg_a_helyed.pdf"
 ---
 
-# Keresd meg a helyed!
-
 A kötelet kösse össze és kör alakban tegye le a földre. Fontos, hogy minden résztvevő az egyik lábával odaférjen a kötélhez. Kérje meg a résztvevőket, hogy az egyik lábukkal lépjenek rá a kötélre. A feladatuk az, hogy álljanak sorba névsor szerint (magasság, szemszín, születési hónap és nap szerint).
 
 Két fontos szabály van:

@@ -26,8 +26,6 @@ keywords:
 attachment: "58_nevsor_szeken.pdf"
 ---
 
-# Névsor széken
-
 Felállítjuk a székeket egy sorba, és mindenki feláll egy-egy székre. A feladat: a nevek egyszeri elmondása után névsorba állni a székeken úgy, hogy senki nem léphet le a földre. Közben rá lehet kérdezni társaink nevére, ezzel is segítve az ismerkedést.
 
 Figyelmeztessük a gyerekeket arra, hogy vigyázzanak egymásra, előzzék meg az esetleges baleseteket..

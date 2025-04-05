@@ -33,8 +33,6 @@ keywords:
 attachment: "negyzetek.jpg"
 ---
 
-# Széttöredezett négyzetek
-
 A résztvevőket 5 fős csoportokra osztjuk, úgy, hogy minden csoporthoz egy vagy több megfigyelő is tartozzon. Minden csoportnak az a feladata, hogy a rejtvényt bizonyos feltételek mellett, a játékszabályokat szigorúan figyelembe véve oldja meg. Minden csoporttag egy borítékot kap, amelyben négyzeteket formázó kartonpapír-darabkák vannak. Minden csoportnak öt egyforma nagyságú négyzetet kell kiraknia a borítékokban levő darabokból, minden csoporttag előtt egyet egyet. A játék ideje alatt tilos bárminemű kommunikáció vagy jelbeszéd. Senki sem veheti el mások darabjait, csupán sajátjait adhatja másnak, illetve fogadhatja el másokét, ha azokat felkínálják számára. Ha a csoport végez a feladattal, csendben figyelheti mások munkáját. Akik kimaradnak a csoportokból, azok megfigyelőként vehetnek részt a játékban. Lesz, aki saját maga dönt amellett, hogy megfigyelő legyen. A játék általában sikeresebb, ha két vagy több megfigyelő jut egy csoportra. A megfigyelőknek el kell előre magyarázni, mire figyeljenek, de adhatunk számukra megfigyelői jegyzeteket is. A megfigyelők saját csoportjukon kívül más csoportokat is figyelemmel kísérhetnek.
 
 **A négyzetek elkészítése**

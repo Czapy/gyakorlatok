@@ -19,8 +19,6 @@ keywords:
 attachment: "160_ellenszolgaltatas_nelkul.pdf"
 ---
 
-# Ellenszolgáltatás nélkül?
-
 A tanár megkérdezi a diákokat, hogy mi jut eszükbe, ha a „munka” szót hallják? Ha csak olyan dolgokat mondanak, amelyek a fizetett tevékenységek témakörében mozognak, akkor a saját részre végzett, az önkéntes, illetve társadalmi munka felé is orientálja a gondolkodásukat.
 
 A diákok párokat alkotnak. Egy részük olyan munkákat gyűjt, amelyeket általában fizetésért végeznek az emberek a mai világban. Másik részük pedig olyanokat, amelyek ugyan munkák, de általában anyagi ellenszolgáltatás nélkül végzik az emberek. Az azonos témán dolgozó párok egy-egy nagy lapon összesítik az ötleteiket.

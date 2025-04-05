@@ -18,7 +18,5 @@ keywords:
 attachment: "52_mi_lenne_ha.pdf"
 ---
 
-# Mi lenne, ha…?
-
  Kiküldünk egy embert a csoportból, s ez alatt a többiek gondolnak valakire, aki jelen van a társaságban. A kiküldött játékos visszatérése után kérdéseket tesz fel a játékosoknak a következő módon: "Mi lenne (a gondolt ember), ha virág lenne?", "Mi lenne, ha ország lenne?" stb. A csoport többi tagjának az illetőt az adott helyzetbe beleképzelve kell válaszolnia. A csoport asszociációiból ki kell találni, kire gondoltak.  
   

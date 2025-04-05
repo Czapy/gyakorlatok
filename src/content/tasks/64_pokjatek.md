@@ -19,8 +19,6 @@ keywords:
 attachment: "64_pokjatek.pdf"
 ---
 
-# Pókjáték
-
 A teremben elhelyezünk néhány ruhafogast, esetleg padokat, padra székeket és más tárgyakat teszünk egymásra. Mindenki kap egy gombolyag színes fonalat.
 
 A feladat: úgy beszőni a rendelkezésre álló teret, hogy közben ne érjenek egymás fonalához (a "pókhálóhoz").

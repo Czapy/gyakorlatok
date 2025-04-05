@@ -24,8 +24,6 @@ keywords:
 attachment: "53_mi_vagyunk_a.pdf"
 ---
 
-# Ilyenek vagyunk
-
 A lapot helyezzük középre úgy, hogy a gyerekek körbeállhassák.
 
 A lapra kerüljenek olyan mondatok, jellemzések, amelyek az egész csoportra jellemzőek.

@@ -25,8 +25,6 @@ keywords:
 attachment: "69_szavak_nelkul.pdf"
 ---
 
-# Szavak nélkül
-
 Párokat alkotunk. A párok egyik tagja húz egy feladatot, és kizárólag nonverbális kommunikációval megpróbálja végrehajttatni a társával.
 
 Szabjuk meg előre az időhatárt!

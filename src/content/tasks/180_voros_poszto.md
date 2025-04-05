@@ -24,8 +24,6 @@ keywords:
 attachment: "180_voros_poszto.pdf"
 ---
 
-# Vörös posztó
-
 A tanulók néhány perc alatt összeállítanak egy listát arról, hogy mik azok a dolgok, amikkel mások a legkönnyebben fel tudják dühíteni őket, amit a legnehezebben tudnak szó nélkül eltűrni.
 
 Ezután 3-4 fős csoportok alakulnak és egyesítik az egyéni listák tartalmát. Majd a szóvivők megosztják a dühítő dolgok jegyzékét a többiekkel – miközben készül egy nagy közös lista is, amelyen már minden bosszantó jelenség csak egyszer szerepel. A tanulók, kiválasztva azt a három dolgot, ami számukra a legnehezebben viselhető el, húznak egy-egy vonalat mellé.

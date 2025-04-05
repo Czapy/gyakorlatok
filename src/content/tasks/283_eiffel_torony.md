@@ -24,8 +24,6 @@ keywords:
 attachment: "283_eiffel_torony.pdf"
 ---
 
-# Eiffel-torony
-
 A gyakorlatot játszathatjuk párokban vagy kiscsoportokban is, attól függően, hogy mi a konkrét célunk a gyakorlattal. A párok/ csoportok feladata az, hogy piramist építsenek a kockacukrokból: alapja 3x3, arra 2x2, majd a közepére egymás tetejére kerül 5 db kockacukor. A cukrokat kiszámolva (páronként 26 db – tehát két rontás lehetséges) dobozban adjuk oda, hogy már a kivétele is együttműködést igényeljen.
 
 Adjunk 5 percet a taktika megbeszélésére!

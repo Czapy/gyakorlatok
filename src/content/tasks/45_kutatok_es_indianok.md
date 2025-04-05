@@ -24,8 +24,6 @@ keywords:
 attachment: "45_kutatok_es_indianok.pdf"
 ---
 
-# Kutatók és indiánok
-
 Az osztály két részre kell osztani. Az egyik fele lesz a kutatók csoportja, a másik pedig az indiánoké.
 
 Az indiánok bent maradnak a teremben, míg a kutatók kimennek a teremből.

@@ -19,8 +19,6 @@ keywords:
 attachment: "266_terdre_csapkodos.pdf"
 ---
 
-# Térdre csapkodós
-
 Körben ülünk. Egy székkel kevesebb van a körben, mint amennyien vagyunk.
 
 Mindenki mond „egy helyet, ahol most szívesen lenne” vagy „egy kedvenc elfoglaltságot” vagy „valamit, amihez nagyon ragaszkodik”.

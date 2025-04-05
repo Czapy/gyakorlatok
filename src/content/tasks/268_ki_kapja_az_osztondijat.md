@@ -24,8 +24,6 @@ keywords:
 attachment: "268_ki_kapja_az_osztondijat.pdf"
 ---
 
-# Ki kapja az ösztöndíjat?
-
 _Az iskola lehetőséget kapott arra, hogy a jelenlegi 11\. évfolyam két diákjának az érettségi előtti évben ösztöndíjat adjon. Tíz olyan tanuló van az évfolyamon, aki rászolgált az ösztöndíjra. El kell dönteni, hogy ki legyen a két kedvezményezett._
 
 A csoport valamennyi tagja megkapja a listát.

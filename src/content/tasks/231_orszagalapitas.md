@@ -25,8 +25,6 @@ keywords:
 attachment: "231_orszagalapitas.pdf"
 ---
 
-# Országalapítás
-
 A csoportot osszuk 4-6 fős csapatokra, és kapják meg a következő feladatot:
 
  _Ti és egy nagyobb embercsoport igényt tartottatok egy lakatlan szigetre, ahol új országot szeretnétek alapítani. Titeket választottak ki az új kormányba, az első feladatotok, hogy meghozzátok a következő döntéseket és teljesítsétek a következő feladatokat:_

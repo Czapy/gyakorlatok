@@ -20,8 +20,6 @@ keywords:
 attachment: "213_mit_mondana_rolad.pdf"
 ---
 
-# Mit mondana … rólad?
-
 A gyerekek körbe ülnek. Kérésre mindenki bemutatkozik: elmondja, hogy milyen jó és rossz tulajdonságai vannak, ő milyennek látja önmagát?
 
 Majd kérjük meg, hogy álljon a széke mögé és beszéljen önmagáról úgy, mintha édesapja, édesanyja (osztálytársa, barátja stb.) mondaná!

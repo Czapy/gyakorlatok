@@ -22,8 +22,6 @@ keywords:
 attachment: "116_konfliktusok_a_hirekben.pdf"
 ---
 
-# Konfliktusok a hírekben
-
 A tanár olyan aktuális közéleti eseményeket említ, amelyek jól példázzák, hogy milyen sokféle konfliktus közepette élünk.
 
 3-4 fős csoportok alakulnak. A világháló vagy újságok felhasználásával konfliktusokat bemutató cikkeket keresnek a sajtóban. Főcímeket, rövid kiemeléseket és képeket gyűjtenek (nyomtatnak és/vagy vágnak ki) a hírekből. A nyersanyagból egy közös nagy konfliktus-kollázs készül (csomagolópapírra ragasztva vagy parafa táblára tűzve).

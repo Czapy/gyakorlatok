@@ -27,8 +27,6 @@ keywords:
 attachment: "65_ponyvaforgatas.pdf"
 ---
 
-# Ponyvaforgatás
-
 A csoport minden tagja álljon rá a ponyvára. A közös feladata a ponyva megfordítása anélkül, hogy valaki is leszállna róla vagy érintené a talajt.
 
 Fontos szabály, hogy minden csoporttagnak, folyamatosan érintenie kell a ponyvát, egy pillanatra sem engedheti el.

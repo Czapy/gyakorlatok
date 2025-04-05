@@ -20,8 +20,6 @@ keywords:
 attachment: "92_golya_es_bekak.pdf"
 ---
 
-# Gólya és a békák
-
 A gyakorlat menete:
 
 A kijelölt terület egyik felén felállnak a békák, egy játékost kiválasztunk gólyának. A békák a következő versikét mondják:

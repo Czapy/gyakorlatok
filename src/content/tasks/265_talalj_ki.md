@@ -23,8 +23,6 @@ keywords:
 attachment: "265_talalj_ki.pdf"
 ---
 
-# Találj ki!
-
 Ki kell találni olyan foglalkozásokat, mesterségeket, melyeknek mások még a hírét sem hallhatták. (Pl.: hullámfodrozó, lélekszobrász, csillagtüsszentő)
 
 Meglódítja a fantáziát, ha mesehősöknek keresünk állást.

@@ -23,8 +23,6 @@ keywords:
 attachment: "226_mellek_nev.pdf"
 ---
 
-# MellékNév
-
 A játékosok a papírra írják fel nyomtatott betűvel a keresztnevüket/ becenevüket függőlegesen. Írjanak rájuk jellemző, a nevük betűivel kezdődő tulajdonságokat (pozitív).
 
 pl.

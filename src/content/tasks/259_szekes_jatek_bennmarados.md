@@ -20,8 +20,6 @@ keywords:
 attachment: "259_szekes_jatek_bennmarados.pdf"
 ---
 
-# Székes játék bennmaradással
-
 A csoport tagjai mozognak a székek körül.
 
 Amikor a csoportvezető jelt ad, mindenkinek le kell ülnie.

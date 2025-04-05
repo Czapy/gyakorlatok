@@ -18,8 +18,6 @@ keywords:
 attachment: "144_mint_a_filmben.pdf"
 ---
 
-# Mint a filmben
-
 A gyakorlat lehetőséget teremt egy kiválasztott konfliktus mélyebb megértésére, az elemző beszélgetés és a dramatikus játék eszköztárára építve.
 
 A diákok filmbeli konfliktusokat próbálnak meg felidézni az emlékezetükben. Akinek eszébe jut egy, elmondja a többieknek. Közösen kiválasztják közülük azt, amit a többség a legérdekesebbnek tart. Aki látta a filmet, elmondja a többieknek, mi volt a konfliktus lényege és a háttere, s miként kezelték azt a film szereplői. Ha többen is látták a filmet, megoszthatják egymás között az ismertetés feladatát.

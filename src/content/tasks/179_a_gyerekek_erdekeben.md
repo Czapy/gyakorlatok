@@ -21,8 +21,6 @@ keywords:
 attachment: "179_a_gyerekek_erdekeben.pdf"
 ---
 
-# A gyerekek érdekében
-
 A tanár elmeséli a diákoknak Ádám és Nóra dilemmáját. Nóra családja kiköltözött Kanadába, mikor ő kamasz volt. Nehezen élte meg a váltást, de végül ott fejezte be a tanulmányait, és kettős állampolgárként vált felnőtté. Magyarország azonban visszavonzotta, és itt találta meg a párját is, Ádám személyében. Amikor várandós lett, úgy döntöttek, hogy néhány évre kiköltöznek Kanadába, mert az ott megszülető gyerekek automatikusan az állam polgárává válnak, és úgy vélték, ez komoly előnyt jelenthet majd nekik. Nagyobbik fiúk most tíz éves, a kisebbik pedig nyolc. Mindketten anyanyelvi szinten beszélnek magyarul, angolul és franciául, és jól érzik magukat az iskolában, ahová járnak. A szülők ugyanakkor komolyan fontolgatják, hogy nem kellene-e visszatérniük Magyarországra annak érdekében, hogy gyerekeik a magyar kultúrát is magukba szívhassák. Ugyanakkor félnek is attól, vajon jót tennének-e a fiúknak egy ilyen váltással.
 
 A diákok átgondolják, hogy a gyerekek érdekeit minél több szempontból figyelembe véve, mit tudnának tanácsolni a házaspárnak. Szavaznak róla, és a szavazatoknak megfelelően két csoport alakul.

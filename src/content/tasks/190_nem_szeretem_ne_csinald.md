@@ -24,8 +24,6 @@ keywords:
 attachment: "190_nem_szeretem_ne_csinald.pdf"
 ---
 
-# Nem szeretem! – Akkor ne csináld!
-
 Előkészítés: a tanár a tanulók számának megfelelő mennyiségben sokszorosít egy olyan lapot, amelynek a közepén ennyi áll: „Nem szeretem, nem esik jól.”
 
 Minden tanuló kap egy munkalapot, és öt percen keresztül olyan dolgokat ír le rá, amelyekről biztosan tudja, hogy nem esik jól neki, nem szereti, nem „az ő világa”.

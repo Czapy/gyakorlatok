@@ -26,8 +26,6 @@ keywords:
 attachment: "97_dolgozni_csak_pontosan.pdf"
 ---
 
-# „Dolgozni csak pontosan, szépen…”
-
  A foglalkozás vezetője felolvassa, vagy kivetíti a következő verset:
 
 ### József Attila: Ne légy szeles...

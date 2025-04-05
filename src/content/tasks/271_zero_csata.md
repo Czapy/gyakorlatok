@@ -20,8 +20,6 @@ keywords:
 attachment: "271_zero_csata.pdf"
 ---
 
-# Zéró csata
-
 **A játék előkészítése:** A csoportot osszuk két egyenlő számú csoportra. Helyezzünk el egy kötelet a földön. Az két csapat helyezkedjen el a kötél két oldalán.
 
 **A játék célja:** Minél több játékosa legyen egy-egy csapatnak

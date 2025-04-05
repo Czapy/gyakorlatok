@@ -22,8 +22,6 @@ keywords:
 attachment: "85_test_abc.pdf"
 ---
 
-# Test ABC
-
 A városban két pantomim társulat alakult. A két társulat egy különleges módot alakított ki, a testüket használva betűket formálnak önmagukból – arra, hogy információt közöljenek egymással.
 
  **Szabályok:**

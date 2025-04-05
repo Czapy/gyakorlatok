@@ -19,8 +19,6 @@ keywords:
 attachment: "129_arcrajzolas.pdf"
 ---
 
-# Arcrajzolás
-
 A játékos a kezét mozgatja az arcán, és mintha rajzolna vele, így alakítja a saját mimikáját. A játékvezető vagy egy csoporttárs szóval irányítja a „rajzolást”.
 
 **Példa az irányításra:**

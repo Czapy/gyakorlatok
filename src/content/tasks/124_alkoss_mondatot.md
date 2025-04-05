@@ -21,8 +21,6 @@ keywords:
 attachment: "124_alkoss_mondatot.pdf"
 ---
 
-# Alkoss mondatot!
-
 **A játék célja:** A kártyákat úgy rakjuk egymás után sorba, hogy az egy mondatot alkosson. A kártyák itt nem számértékként szerepelnek, hanem a szám első betűjével játszunk pl: kettesnél a k-val, dámánál a d-vel, bubinál a b-vel.
 
 **A játék menete:** 6-7 fős csoportokat alkotunk. Minden résztvevőnek adunk egy kártyát. Kérjük meg őket, hogy tartsák meg kártyáikat, és ne cseréljék el senkivel. Minden csoportnak egy mondatot kell alkotnia a kártyák értékének kezdőbetűivel.

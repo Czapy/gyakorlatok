@@ -23,8 +23,6 @@ keywords:
 attachment: "67_rajzold_le.pdf"
 ---
 
-# Rajzold le!
-
 A játékosokat párokba állítjuk, leülnek egymásnak háttal. Egyikük rajzol saját lapjára egy nagyon egyszerű, de legalább öt elemű, részletű ábrát, majd megpróbálja a lehető legpontosabban ismertetni, „lediktálni” azt háttal ülő társának, aki ennek alapján lerajzolja ugyanazt az ábrát
 
 Ezután megcseréljük a szerepeket..

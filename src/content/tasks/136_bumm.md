@@ -17,8 +17,6 @@ keywords:
 attachment: "136_bumm.pdf"
 ---
 
-# Bumm
-
 Körben ülünk és sorban elkezdünk számolni. Az első játékos egyet, a második kettőt mond és így tovább. Akire a hetes vagy annak többszöröse jut (vagy olyan szám, aminek a második számjegye hetes), annak a szám helyett bumm-ot kell mondania (pl.: 12, 13, bumm, 15, 16, bumm).
 
 Aki téved, az kiesik. Tévesztésnek számít az is, ha nem rögtön vágja rá a számot a játékos. Tévesztés után elölről kell kezdeni a számolást.

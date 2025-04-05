@@ -23,8 +23,6 @@ keywords:
 attachment: "168_egysegben_az_ero.pdf"
 ---
 
-# Egységben az erő
-
 Kis kártyák készülnek az alábbi idézetekkel:
 
  _„A tehetség megnyerhet egy meccset, de a csapatmunka és az intelligencia együtt bajnokságot nyerhet.” M. Jordan_

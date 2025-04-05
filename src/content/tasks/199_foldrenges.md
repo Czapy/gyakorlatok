@@ -18,8 +18,6 @@ keywords:
 attachment: "199_foldrenges.pdf"
 ---
 
-# Földrengés
-
 **Instrukció**: „A következő játék a jól ismert székes játék lesz, amikor a székek száma körről körre fogy. Egy vállalkozó kedvű résztvevőt megkérünk, hogy álljon ki a körből és kezdjen el mesélni egy történetet, majd amikor kiejti azt a szót, hogy „földrengés”, mindenkinek meg kell próbálnia leülni – akinek nem jut szék, az lesz a következő mesélő!”
 
  **Menete**:

@@ -19,8 +19,6 @@ keywords:
 attachment: "249_kozepkori_evolucio.pdf"
 ---
 
-# Középkori evolúció
-
 Azt mondják, hogy a négy színe a kártyának egyébként is szimbolizálja a középkori Európában fellelhető 4 társadalmi réteget. A pikk a nemeseket, a kör a papokat, a káró a kereskedőket, a treff pedig a parasztokat reprezentálja. Ez az osztályozás, a legmagasabbtól a legalacsonyabbig még mindig meglévő sorrend a bridzsben. A játék célja miatt a négy különböző társadalmi rétegnek megvan a különböző mozdulata.
 
 Parasztok – a parasztokat gyakran látjuk úgy, hogy a disznóólat takarítják, a mozdulat, ami megjelenít egy parasztot az, hogy villával kiganézzuk a disznóólat és a vállunk mögé dobjuk a trágyát.

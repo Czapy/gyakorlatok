@@ -24,8 +24,6 @@ keywords:
 attachment: "70_szemelyisegcsere.pdf"
 ---
 
-# Személyiségcsere
-
 Kérjük meg a játékosokat, hogy gondolják végig és fogalmazzák meg egy-egy mondatban azt, hogy kicsodák is ők, mi a legfontosabb tudnivaló róluk.
 
 Ezután indítsuk el a játékot:

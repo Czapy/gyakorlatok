@@ -26,8 +26,6 @@ keywords:
 attachment: "256_szamcsusztatas.pdf"
 ---
 
-# Számcsúsztatás
-
 **A játék menete:**
 
 Válogassuk ki a kártyákat formák szerint, ásztól bubiig minden színből 11 kártya játszik ebben a játékban. Az ász értéke 1, a bubié 11.

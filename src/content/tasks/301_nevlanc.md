@@ -20,8 +20,6 @@ keywords:
 attachment: "301_nevlanc.pdf"
 ---
 
-# Névlánc
-
 A játékosok körben állnak. A kezdő játékos (valaki a körből) bemondja a nevét. Az egyik szomszédja ezt elismétli, majd hozzáteszi a sajátját is. A következő elsorolja a már elhangzott neveket, majd elárulja a saját nevét is. Az utolsónak már az egész csoport neveit kell elsorolnia.
 
 Ne hagyjuk elhúzódni a játékot, ha túl sokan vannak, a végére unalmassá válhat.  

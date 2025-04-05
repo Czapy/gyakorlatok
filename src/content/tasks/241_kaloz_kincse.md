@@ -14,8 +14,6 @@ keywords:
 attachment: "241_kaloz_kincse.pdf"
 ---
 
-# Kalóz kincse
-
 Egy résztvevő beül a kör közepére, egy székre.
 
 Széke alá helyezünk egy kulcsot vagy egy hasonlóan csörgő tárgyat.

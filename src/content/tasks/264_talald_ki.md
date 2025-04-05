@@ -23,8 +23,6 @@ keywords:
 attachment: "264_talald_ki.pdf"
 ---
 
-# Találd ki
-
 A csoportot annyi csapatra osztjuk, ahány eszközünk van. A csapatok külön ülnek. Minden csapat kiválaszt egy játékost, ő lesz, aki nem hall. Felteszi a fejhallgatót (vagy kiküldjük addig), míg a csapat kitalál egy egyszerű történetet.
 
 Utána elmesélik párbeszédes formában a történetet.

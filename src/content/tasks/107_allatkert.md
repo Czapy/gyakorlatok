@@ -17,7 +17,5 @@ keywords:
 attachment: "107_allatkert.pdf"
 ---
 
-# Állatkert
-
  Egyszerű állatrajzokat készítünk, olyan módon, hogy ahány fős csoportokat szeretnénk, annyi kártyára ugyanazt az állatot (bagoly, kígyó, malac, kutya, macska, egér, stb.) rajzoljuk. Utasítás: „Húzzatok egy cédulát, nézzétek meg, de ne mutassátok meg egymásnak! Az állat hangját utánozva keressétek meg a társaitokat!” Miután minden szereplő megtalálta a csoportját, a csoportok egymás után, kórusban bemutatkoznak egymásnak.  
   

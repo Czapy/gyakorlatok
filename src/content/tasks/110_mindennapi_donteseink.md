@@ -22,8 +22,6 @@ keywords:
 attachment: "110_mindennapi_donteseink.pdf"
 ---
 
-# Mindennapi döntéseink
-
 A csoport tagjai, ötletbörze keretében, néhány percen keresztül életük olyan területeit elevenítik fel, amelyeken különféle személyes döntéseket szoktak hozni.
 
 Ezután mindenki leír öt olyan konkrét döntést, amit a megelőző egy hét során hozott, majd kiválasztja és aláhúzza közülük azt, amelyik számára az adott időszakban a legfontosabb volt.

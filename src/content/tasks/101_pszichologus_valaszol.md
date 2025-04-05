@@ -20,8 +20,6 @@ keywords:
 attachment: "101_pszichologus_valaszol.pdf"
 ---
 
-# Pszichológus válaszol
-
 **Instrukció 1.**: „Vannak olyan élethelyzetek, amikor szükségét érezzük, hogy problémáinkkal szakemberhez forduljunk, megkérdezzük a véleményét, segítséget kérjünk tőle. Találjatok ki egy olyan problémát, amivel egy közkedvelt fiataloknak szóló magazin „pszichológus válaszol” rovatához fordultok, és írjátok meg a segítségkérő levelet. A levél megírására 15 perc áll rendelkezésetekre.”
 
 Papírt-ceruzát adunk mindenkinek, és 15 perc múlva összeszedjük a leveleket.

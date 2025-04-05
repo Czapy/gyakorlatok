@@ -20,8 +20,6 @@ keywords:
 attachment: "100_mondatbefejezes.pdf"
 ---
 
-# Mondatbefejezés
-
 **Instrukció**: „Felírom a táblára egy mondatnak a kezdetét, és arra kérek mindenkit, hogy gondolatban fejezze be a mondatot. Utána meg fogjuk beszélni, hogy ki hogyan fejezné be, és miért pont úgy.” A mondatkezdet: „Az emberek általában…”
 
 A csoportvezető felírja a táblára a mondat kezdetét, és hagy néhány percet gondolkodásra.

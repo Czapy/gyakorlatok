@@ -21,8 +21,6 @@ keywords:
 attachment: "27_hol_a_helyed.pdf"
 ---
 
-# Hol a helyed?
-
 A csoportvezető eldöntendő kérdéseket tesz fel a csoportnak. A csoporttagok a válaszuk alapján állnak egyik, vagy másik térfélre. Addig játsszuk, amíg szórakoztató a gyakorlat. Remek feladat csoportbontásra is.
 
 Néhány példa:

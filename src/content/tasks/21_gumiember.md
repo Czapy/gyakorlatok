@@ -20,8 +20,6 @@ keywords:
 attachment: "21_gumiember.pdf"
 ---
 
-# Gumiember
-
 Párokba állnak a gyerekek. Az egyikük a felfújható gumiember, a másikuk „pumpál”.
 
 A gumiember egyre növekszik, majd társa „kihúzza a szelepet”. A gumiember a lehető legkisebbre megy össze, majd cserélnek.

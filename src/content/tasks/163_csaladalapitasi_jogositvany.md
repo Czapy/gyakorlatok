@@ -19,8 +19,6 @@ keywords:
 attachment: "163_csaladalapitasi_jogositvany.pdf"
 ---
 
-# Családalapítási jogosítvány
-
 Ráhangolásként a tanár megkérdezi a diákokat, hogy szerintük miért van jogosítványhoz kötve az autóvezetés. Néhány válasz meghallgatása után felveti, hogy vajon nem lenne-e indokolt a családalapítást is valamilyen hasonló feltételhez kötni. Vajon nincs-e legalább akkora kockázata a felkészületlenségnek ebben az esetben is?
 
 A közös feladat egy olyan jogszabály fő pontjainak a megtervezése, amely jogosítvány megszerzéséhez kötné a családalapítást. A tanulók négy csoportra oszlanak. Mindegyik csoport választ keres az alábbi kérdések egyikére:

@@ -22,8 +22,6 @@ keywords:
 attachment: "26_hol_a_fal.pdf"
 ---
 
-# Hol a fal?
-
 Párokat alkotunk. A párok egyik tagja lesz az első körben az irányító, a másik a végrehajtó. A terem egyik falától néhány méterre kijelöljük a startvonalat, ami mögé feláll a párok egyik tagja bekötött szemmel. Társa feladata őt beszédével elirányítani a falhoz, méghozzá a lehető legközelebb. Utána csere következik.
 
 Hívjuk fel a figyelmet a balesetveszélyre, az irányító felelősségére, a komolyságra!

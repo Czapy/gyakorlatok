@@ -21,8 +21,6 @@ keywords:
 attachment: "286_ferfiak_es_nok.pdf"
 ---
 
-# Férfiak és nők (Fiúk és lányok)
-
 A csoport fiú és lány tagjai külön helyiségben dolgoznak.
 
 Mindkét csoportnak az a feladata, hogy gyűjtsék össze azt, hogy a másik fél mit kedvel, illetve nem kedvel bennük a saját elképzelésük szerint. (A fiúk tehát mindazt a pozitívumot és negatívumot összegyűjtik, amiről azt tartják, hogy a lányok gondolják, mondják, hiszik róluk vagy éppen teszik velük kapcsolatban. A lányok ugyanezt csinálják, de a fiúk szemszögéből.)

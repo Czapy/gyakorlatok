@@ -19,7 +19,5 @@ keywords:
 attachment: "51_mi_a_kozos_bennunk.pdf"
 ---
 
-# Mi a közös bennünk?
-
  Párokat, vagy 4-5 fős kiscsoportokat alakítunk, lehetőleg úgy, hogy az egy csoportba kerülők régebbről ne ismerjék egymást. A csoportoknak meghatározott idő (20-30 perc) áll rendelkezésükre, hogy egymással beszélgetve minél több közös, mindannyiukra jellemző dolgot találjanak. Az idő eltelte után az egész társaságnak beszámolnak arról, hogy milyen közös vonásokra bukkantak.  
   

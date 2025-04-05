@@ -24,7 +24,5 @@ keywords:
 attachment: "193_egyszerre_alljon_negy.pdf"
 ---
 
-# Egyszerre álljon négy!
-
  A feladat: a játékosok körben ülnek. Elmagyarázzuk a játékszabályt: egyszerre négy ember állhat legfeljebb 10 másodpercig. A játékosok nem kommunikálhatnak egymással, de mindenkinek figyelni kell, és mindenki felelős azért, hogy egyszerre 4 ember áll, se több, se kevesebb. Tippek az irányító számára: pár percbe telik, amíg a csoport rájön a játék lényegére, utána jó ritmusban fognak felállni, leülni, és együtt dolgozni. Nagyon izgalmas, és jó közérzetet biztosít a csoportban.  
   

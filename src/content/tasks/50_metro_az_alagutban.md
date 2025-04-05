@@ -26,8 +26,6 @@ keywords:
 attachment: "50_metro_az_alagutban.pdf"
 ---
 
-# Metró az alagútban
-
 Feladat: a kiindulási helyről (pad) eljuttatni a metrót (labdát) a célállomásra (másik padig) úgy, hogy „nem siklik ki”, azaz nem esik le a földre. A labdának az alagútban kell haladnia. Papírlapok esetében nehezebb a feladat, mert akkor a hengert is a csapatoknak kell menet közben kialakítaniuk.
 
 A játék kezdetekor az indító játékos helyezi bele a labdát az első hengerbe, utána neki is fognia kell egy alagút darabot. Figyeljünk arra, hogy a játékosok számánál 2-3 darabbal kevesebb eszköz legyen, illetve arra is, hogy a megteendő távolság ne legyen nagyon nagy, mert könnyen unalmassá válhat a játék.

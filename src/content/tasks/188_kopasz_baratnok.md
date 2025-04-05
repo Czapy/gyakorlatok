@@ -20,8 +20,6 @@ keywords:
 attachment: "188_kopasz_baratnok.pdf"
 ---
 
-# Kopasz barátnők
-
 A tanár elmondja a diákoknak azt a történetet, amelynek képei 2014 februárjában jelentek meg az interneten. Gerdi, akinél mellrákot diagnosztizáltak, miután elfogadta a kemoterápiás kezelést, levágatta a haját. 11 barátnője azzal fejezte ki az együttérzését, hogy meglepetésként ők is kopaszra nyíratták magukat, és közös fotót készíttettek beteg barátnőjükkel.
 
 Ha van rá lehetőség, a tanár kivetíti a csoportról készült fényképet. De ha nincsenek meg ennek a feltételei, az nem akadályozza meg a témáról való gondolkodást.

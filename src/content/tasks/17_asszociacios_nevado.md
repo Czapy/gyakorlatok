@@ -25,8 +25,6 @@ keywords:
 attachment: "17_asszociacios_nevado.pdf"
 ---
 
-# Asszociációs névadó
-
  A csoportot 4-6 kisebb csoportra osztjuk. Minden résztvevő felírja a saját keresztnevét a papírra, majd mellé leírja fordított betűsorrendben is a keresztnevét (így legtöbbször egy értelmetlen betűsor jön ki).
 1. Megkérjük a résztvevőket, hogy asszociáljanak a saját fordított betűrendes keresztnevükre, hogy mit jelent nekik az a szó, majd írják alá. Azután úgy hajtsák be legyezőszerűen a papírt, hogy csak a saját fordított betűsorrendű keresztnevük látszódjon rajta, és adják tovább jobbra a papírt a csoportban!
 2. Ezután a papír addig jár az óramutató járásának megfelelően körbe, amíg minden fordított betűsoros keresztnévre a csoport minden tagja asszociál valamit. Értelemszerűen mindenkinek úgy kell egyet hajtania a papíron, ha már írt rá, hogy az általa leírt asszociáció ne látszódjon, csak a hívószó.

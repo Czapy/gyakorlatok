@@ -18,8 +18,6 @@ keywords:
 attachment: "151_julia_hivja_romeot.pdf"
 ---
 
-# Júlia hívja Rómeót!
-
 A csoport létszámának megfelelő számú cédulát készítünk elő, úgy hogy azokon szerelmespárok egy-egy tagja szerepeljen (pl. Rómeó – Júlia, Antonius – Kleopátra Hamlet – Ophelia, Szépség – Szörnyeteg, Shrek – Fiona, Angelina Jolie – Brad Pitt, Vilmos herceg – Katalin hercegnő, stb.
 
 A cédulákat egy dobozban vagy sapkában, stb. elhelyezzük a startvonal mögött, úgy, hogy minél többen hozzáférjenek. Mindenki húz egy cédulát, amit megnéz, és nem mutat meg másnak. Közben mindenki a startvonal mögött marad. Amikor mindenki húzott, a játékvezető startjelére kezdődik a játék. Mindenki hangosan hívogatni kezdi a szerelmét. Amikor a szerelmespárok egymásra találnak, még a startvonal mögött kézen kell fogják egymást, és onnan a célig szaladnak kézen fogva.

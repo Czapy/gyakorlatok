@@ -23,8 +23,6 @@ keywords:
 attachment: "176_a_gyengesegeink_legyozese.pdf"
 ---
 
-# A gyengeségeink legyőzése
-
 Ráhangolásként a tanár arról beszél, hogy mindenkinek vannak gyenge pontjai, hibái. Olyanok, amelyekről tudjuk, hogy nem jók, de valami miatt mégis nehéz változtatnunk rajtuk. Hiteles, ha esetleg saját magára vonatkozóan megoszt néhány ilyesmit a diákokkal.
 
 A tanulók átgondolják, hogy nekik mi az a gyenge pontjuk, amin jó lenne változtatni, és leírják a problémát egy-egy kis papírra. A cédulákat összekeverik, és berakják egy dobozba.

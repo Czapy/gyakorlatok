@@ -34,8 +34,6 @@ keywords:
 attachment: "219_empatikus_vita.pdf"
 ---
 
-# Empatikus vita
-
 A résztvevők kettős körben ülnek, minden belső körben ülő résztvevő mögött, a külső körben ül a párja, akinek a véleményét képviselnie kell a vitában anélkül, hogy azt megbeszélnék. A gyakorlat lényege, hogy a belső kör valamilyen - nem egyértelműen megítélhető - témában (ahol vannak a játékvezető által mondott állítás mellett és ellene is érvek) vitát folytat.
 
 A vita a belső körben megkezdődik, de minden belső körös résztvevőnek figyelnie kell a külső körben mögötte elhelyezkedő párja által neki adott jelzésre. Ha a párja a bal vállára helyezi a bal kezét, akkor egyetért az elhangzottakkal, tehát mondhatja tovább. Ha a jobb vállára is ráhelyezi a párja a jobb kezét, akkor az érvelésével is egyetért. Ha nincs a bal vállán kéz, akkor - saját meggyőződésétől függetlenül - meg kell változtatnia véleményét, és ha nincs a jobb vállán kéz, akkor újabb érveket kell felsorakoztatnia a vitában.

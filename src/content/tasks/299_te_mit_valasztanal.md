@@ -22,8 +22,6 @@ keywords:
 attachment: "299_te_mit_valasztanal.pdf"
 ---
 
-# Te mit választanál?
-
 Kiosztjuk az apróhirdetés gyűjteményt. Az első lépésben mindenki kiválasztja, hogy ő melyik hirdetésre jelentkezne szívesen.
 
 Ezután az azonos hirdetést választók egy-egy csoportba rendeződnek, és elmondják egymásnak, hogy miért éppen azt a hirdetést választották.

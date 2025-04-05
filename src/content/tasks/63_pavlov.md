@@ -21,8 +21,6 @@ keywords:
 attachment: "63_pavlov.pdf"
 ---
 
-# Pavlov-tanulás
-
 A gyakorlat a híres klasszikus kondicionálás mintájára épül és Ivan Petrovich Pavlov után kapta a nevét, aki kutyákkal kísérletezett.
 
 Egy önként jelentkező kimegy a teremből. A csoport többi tagja kitalál egy viselkedést, vagy mozdulatsort, amire szeretnék rávezetni a kísérleti személyt. A csoportvezető arra biztatja a csoportot, hogy bátran találjanak ki összetett viselkedéssort (pl.: üljön fel egy pad tetejére, érintse meg az orrát, húzza el a függönyt stb.).

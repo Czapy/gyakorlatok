@@ -19,8 +19,6 @@ keywords:
 attachment: "250_kozott.pdf"
 ---
 
-# Között
-
 A résztvevők álljanak körbe. Keverjük össze a kártyát, és mindenki húzzon egyet. Tartsák képpel lefelé, és ne nézzék meg a lapot. A cél, hogy a csoport álljon kisebb csoportokba úgy, hogy a középen álló száma a két szélső száma között legyen, olyan gyorsan, amilyen gyorsan csak lehet.
 
 Rajtra a játékosok megnézik kártyáikat, és gyorsan megkeresik a helyüket egy csoportban. Amikor a csoport úgy gondolja, hogy készen van, akkor a résztvevők az orrukhoz érintik ujjaikat. Minden kör után legalább 3 emberrel kártyát cserélnek, így nem tudják, milyen kártyájuk van.

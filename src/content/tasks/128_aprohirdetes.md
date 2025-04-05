@@ -29,8 +29,6 @@ keywords:
 attachment: "128_aprohirdetes.pdf"
 ---
 
-# Apróhirdetés
-
 Milyen az ideális főnök? Válaszképpen erre a kérdésre, készítsenek egy apróhirdetést, amelyben 20-30 szóban leírják a számukra ideális főnököt (tehát az alkalmazott keresi főnökét…).
 
 Amint ezzel megvannak, készítsenek egy olyan hirdetést, amelyben egy főnök keresi alkalmazottját, úgy, hogy az őnekik szóljon. Jellemezzék önmagukat a szerepnek megfelelően, térjenek ki a fejlődési lehetőségeikre.

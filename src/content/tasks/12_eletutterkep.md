@@ -15,8 +15,6 @@ keywords:
 attachment: "12_eletutterkep.pdf"
 ---
 
-# Életúttérkép
-
 Egy üres papírlapra mindenkinek egy koordináta rendszert kell felrajzolnia, ahol a vízszintes tengelyen eddigi élete szerepel (0 a születés időpontja), a függőleges tengelyen pedig, hogy életének adott pillanatában mennyire érezte jól magát (ez lehet negatív érték is).
 
 Miután kész, mindenki bemutatja a csoportnak a grafikonját, és ez alapján mesél élete eddigi lényeges eseményeiről.

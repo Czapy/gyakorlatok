@@ -18,8 +18,6 @@ keywords:
 attachment: "216_nemet_mondas.pdf"
 ---
 
-# Nemet mondás
-
 A csoportot két részre osztjuk (A és B), és a terem két sarkába hívjuk. Mindkét csoport más-más instrukciót kap.
 
 **Instrukció A**: „Képzeljétek el, hogy a holnapi nap fontos a számotokra. Olyan esemény lesz, amely hatással lehet a további életetekre (fontos iskolai megmérettetés, egy fontos mérkőzés vagy egy jelentős családi esemény, bármi, amit te a magad számára fontosnak ítélsz meg). Korán kell kelnetek e miatt és jó passzban kell megjelennetek. Nem lehettek kialvatlanok, fáradtak vagy dekoncentráltak, ma este a legjobb, amit tehettek, ha pihentek.”

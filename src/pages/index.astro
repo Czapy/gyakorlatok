@@ -3,20 +3,11 @@ import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import List from "@app/components/list";
 
-const tasks = await getCollection("tasks");
+const tasks = (await getCollection("tasks")).sort((a, b) =>
+  a.id.localeCompare(b.id)
+);
 ---
 
-<Layout>
-  <List client:load tasks={tasks} />
-  <!-- <ul class="list">
-    {
-      tasks.map((task) => (
-        <li class="list-row">
-          <a href={`${import.meta.env.BASE_URL}/${task.id}`}>
-            {task.data.title}
-          </a>
-        </li>
-      ))
-    }
-  </ul> -->
+<Layout title="Iskolai gyakorlatgyűjtemény">
+  <List client:only="react" tasks={tasks} />
 </Layout>

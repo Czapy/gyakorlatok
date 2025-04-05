@@ -19,8 +19,6 @@ keywords:
 attachment: "137_cernakotelhuzas.pdf"
 ---
 
-# Cérnakötélhúzás
-
 A gyakorlatot úgy kell végrehajtani mint egy kötélhúzó versenyt, de fonallal.
 
 Az osztályt két csoportra osztjuk. Megkapják a színes fonalat, mintha kötél lenne. Úgy kell a fonalhúzást végrehajtani, hogy mindenki izma feszüljön, látszódjon, hogy komoly erőt fejtenek ki. A fonálnak nem szabad elszakadnia. Amennyiben mégis ez történik, új fonallal próbálkozunk.

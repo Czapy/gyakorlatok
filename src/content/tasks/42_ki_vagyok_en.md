@@ -26,8 +26,6 @@ keywords:
 attachment: "42_ki_vagyok_en.pdf"
 ---
 
-# Ki vagyok én?
-
 A képekből mindenki húz egyet, majd kapnak 5-6 percet arra, hogy kitaláljanak maguknak egy személyiséget: Hogy hívnak? Ki vagy te? Mivel foglalkozol? Hogyan élsz? Stb.
 
 A felkészülés után egyesével kiállnak a közösség elé és bemutatkoznak.

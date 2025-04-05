@@ -17,8 +17,6 @@ keywords:
 attachment: "24_hettyenpitty.pdf"
 ---
 
-# Hettyenpitty
-
 Egy társunk szemét bekötjük és megforgatjuk úgy, hogy ne tudja, ki hol ül a körben. A játékosnak bele kell ülnie valakinek az ölébe, és azt mondania: “Hettyen.” Annak, akinek az ölébe ült, azt kell erre válaszolnia: “Pitty”. Ebből a bekötött szemű játékosnak ki kell találnia, hogy kinek az ölébe ült.
 
 Érdemes a hangunkat elváltoztatni.

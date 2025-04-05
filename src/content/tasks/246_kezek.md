@@ -20,8 +20,6 @@ keywords:
 attachment: "246_kezek.pdf"
 ---
 
-# Kezek – Ismered önmagad?
-
 A tanulók a kialakított csoportokban körbe ülnek. A gyerekek körülrajzolják az egyik kezüket. A kezet kivágják, és egyik felére ráírják a nevüket, majd elrejtik a kendő alatt.
 
 Mindenki kihalász egy kéznyomatot (ha a sajátját húzta, akkor visszateszi és húz egy másikat). A kéznyomatra felírja a név gazdájának egy-két tulajdonságát oda, ahol a név áll, majd visszateszi a kendő alá.

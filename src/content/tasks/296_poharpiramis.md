@@ -21,8 +21,6 @@ keywords:
 attachment: "296_poharpiramis.pdf"
 ---
 
-# Pohárpiramis
-
 Az osztályban (nagycsoportban) 5-6 fős csapatokat hozunk létre.
 
 A madzagokat 60-90 cm-es hosszúságúra kell vágni, és hozzá kell erősíteni a befőttes gumihoz. Annyi madzagot erősítünk hozzá, ahányan vannak a csapatban (egyenlő létszámú csapatokkal játsszuk).

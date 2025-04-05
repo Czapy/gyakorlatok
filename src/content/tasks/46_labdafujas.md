@@ -22,8 +22,6 @@ keywords:
 attachment: "46_labdafujas.pdf"
 ---
 
-# Labdafújás
-
 A gyakorlat menete:
 
 A csapatot arra kérjük, hogy fújva juttassa el a pingpong-labdát az indító helyről a célvonalig.

@@ -25,8 +25,6 @@ keywords:
 attachment: "293_papirtorony_epites.pdf"
 ---
 
-# Papírtorony építés
-
 Az osztályt (a nagycsoportot) osszuk kisebb (4-5 fős) csapatokra. Az egyes csapatoknak az a feladatuk, hogy a legmagasabb papírtornyot építsék meg egy bizonyos idő alatt.
 
 A csapat kap tervezésre 2 percet és egy darab A4-es lapot.

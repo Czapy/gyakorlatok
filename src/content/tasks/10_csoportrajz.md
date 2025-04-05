@@ -23,8 +23,6 @@ keywords:
 attachment: "10_csoportrajz.pdf"
 ---
 
-# Csoportrajz
-
 Az osztályból alakuljanak 4-5 fős csoportok. A nagy csomagolópapírt a tanulók körbeülik és közös rajzot készítenek bármilyen, közös megegyezés során született témában a korlátozott számban jelenlevő eszközökkel.
 
 Az egyes csoportok adjanak címet is az elkészült rajzoknak.

@@ -19,7 +19,5 @@ keywords:
 attachment: "44_korben_felallni.pdf"
 ---
 
-# Körben felállni
-
  Kört alkotunk úgy, hogy mindenki leguggol és kifelé néz a körből. Az egymás mellett állók összekulcsolják a karjaikat. Egy megadott jelre próbáljunk meg egyszerre felállni. A kísérlet sikeréhez nagyban hozzájárul, ha szorosan egymás mellett helyezkedünk.  
   

@@ -26,8 +26,6 @@ keywords:
 attachment: "297_tanuljuk_a_szempontvaltast.pdf"
 ---
 
-# Tanuljuk a szempontváltást!
-
 A foglalkozás vezetője ismertet egy problémát, amelynek 2, 3, esetleg 4 szereplője van. A szereplők számának megfelelően 2+1, 3+1, illetve 4+1 fős csoportok alakulnak. (A +1 fő a csoportokhoz rendelt megfigyelő.) A pedagógus ismertet egy szituációt, és kiosztja a megfelelő szerepkártyákat.
 
 A csoportok kis köröket alkotnak, és a szerepüknek megfelelően beszélnek a helyzetről. Sorra elmondják, hogy ők hogyan látják a dolgot, mit gondolnak róla, milyen érzéseik vannak. A csoport többi tagja saját szerepének megfelelően reflektál az elhangzottakra.

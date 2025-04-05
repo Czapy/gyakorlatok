@@ -17,8 +17,6 @@ keywords:
 attachment: "240_jegyezd_meg.pdf"
 ---
 
-# Jegyezd meg!
-
 Sok különböző tárgyat leteszünk egymás mellé. A kötött megfigyelési idő – 20-30 másodperc – lejárta után letakarjuk a tárgyakat, és különféle követelmények elé állítva a játszók memóriáját, feladatokat adunk.
 
 * meg kell nevezni a tárgyakat

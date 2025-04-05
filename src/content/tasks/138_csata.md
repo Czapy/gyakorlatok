@@ -20,8 +20,6 @@ keywords:
 attachment: "138_csata.pdf"
 ---
 
-# Csata
-
 **A játék előkészítése:** A csoportot osszuk két egyenlő számú csoportra. Helyezzünk el egy kötelet a földön. A két csapat helyezkedjen el a kötél két oldalán.
 
  **A játék menete:** Minden játékos húz egy kártyát, de ne nézzék meg azt. A játékosok a kötélhez közel mennek, és szemben állnak egy játékossal a másik csapatból. Előre mondjuk meg, hogy az ász a legnagyobb vagy a legkisebb értékű lap-e.

@@ -25,8 +25,6 @@ keywords:
 attachment: "298_targykeszites.pdf"
 ---
 
-# Tárgykészítés
-
 Az osztályból alakítsunk ki 4-5 fős csoportokat. A csoportoknak különböző nyersanyagokat adunk egyenlő mennyiségben, melyből ragasztó vagy bármi más dolog segítségével készítsenek tárgyakat.
 
 Ha elkészültek a tárgyak, akkor válasszanak az egyes csoportok egy-egy szóvivőt maguk közül és mutassák be a tárgyakat egymásnak.

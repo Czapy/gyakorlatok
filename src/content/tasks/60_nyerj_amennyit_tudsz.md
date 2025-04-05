@@ -21,8 +21,6 @@ keywords:
 attachment: "60_nyerj_amennyit_tudsz.pdf"
 ---
 
-# Nyerj, amennyit tudsz
-
 A cél megtapasztalni, hogy bizonyos feladatokat csak akkor tudunk teljesíteni, ha megegyezés születik a csoporttagok között és együttműködünk egymással.
 
 A résztvevőkből két csoportot hozunk létre, megkérjük őket, hogy helyezkedjen el a két csapat egymással szemben, a csoporttagok üljenek egymáshoz közel. A két csoport közé a földre letesszük vagy a táblára erősítjük a játék tábláját (4x4-es négyzetháló, gyorsan megrajzolható).

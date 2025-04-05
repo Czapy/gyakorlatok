@@ -25,8 +25,6 @@ keywords:
 attachment: "192_mi_lesz_velunk.pdf"
 ---
 
-# Mi lesz velük 30 év múlva?
-
 A diákok felidéznek öt olyan szakmát, illetve foglalkozást, amivel rendszeresen találkoznak útban az iskolába jövet (vagy más módon, ha ez nem eredményezne elég nagy változatosságot). Mindegyiket leírják egy kis cédulára. A papírokat bedobják egy dobozba és összekeverik.
 
 3-4 fős csoportok alakulnak, és a cédulákat annyi részre osztják, ahány csoport van. A feladat annak mérlegelése, hogy a papírokon szereplő foglalkozások vajon léteznek-e majd még 30 év múlva is. A tanulók a döntésüknek megfelelően rendszerezik a cédulákat, majd indoklással kísért véleményüket megosztják a többiekkel.

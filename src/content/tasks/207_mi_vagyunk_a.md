@@ -27,8 +27,6 @@ keywords:
 attachment: "207_mi_vagyunk_a.pdf"
 ---
 
-# Mi vagyunk a …
-
 4-5 fős csoportokra osztjuk a nagy csoportot. A kis csoportok húznak egy borítékot. A feladatuk, hogy úgy jelenítsenek meg – a saját testükből megformálva - egy mozgó állatot vagy gépet, hogy mindenki részt vesz a feladat megoldásában. Felkészülési idő 5 perc, a többi csoport feladata, hogy kitalálják, a csoport melyik állatot vagy gépet formálja meg. (Segítségül lehet hangot is kiadni.) Ötletek:
 
 elefánt, krokodil, zsiráf, flamingó, stb.

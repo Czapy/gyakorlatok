@@ -23,8 +23,6 @@ keywords:
 attachment: "157_allaskeresok_allaskinalok.pdf"
 ---
 
-# Álláskeresők – álláskínálók
-
 A lehetőségektől függően, a diákok újságokban és/vagy az interneten megjelent, helyi álláshirdetéseket nézegetnek két csoportban. Az egyik csoport tagjai azt vizsgálják meg, hogy lakóhelyük környezetében milyen munkalehetőségek jelennek meg a hirdetésekben. A másik csoport tagjai pedig azt, hogy mi jellemzi azokat az embereket, akik az adott időszakban állást keresnek a környéken.
 
 Mindkét csoport készít egy-egy összesítést arról, amit tapasztaltak (mennyiségi és tartalmi jellemzők, képesítések stb.). A szóvivők pedig bemutatják a csoport eredményeit a többieknek.

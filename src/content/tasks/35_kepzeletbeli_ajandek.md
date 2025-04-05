@@ -17,7 +17,5 @@ keywords:
 attachment: "35_kepzeletbeli_ajandek.pdf"
 ---
 
-# Képzeletbeli ajándék
-
  Mindenki kap egy cédulát, amelyre egy ajándék nevét írja. Minden egyes ajándék egy kapcsolatra utal: az ajándékozó és az ajándékozott kapcsolatára (pl. tudom, hogy X elvesztette a karóráját, akkor "küldhetek" neki egy órát, Y többször kölcsönkérte a kerékpáromat, tehát kerékpárt "kap" tőlem). Ezután a cédulák egy kalapba (sapkába, dobozba) kerülnek, ahonnan egyenként húzva mindenki megpróbálja kitalálni a hozzákerült cédula címzettjét. Ha egyedül nem megy, a csoport segíthet. (Egy esetleges könnyítés: az ajándékozó ráírhatja a nevét a papírra.)  
   

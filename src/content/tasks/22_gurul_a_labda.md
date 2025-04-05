@@ -21,8 +21,6 @@ keywords:
 attachment: "22_gurul_a_labda.pdf"
 ---
 
-# Gurul a labda!
-
 A játékosok körbeállják a terítőt, megfogják mindkét kezükkel, majd a játékvezető egy labdát dob a terítő közepére.
 
 A játékosok fel és le emelhetik a ruhadarabot, de nem húzhatják és nem is ereszthetik el. A labda ide-oda fog gurulni, akinél kiköt, az megmondja a keresztnevét.

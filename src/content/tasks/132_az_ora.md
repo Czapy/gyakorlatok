@@ -23,8 +23,6 @@ keywords:
 attachment: "132_az_ora.pdf"
 ---
 
-# Az óra
-
 A játékosok körben állnak, fogják egymás kezét. Megjelölünk a kör kerületén a földön egy pontot egy tárggyal, hogy ez a 12 óra.
 
 Az első feladata a csoportnak, hogy amilyen gyorsan csak lehetséges az óramutató járásával megegyező irányba haladva, a játékvezető által meghatározott időponthoz érjenek. (pl. 6 óra, az 180 fokos elmozdulást jelent).

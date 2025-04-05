@@ -22,8 +22,6 @@ keywords:
 attachment: "73_tengereszcsomo.pdf"
 ---
 
-# Tengerészcsomó
-
 A csoportot két csapatra osztjuk. A két csapat tagjainak felső fogással (a tenyér lefelé néz) mindkét kézzel meg kell fognia a kötelet.
 
 A feladatuk az, hogy kössenek egy csomót a kötélre a két csapat közé. A feladat megoldása során mindenkinek ugyanabban a pozícióban kell tartani a kötelet, nem engedhetik el.

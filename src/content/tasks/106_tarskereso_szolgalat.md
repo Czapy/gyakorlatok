@@ -23,8 +23,6 @@ keywords:
 attachment: "106_tarskereso_szolgalat.pdf"
 ---
 
-# Társkereső szolgálat
-
 A játék során először tulajdonságokat vásárolnak maguknak a játékosok, majd a megvásárolt tulajdonságok alapján párt választanak.
 
 A játékvezető a játék előtt elkészít 100 db névkártyát, melyeken tulajdonságok vannak, például „szép, de butácska”, „részeges”, „mulya, de jóindulatú”, „okos, de dundi” stb.

@@ -18,8 +18,6 @@ keywords:
 attachment: "8_cimer.pdf"
 ---
 
-# Címer
-
 Mindenkit megkérünk, hogy rajzolja le három-négy rajzban élete legfontosabb mozzanatát, majd ezután rajzoljon egy jelet, szimbólumot is magának. Miután kész vagyunk a rajzokkal, megmutatjuk a többieknek. Mindenki elmesélheti, miért épp azt rajzolta.
 
 **Változat:** A csoporttagokat egy saját címer rajzolására kérjük, amire 4-5 perc áll rendelkezésükre. Bármit belerajzolhatnak a címerbe, amiről úgy érzik, kötődik hozzájuk. Utána bemutatjuk a címereket.

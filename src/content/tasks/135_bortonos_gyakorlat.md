@@ -25,8 +25,6 @@ keywords:
 attachment: "135_bortonos_gyakorlat.pdf"
 ---
 
-# Börtönös játék
-
 A gyakorlat menete:
 
 Miután mindenki választott magának párt, a társaság két csoportra oszlik, az egyik csoport kimegy a folyosóra, amíg a tréner a másikkal ismerteti a feladatot:

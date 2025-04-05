@@ -47,8 +47,6 @@ keywords:
 attachment: "211_hibaztasd_az_aldozatot.pdf"
 ---
 
-# Hibáztasd az áldozatot!
-
 A résztvevők 4-5- fős csoportokban dolgoznak. Az alapanyagokat egyszerre adjuk ki műanyag szatyrokban úgy, hogy ne tűnjön fel a csoportoknak, hogy az alapanyagok rendkívül egyenlőtlenül vannak elosztva.
 
 A feladat, hogy minden csoport építse meg a padra a legstabilabb, legmagasabb tornyot. A gyakorlat előbb-utóbb versenyt eredményez a csoportok között. A gyakorlat vezetése során a sok eszközből gyorsan építő csoportot sokszor dicsérjük meg, míg – az eszközhiánytól – lemaradó csoportot illessük kritikával, és figyelmeztessük az idő múlására.

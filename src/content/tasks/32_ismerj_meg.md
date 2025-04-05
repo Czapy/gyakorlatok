@@ -20,7 +20,5 @@ keywords:
 attachment: "32_ismerj_meg.pdf"
 ---
 
-# Ismerj meg!
-
  Mindenki elmondja a nevét, de elé vagy mögé kell illeszteni egy állatnevet, növénynevet, vagy egy olyan tulajdonságot, amely a nevének kezdőbetűjével kezdődik. (Lehet indokolni is!)  
   

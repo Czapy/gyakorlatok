@@ -18,8 +18,6 @@ keywords:
 attachment: "113_egy_zacskonyi_elismeres.pdf"
 ---
 
-# Egy zacskónyi elismerés
-
 A gyakorlat sikerének feltétele, hogy a résztvevők már elég jól ismerjék egymást.
 
 Ráhangolásként a foglalkozás vezetője megfogalmaz néhány személyes gondolatot arra vonatkozóan, hogy néha zavarban vagyunk, ha el kell ismernünk valakit, vagy magunknak kell mások dicséretét fogadni. Pedig a másoktól kapott elismerés mindannyiunk számára fontos erőforrás ahhoz, hogy tudjuk, mit csinálunk jól, és ki is tudjunk tartani amellett.

@@ -26,8 +26,6 @@ keywords:
 attachment: "165_hazassagi_talkshow.pdf"
 ---
 
-# Házassági talk-show
-
 A tanár a diákok számának megfelelő mennyiségű kártyát készít elő a következő kérdésekkel:
 
 1. _Miért jó házasságban élni?_

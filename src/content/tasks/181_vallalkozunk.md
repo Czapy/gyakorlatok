@@ -27,8 +27,6 @@ keywords:
 attachment: "181_vallalkozunk.pdf"
 ---
 
-# Vállalkozunk
-
 A tanulók ötletbörze keretében átgondolják, hogy milyen kisebb szolgáltatásokat tudnának nyújtani a környéken élő emberek, családok számára – saját személyes idejükre és ügyességükre építve. Ha már elég ötlet gyűlt össze, sorra veszik, hogy melyik mennyire tűnik reálisnak, melyik iránt lehetne valódi kereslet.
 
 Kiválasztják a legjobbnak látszókat, és annyi csoport alakul, ahány életképesnek látszó ötletet találtak. Minden csoport megfogalmaz egy rövid hirdetést az adott témához kapcsolódóan. Akinek a legszebb írása van, az le is írja a szöveget egy papírra.

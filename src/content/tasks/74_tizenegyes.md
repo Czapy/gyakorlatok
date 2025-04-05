@@ -25,8 +25,6 @@ keywords:
 attachment: "74_tizenegyes.pdf"
 ---
 
-# Tizenegyes
-
 A feladat: lőjenek kapura a pingpong-labdával úgy, hogy dominósort építenek, mely eldőlésekor az utolsó dominó meglöki a labdát, ami begurul a kijelölt kapuba.
 
 A feladat nehézsége nem csak az utolsó dominó és a labda helyzetének eltalálása, hanem az is, hogy a dominósor hiányos lesz, és a hiányzó dominókat a csapat 3 kijelölt játékosának bekötött szemmel kell a helyére tennie.

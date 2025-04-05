@@ -20,8 +20,6 @@ keywords:
 attachment: "257_szamfuttatas.pdf"
 ---
 
-# Számfuttatás
-
 Kört alakítanak a részvevők. A játék során több számsort fogunk egyidejűleg futtatni, mindegyiket a vezető indítja. A játszók feladata, hogy csak a sorrendben előttük lévő hangjára összpontosítsanak, és arra, hogy a tőle hallott számnál eggyel nagyobbat mondjanak.
 
 A számsorokat nem kötelező elől kezdeni! A csoportlétszámtól függ, hogy hány számsor egyidejű futtatása számít jó teljesítménynek (20 főnél 5-10 számsort tehetünk be a körbe).

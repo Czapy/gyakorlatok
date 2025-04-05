@@ -22,8 +22,6 @@ keywords:
 attachment: "93_internetes_honlap.pdf"
 ---
 
-# Internetes honlap
-
 **Instrukció**: „Képzeljétek el, hogy egy fiataloknak szóló internetes honlap szerkesztői vagytok, készítsétek el a honlap főoldalát, amelyből kiderül, hogy milyen témában fordulhatnak hozzátok információért, segítségért a fiatalok.”
 
 Megkérjük a csoportot, hogy alakítsanak ki 4 fős kiscsoportokat.

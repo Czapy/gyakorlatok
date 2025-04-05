@@ -18,8 +18,6 @@ keywords:
 attachment: "218_ertekfolytonossag.pdf"
 ---
 
-# Értékfolytonosság
-
 Kérjük meg a diákokat, hogy képzeljenek el egy, a félkör nyitott végén keresztbe futó vonalat (krétával, szalaggal, vagy kötéllel jelölhetünk is egyet), és helyezzünk el 1-1 széket mindkét végénél.
 
 Vezessük be a szóban forgó témát (pl. vállalkozás), és körvonalazzuk a két szemben álló nézetet. Mindezt tegyük az egyik széken ülve, mintha magunk is ezt a véleményt vallanánk: „A vállalkozók szélhámosok, csak számlákat gyártanak, igazi munkát pedig nem végeznek.”

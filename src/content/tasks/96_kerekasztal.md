@@ -20,8 +20,6 @@ keywords:
 attachment: "96_kerekasztal.pdf"
 ---
 
-# Kerekasztal (csoportos gondolkodás pl. a drog témájáról)
-
 Egy rövid történet elmesélése, amelyben egy, a csoporttal azonos korú fiatal szerepel. (pl. Az egyik diák megtudja egy osztálytársáról, hogy alkalomszerűen extasyt használ. A diák elmondja ezt az osztályfőnökének. A fiú szülei már régóta tudják, sejtik fiúk droghasználatát és kétségbeesetten elviszik őt a helyi drogambulanciára. Az egyik helyi lap is valahogy tudomást szerez az esetről.)
 
 A csoport tagjai eldönthetik, hogy melyik oldalról szeretnének a helyzet megoldásán dolgozni, és csoportokat alakítanak:

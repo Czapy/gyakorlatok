@@ -18,8 +18,6 @@ keywords:
 attachment: "49_level_magunknak.pdf"
 ---
 
-# Levél magunknak
-
 A csoport minden tagja levelet ír magának. A levél tartalmát eldönthetik a résztvevők is, de lehet előre meghatározott téma is, amely az egyéni célokhoz vagy a csoport adott tevékenységéhez kapcsolódik.
 
 A csoportvezető elviheti a leveleket, és egy későbbi időpontban feladja azokat a postán.

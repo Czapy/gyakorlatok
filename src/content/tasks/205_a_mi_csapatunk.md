@@ -26,7 +26,5 @@ keywords:
 attachment: "205_a_mi_csapatunk.pdf"
 ---
 
-# A mi csapatunk
-
  A 15-20 fős csoport körben áll, egymásnak háttal. A feladat, hogy sorban elszámoljanak úgy a csoport létszámának megfelelő számig, hogy mindig csak egy ember szólal meg. Szabály, hogy ha egyszerre többen is megszólalnak, a számolás mindig újra kezdődik egytől. Egymást instruálni a feladat előtt és közben nem lehet.  
   

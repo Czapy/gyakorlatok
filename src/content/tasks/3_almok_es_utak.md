@@ -22,7 +22,5 @@ keywords:
 attachment: "3_almok_es_utak.pdf"
 ---
 
-# Álmok és utak
-
  Minden résztvevő kap egy színes papírt, amelyből tetszőleges formákat téphet ki. (Hangsúlyozottan, csak tépni szabad!) Legalább öt ilyen formát kell tépni, felső határ nincs. Ezután 4-5 fős kiscsoportok alakulnak, és a csoporttagok alakzataiból minden csoport összeállítja a maga házát úgy, hogy minden darabot felhasznál hozzá. Ezt elhelyezik egy csomagolópapíron, és ragasztóval rögzítik. Utána minden csoport tetszése szerinti környezetet varázsol az elkészült ház köré. A csoport egy tagja a saját rezidenciájánál marad, a többiek körbe sétálnak, és egyenként megnézik a többiek alkotásait. A csoport helyben maradt képviselője bemutatja a csoportja művét, és válaszol a felmerülő kérdésekre.  
   

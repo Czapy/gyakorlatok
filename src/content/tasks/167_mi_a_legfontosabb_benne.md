@@ -18,8 +18,6 @@ keywords:
 attachment: "167_mi_a_legfontosabb_benne.pdf"
 ---
 
-# Mi a legfontosabb benne?
-
 A tanár (a diákok számának megfelelő mennyiségben) előzetesen elkészít egy cédulasorozatot a következő mondatokkal:
 
 * _Egyforma a kulturális hátterünk._

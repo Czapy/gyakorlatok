@@ -20,8 +20,6 @@ keywords:
 attachment: "229_nepszamlalas.pdf"
 ---
 
-# Népszámlálás
-
 Kisebb papírokra írjunk fel egy-egy, témát és helyezzük el a teremben mindenfelé. A téma mindenféle lehet, de készíthetünk témalapokat foglalkozásokkal is: pl. orvos, tanár, elektrotechnikus, kozmetikus, ügyvéd, mérnök, eladó, kamionsofőr, halász, kertész, mezőgazdász, modell, színész, politikus, fogorvos, hentes, pék, szakács, pincér, villanyszerelő, katona, rendőr, informatikus, közgazdász stb.
 
 A játékvezető megkéri a játékosokat, hogy járjanak körbe és nézzék meg a kártyákat. Írják alá azokat a cédulákat, amelyeken olyan dolog szerepel, amely foglalkoztatja/érdekli őket. Több lapot is aláírhatnak.

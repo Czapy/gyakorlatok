@@ -22,8 +22,6 @@ keywords:
 attachment: "122_a_tisztsegviselok.pdf"
 ---
 
-# A tisztségviselők és a többi gyerek
-
 A gyakorlatvezető olyan helyzeteket mond el, vagy idéztet fel a gyerekekkel, amikor egy diák tisztségviselő valamiért nehéz helyzetbe került
 
 Lehetséges helyzetek:

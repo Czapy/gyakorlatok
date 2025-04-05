@@ -20,8 +20,6 @@ keywords:
 attachment: "121_20_kerdeses_interju.pdf"
 ---
 
-# 20 kérdéses interjú
-
 A gyakorlatot elsősorban egy induló csoport kezdetén érdemes játszani, hogy minél jobban megismerjék a csoportvezetőjüket. A résztvevők 20 kérdést tehetnek fel a vezetőnek. Természetesen a játékvezető határozza meg a kereteket.
 
 A csoportnak, mielőtt a kérdéseket feltennék, van pár percük arra, hogy összeszedjék, milyen kérdésekre szeretnének válaszokat. Másik variációjában játszható úgy is, hogy teljesen véletlenszerűen kérdeznek a résztvevők, amíg el nem érik a 20 kérdést.

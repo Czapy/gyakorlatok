@@ -22,8 +22,6 @@ keywords:
 attachment: "164_vele_megelegszem.pdf"
 ---
 
-# Vele megelégszem…
-
 Előkészítés:
 
 a tanár (vagy valamelyik diák) olyan reklámmondatokat gyűjt össze a médiából, amelyek „még több / jobb / szebb / nagyobb / krémesebb stb.” dolgok megszerzésére sarkallnak, s nagy betűkkel leírja ezeket egy-egy papírra.

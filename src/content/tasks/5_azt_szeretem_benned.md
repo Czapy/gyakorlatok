@@ -27,8 +27,6 @@ keywords:
 attachment: "5_azt_szeretem_benned.pdf"
 ---
 
-# Azt szeretem benned, hogy
-
 A gyakorlat során a tanulók körbe ülnek, a sorsolással (kiolvasó, mondóka, önként jelentkező stb.) kiválasztott tanuló középre ül. Bárki felállhat, odamegy a középen ülőhöz (aki megtiszteli azzal, hogy feláll ő is), kezet fognak és a következőt mondja: - Azt szeretem benned, hogy ….
 
 A gyakorlatot addig folytassuk, míg van a tanulóknak új mondanivalójuk. Az ül be a körbe, aki utolsónak vállalta a megszólalást. A cél ebben az esetben a pozitív megerősítés, az önismeret javítása.

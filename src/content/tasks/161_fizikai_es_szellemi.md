@@ -22,8 +22,6 @@ keywords:
 attachment: "161_fizikai_es_szellemi.pdf"
 ---
 
-# Fizikai és szellemi
-
 Előkészítés:
 
 a tanár olyan termékek képeit válogatja össze (újságokból vagy az internetről), amelyekben egyszerre ölt testet a fizikai és a szellemi munka többféle típusa.

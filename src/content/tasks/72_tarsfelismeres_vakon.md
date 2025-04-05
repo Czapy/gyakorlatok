@@ -18,8 +18,6 @@ keywords:
 attachment: "72_tarsfelismeres_vakon.pdf"
 ---
 
-# Társfelismerés vakon
-
 A játék kezdete előtt érdemes a zavaró, árulkodó tárgyakat levenni: szemüveg, ékszerek, karóra
 
 Kört alkotunk. A kör közepén csukott szemmel áll az egyik játékos. A körben állók menetirányban elindulnak, majd a középen álló játékos jelzésére megállnak. A kitaláló (ő áll a kör közepén) csukott szemmel rámutat valamelyik társára, aki odamegy hozzá, és a kitaláló kezét a saját arcára helyezi. A kitaláló feladata: csupán a társ arcának és kezeinek érintése, tapintása alapján felismerni társát. Ha sikerül neki, akkor cserélnek (a felismert játékos marad középen), és folytatódik a játék. Amennyiben nem sikerült felismernie a társát, úgy továbbra is ő marad a kör közepén.

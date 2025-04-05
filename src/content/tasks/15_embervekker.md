@@ -18,8 +18,6 @@ keywords:
 attachment: "15_embervekker.pdf"
 ---
 
-# Embervekker
-
 Hogyan működik a mentális óránk? Meg tudjuk-e becsülni az időt? Vegye le az órát a falról, és kérje meg a csoporttagokat, hogy tegyék el a saját óráikat.
 
 A csoportvezető jelt ad, a feladat pedig az, hogy mindenki saját maga becsülje meg, mikor telik le az egy perc. Kérjük meg a csoporttagokat, hogy amikor úgy érzik, letelt az egy perc, emeljék fel a kezüket. Ha lehetséges, akkor a csoportvezető jegyezze meg (írja fel), ki mikor emelte fel a kezét, vagy ha túl nagy a csoport, akkor az első és utolsó ember idejét.

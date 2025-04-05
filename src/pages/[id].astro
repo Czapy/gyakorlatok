@@ -14,51 +14,53 @@ const { task } = Astro.props;
 const { Content } = await render(task);
 ---
 
-<Layout>
-  <div class="w-full flex justify-center text-center pt-2">
-    <!-- <h1 class="text-3xl font-bold my-6">{task.data.title}</h1> -->
+<Layout title={task.data.title}>
+  <div class="w-full flex flex-col items-center text-center">
     <div class="prose">
       <Content />
 
-      <table>
-        <tbody>
-          <tr>
-            <th>Javasolt reflexiós kérdések, feldolgozási szempontok:</th>
-            <td>{task.data.suggestion}</td>
-          </tr>
-          <tr>
-            <th>A gyakorlat típusa:</th>
-            <td>{task.data.type?.join(", ")}</td>
-          </tr>
-          <tr>
-            <th>Javasolt korcsoport:</th>
-            <td>{task.data.age_group?.join(", ")}</td>
-          </tr>
-          <tr>
-            <th>Időigény:</th>
-            <td>{task.data.time_req}</td>
-          </tr>
-          <tr>
-            <th>Helyigény:</th>
-            <td>{task.data.space_req}</td>
-          </tr>
-          <tr>
-            <th>Eszközigény:</th>
-            <td>{task.data.tool_req}</td>
-          </tr>
-          <tr>
-            <th>Kulcsszavak:</th>
-            <td>{task.data.keywords?.join(", ")}</td>
-          </tr>
-        </tbody>
-      </table>
-
-      <div>
-        <h2>
-          <a href={`/gyakorlatok/attachments/${task.data.attachment}`}>
-            Csatolmány letöltése
-          </a>
-        </h2>
+      <div class="rounded-box border border-base-content/5 bg-base-100 px-6">
+        <table class="*:align-top prose-td:py-1 prose-th:py-1 !my-4">
+          <tbody>
+            <tr>
+              <th>Javasolt reflexiós kérdések, feldolgozási szempontok:</th>
+              <td>{task.data.suggestion}</td>
+            </tr>
+            <tr>
+              <th>A gyakorlat típusa:</th>
+              <td>{task.data.type?.join(", ")}</td>
+            </tr>
+            <tr>
+              <th>Javasolt korcsoport:</th>
+              <td>{task.data.age_group?.join(", ")}</td>
+            </tr>
+            <tr>
+              <th>Időigény:</th>
+              <td>{task.data.time_req}</td>
+            </tr>
+            <tr>
+              <th>Helyigény:</th>
+              <td>{task.data.space_req}</td>
+            </tr>
+            <tr>
+              <th>Eszközigény:</th>
+              <td>{task.data.tool_req}</td>
+            </tr>
+            <tr>
+              <th>Kulcsszavak:</th>
+              <td>{task.data.keywords?.join(", ")}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="mt-6">
+        <a
+          class="text-lg text-secondary"
+          href={`/gyakorlatok/attachments/${task.data.attachment}`}
+          target="_blank"
+        >
+          Csatolmány letöltése
+        </a>
       </div>
     </div>
   </div>

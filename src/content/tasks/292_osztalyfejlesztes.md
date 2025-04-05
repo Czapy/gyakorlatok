@@ -28,8 +28,6 @@ keywords:
 attachment: "292_osztalyfejlesztes.pdf"
 ---
 
-# Osztályfejlesztés
-
 A gyakorlatvezető elmondja, hogy az osztály ezentúl önmaga felelős irányítójává válik. Ők hozhatják meg a törvényeket, ítélkezhetnek különböző ügyekben egymás felett, megszervezhetik az osztály életét, bármit tehetnek, irányíthatnak, vezethetnek, ami az osztályhoz, az osztály életéhez tartozik. Választhatnak osztály-képviselőt, osztály-bírát, osztály-rendőrt, osztály-szervezőt, osztály-hírnököt stb. Bármilyen pozíciót megalapíthatnak, de csak akkor, ha meg is határozzák annak funkcióját, teendőit.
 
 Az ő feladatuk lesz az is, hogy ezeket a pozíciókat tiszteletben tartsák, a saját törvényeiknek engedelmeskedjenek.

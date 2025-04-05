@@ -21,8 +21,6 @@ keywords:
 attachment: "117_dontesek_kora.pdf"
 ---
 
-# Döntések kora
-
 A gyakorlat annak felismerését segíti, hogy a döntések milyen sokfélék lehetnek – különböző helyzetektől függően.
 
 A tanár az alábbi nyitott mondatokat írja fel a táblára:

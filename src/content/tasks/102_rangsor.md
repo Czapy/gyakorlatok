@@ -25,8 +25,6 @@ keywords:
 attachment: "102_rangsor.pdf"
 ---
 
-# Rangsor
-
 A diákok rendeződjenek 3-4 fős csoportokba.
 
 Minden csoport kap egy rangsoroló lapot. A feladat, hogy jussanak megegyezésre a különböző kifejezésekkel kapcsolatban.

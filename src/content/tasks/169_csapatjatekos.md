@@ -22,8 +22,6 @@ keywords:
 attachment: "169_csapatjatekos.pdf"
 ---
 
-# Csapatjátékos
-
 A csoport ötletbörze keretében olyan tevékenységeket gyűjt (pl. a sport vagy a művészet területéről), amelyeknél a jó teljesítmény alapfeltétele a megfelelő „csapatjáték”. Ezeket sorban felírják a táblára.
 
 Párok alakulnak és átgondolják, hogy melyek a „csapatjátékosok” legfontosabb tulajdonságai az egyéni versenyzőkkel szemben. 2-2 párból négyes csoportok jönnek létre, és elkészítik a közös listájukat. A szóvivők ismertetik a csoport gondolatait, majd minden javaslat felkerül egy közös listára.

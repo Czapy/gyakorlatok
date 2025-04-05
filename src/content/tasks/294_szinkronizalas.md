@@ -24,8 +24,6 @@ keywords:
 attachment: "294_szinkronizalas.pdf"
 ---
 
-# Szinkronizálás
-
 Párokat választunk, és a csoport két részre oszlik. A párok egyik fele mozog, gesztusokkal és mimikával, non-verbálisan fejezi ki magát, míg a párjuk beszél. Minden játékosnak van tehát egy _hangja_, aki kommentálja az ő játékát.
 
 Ezután a játékosok szerepet cserélnek.

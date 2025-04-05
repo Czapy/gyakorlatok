@@ -24,8 +24,6 @@ keywords:
 attachment: "289_matricak.pdf"
 ---
 
-# Matricák
-
 A gyakorlat célja saját élmény szerzése a kirekesztés folyamatáról, megvalósulásáról mind a kirekesztő, mind a kirekesztett oldaláról.
 
  **Figyelem! Ez egy igen nehéz gyakorlat, amelyet célszerű egy már a munkafolyamatba „bemelegedett” csoporttal elvégezni, ha lehet, páros vezetéssel. A gyakorlat megkezdéskor nem szabad a gyakorlat nevét megemlíteni!**

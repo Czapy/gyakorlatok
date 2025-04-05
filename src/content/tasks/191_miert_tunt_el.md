@@ -22,8 +22,6 @@ keywords:
 attachment: "191_miert_tunt_el.pdf"
 ---
 
-# Miért tűnt el?
-
 Előkészítés: a tanár (vagy valamelyik diák) olyan kártyákat készít, amelyekre régi szakmák, illetve foglalkozások neveit írja rá (Pl. szatócs, suszter, kerékgyártó, cipész, nyerges, bőrös, borbély, számadó, fazekas, drótostót, varga, kádár, tímár, csizmadia, ószeres, szűcs, bognár, jeges, kefekötő, kötélverő, vincellér stb.)
 
 Mindenki húz egy kártyát, és elmondja, hogy szerinte mit csinált az adott foglalkozás képviselője. Ha nem tudja, a többiek (vagy a tanár) segítenek neki.

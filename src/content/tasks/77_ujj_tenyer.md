@@ -22,8 +22,6 @@ keywords:
 attachment: "77_ujj_tenyer.pdf"
 ---
 
-# Ujj-tenyér
-
 A résztvevők kört alkotnak, a karok oldalt. A bal tenyér felfelé néz, a jobb mutatóujja hegyét mindenki a jobboldali szomszédja kinyújtott tenyeréhez érinti.
 
 A csoportvezető „most” felkiáltására minden csoporttag kapja el a bal tenyerében lévő ujjat és a sajátját húzza ki a szomszéd tenyerébe. Mindezt egyszerre!

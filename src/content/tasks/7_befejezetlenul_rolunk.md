@@ -22,8 +22,6 @@ keywords:
 attachment: "7_befejezetlenul_rolunk.pdf"
 ---
 
-# Befejezetlenül rólunk
-
 A gyakorlat menete:
 
 Az osztálynak saját magáról szólva kell befejeznie az alábbi mondatokat:

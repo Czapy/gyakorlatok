@@ -23,8 +23,6 @@ keywords:
 attachment: "152_jobban_tanulsz_jol_vagy.pdf"
 ---
 
-# Jobban tanulsz, ha jól vagy?
-
 A tanár olyan helyzeteket említ személyes életéből, amikor nem volt ugyan beteg, de mégsem érezte jól magát. A tanulók is felidéznek ilyeneket. Megpróbálnak magyarázatokat is keresni ezekre az állapotokra. Közösen megfogalmazzák, hogy a jól-lét egyszerre jelenti a fizikai és lelki egészséget, jó állapotot – olyan dolgok együttesét, amelyek nem hiányozhatnak az életből.
 
 A tanulók 3-4 fős csoportokat alkotnak. Mindegyik kap egy lapot, aminek a közepére felírják a „jól-lét” kifejezést. Átgondolják, hogy szerintük milyen fontos feltételei vannak ennek, és gondolattérképet készítenek az eszükbe jutó fogalmak felhasználásával. (pl. kellő mennyiségű és minőségű alvás, elegendő mozgás, jó minőségű és összetételű egészséges táplálék, elegendő szabadidő,

@@ -19,8 +19,6 @@ keywords:
 attachment: "54_mi_valtozott.pdf"
 ---
 
-# Mi változott?
-
 Párokat alkotunk. A párok alaposan megfigyelik egymást, majd egymásnak hátat fordítva megváltoztatnak 3-5 dolgot magukon: például kigombolják ingujjukat, átteszik órájukat a másik kezükre stb.
 
 Visszafordulás után fel kell ismerniük, hogy mi változott meg a társukon.

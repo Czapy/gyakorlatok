@@ -21,8 +21,6 @@ keywords:
 attachment: "187_az_en_referenciaim.pdf"
 ---
 
-# Az én referenciáim
-
 A tanár elmondja a diákoknak, hogy akik munkát keresnek, azoknak be kell tudniuk mutatni, mihez értenek, mit képesek elvégezni. Jó, ha olyan korábbi munkáltatóra is hivatkozni tudnak, aki igazolja ezt, ha szükséges – ezt hívják referenciának.
 
 Mindenki átgondolja, hogy mi az, amiről már most úgy érzi, hogy elég jól tudja, milyen készségek, jó tulajdonságok, képességek teszik alkalmassá ilyen vagy olyan feladatok elvégzésére, amikkel akár pénzt is kereshetne. Gondolatban olyan személyeket is próbálnak találni, akik ezt igazolni tudnák, ha kellene.

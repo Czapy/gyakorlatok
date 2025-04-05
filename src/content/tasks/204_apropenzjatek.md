@@ -27,8 +27,6 @@ keywords:
 attachment: "204_apropenzjatek.pdf"
 ---
 
-# Aprópénzjáték
-
 A játék 3 fordulóból áll.
 
 Az _első fordulóban_ a terem közepére öntjük a pénzt, s jeladásra mindenki annyit vehet belőle, amennyit akar, illetve tud. Ezután ki-ki megszámolja, hogy hány db pénz jutott neki, s ezt sorban bemondja, a játékvezető vagy a tréner pedig feljegyzi.

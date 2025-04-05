@@ -25,8 +25,6 @@ keywords:
 attachment: "66_rajz_es_szimbolum.pdf"
 ---
 
-# Rajz és szimbólum – osztálycímer
-
 Mindenki készít egy külön papírlapra egy rajzot, amin életének általa legfontosabbnak tartott mozzanatait ábrázolja. (Aki arra hivatkozik, hogy nem tud rajzolni, azt biztassuk azzal, hogy nem a rajzkészség a fontos, hanem bemutatkozás – történjék ez akármilyen leegyszerűsített módon is.)
 
 Ezután mindenki találjon ki egy szimbólumot, ami szerinte leginkább jellemzi őt. Ezt a szimbólumot rajzolja föl az előbbi rajz alá, ugyanarra a lapra. A rajzokat mindenki számára látható helyre tesszük.

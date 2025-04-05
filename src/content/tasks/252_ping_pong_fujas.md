@@ -18,7 +18,5 @@ keywords:
 attachment: "252_ping_pong_fujas.pdf"
 ---
 
-# Ping-pong labda fújás
-
  Két összetolt iskolapad közepére (egyszerre több csoport játszhatja) helyezzük a labdát és két oldalról 3-3 tanuló elkezdi fújni. Az erőviszonyok és a könnyű labda miatt nehezen fog a másik térfélre menni a labda. Gyakori, hogy oldalt legurul, ekkor újra középről folytatódik a játék.Rövid idő alatt elfárad a csapat, és nyugodtan lehet velük a továbbiakban dolgozni.  
   

@@ -23,8 +23,6 @@ keywords:
 attachment: "189_palyaletra.pdf"
 ---
 
-# Pályalétra
-
 A tanár előzetesen elkészíti és a tanulói létszámnak megfelelő mennyiségben sokszorosítja a munkalapokat.
 
 A gyakorlat elején arra kéri a diákokat, hogy mondjanak olyan foglalkozásokat, amelyekben felnőttként el tudnák képzelni magukat. Ezeket elszórtan felírja a táblára vagy egy nagy papírra. A tanulók kiválasztják azt a szakmát, amely az adott pillanatban a legközelebb áll hozzájuk.

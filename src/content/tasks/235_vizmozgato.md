@@ -25,8 +25,6 @@ keywords:
 attachment: "235_vizmozgato.pdf"
 ---
 
-# Vízmozgató
-
 Osszuk a csoportot 3-6 fős csapatokra. Minden csoport kap egy pohár vizet, és a felsorolt eszközöket. A csoport feladata, hogy a pohár vizet eljuttassák a játékvezető által kijelölt A pontból B pontba.
 
 Szabályok:

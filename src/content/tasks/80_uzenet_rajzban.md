@@ -23,8 +23,6 @@ keywords:
 attachment: "80_uzenet_rajzban.pdf"
 ---
 
-# Üzenet rajzban
-
 Alakítson ki két egyenlő számú résztvevőből álló csapatot a csoportból, és állítsa őket fel két oszlopba. Mindkét oszlop első emberének adjon egy papírlapot és egy filctollat (vagy állítsa a tábla elé egy krétával).
 
 Majd mindkét csapatból hívja félre a sor végén álló embert, és mutassa meg neki azt az ábrát (pl.: négyzet, kör, homokóra, ház kerítéssel), amit előre elkészített.

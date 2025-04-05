@@ -17,8 +17,6 @@ keywords:
 attachment: "2_agyaggalamb.pdf"
 ---
 
-# Agyaggalamb
-
 Körbe ülnek a játékosok. Feltesszük a kérdést: Hogyan érzitek most magatokat? Milyen a hangulatotok?
 
 Egy gyurmadarabot adnak körbe, melyet mindenki olyanra formáz, amilyenre szeretne, és megindokolja, hogy miért az lett belőle.

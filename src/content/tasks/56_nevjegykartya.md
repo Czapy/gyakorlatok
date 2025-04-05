@@ -22,7 +22,5 @@ keywords:
 attachment: "56_nevjegykartya.pdf"
 ---
 
-# Névjegykártya
-
  Minden játékos készít magáról egy "névjegykártyát". A szokásostól eltérően a kártya nem tartalmazza a nevet, címet, telefonszámot. Ezek helyett egyéni - nem külső - jellemzőinket írjuk rá, tömören szólva arról, milyennek látjuk magunkat. Ezután a játékvezető összeszedi a kártyákat, majd megkeverve kiosztja őket. Felolvasva a kártyán található szöveget, mindenki próbálja meg kitalálni, kinek a lapja került hozzá.  
   

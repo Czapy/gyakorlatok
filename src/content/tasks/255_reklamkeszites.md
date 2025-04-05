@@ -23,8 +23,6 @@ keywords:
 attachment: "255_reklamkeszites.pdf"
 ---
 
-# Reklámkészítés az egészséges életmódról
-
 A játékvezető 3-5 fős kiscsoportokra osztja a társaságot
 
  **Instrukció**

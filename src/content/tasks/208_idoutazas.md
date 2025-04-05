@@ -47,8 +47,6 @@ keywords:
 attachment: "208_idoutazas.pdf"
 ---
 
-# Időutazás
-
 A gyakorlat levezetéséhez két fő szükséges, akik a kötél két végét fogják, és úgy hajtják közepes tempóban, mintha egy óriási ugrókötél lenne. A csoport a kötél egyik oldalán helyezkedik el, a cél, hogy mindenki átjusson - egyenként, majd vissza párban - a túlsó oldalra. A csoport egy időutazáson vesz részt, minden hajtással egy évet ugrik az időgép. A csoport célja, hogy a lehető legmesszebb jusson el az időgép segítségével, ehhez minden csoporttagnak át kell jutnia a túloldalra úgy, hogy nem ér hozzá a kötélhez. Ha valaki hozzáér, vagy ha egy hajtás alatt senki nem megy át, akkor újra elölről indul az időgép, a mából. Szabály, hogy a kötelet hajtókat nem lehet megközelíteni 1-1,5 méteren belül.
 
 Variáció:

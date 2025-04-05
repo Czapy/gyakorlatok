@@ -18,8 +18,6 @@ keywords:
 attachment: "225_meg_tobb_csipesz.pdf"
 ---
 
-# Még több csipesz
-
 A játékosok körben állnak, egymás után dobnak a dobókockákkal, aki 7-et dob, odaszalad a középen lévő csipeszekhez, és elkezdi magára aggatni egyesével azokat. Ezt addig teheti, amíg valaki újra nem dob 7-et, s odamegy a csipeszes zsákhoz. Akkor abba kell hagynia, és visszaállnia a helyére.
 
 A játékot az nyeri meg, akin a legtöbb csipesz van

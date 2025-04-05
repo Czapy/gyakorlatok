@@ -20,8 +20,6 @@ keywords:
 attachment: "114_elhatarozasok.pdf"
 ---
 
-# Elhatározások
-
 A gyakorlat középpontjában a személyes célok tudatosítása áll. A tanár felírja a táblára az alábbi hiányos mondatokat:
 
 _Szeretném megtanulni, hogyan kell…_

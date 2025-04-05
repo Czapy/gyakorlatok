@@ -22,8 +22,6 @@ keywords:
 attachment: "288_krumplifej.pdf"
 ---
 
-# Krumplifej
-
 Osszuk a nagycsoportot kisebb csapatokra. Minden csapat kapja meg az eszközöket. A feladatuk a legkreatívabb _Krumplifej_ kitalálása, amit el is kell készíteniük.
 
 Miután minden csapat elkészült, mutassák meg egymásnak a munkájukat.

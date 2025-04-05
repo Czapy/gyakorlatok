@@ -21,8 +21,6 @@ keywords:
 attachment: "287_korunk_szalloigei.pdf"
 ---
 
-# Korunk szállóigéi
-
 Nagyon sok olyan aforizmát, közmondást, szólást ismerünk, amely szállóigévé válva a szó szerinti konkrét tartalomnál lényegesen többet fejez ki. Ezeknek a tömör életbölcsességeknek egy része több ezer éves, de azóta is folyamatosan keletkeznek újabbak. Ezek közül válogattuk a következőket:
 
  _A beismerés jó a lelkiismeret számára, de káros a karrierre._

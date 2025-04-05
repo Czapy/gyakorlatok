@@ -22,8 +22,6 @@ keywords:
 attachment: "147_amikor_felnott_leszek.pdf"
 ---
 
-# Amikor felnőtt leszek, számomra…
-
 A gyakorlat a fiatalok értékekről való gondolkodását, értékválasztásaik tudatosulását támogatja.
 
 A foglalkozás előtt a tanár 3 db 8 lapos kártyacsomagot készít elő, amelynek lapjain az alábbi kifejezések szerepelnek: hozzájárulás a társadalom fejlődéséhez, siker a munkában, segíteni másoknak, kaland és izgalom, házasság, család, sok pénz, kreativitás.

@@ -18,7 +18,5 @@ keywords:
 attachment: "4_atomok.pdf"
 ---
 
-# Atomok
-
  Az atomok össze-vissza röpködnek a levegőben - a játékosok csak járkálnak, mégpedig igen óvatosan és lassan, mert csukott szemmel kell mozogniuk. A játékvezető kiált egy számot - ilyen atomszámú molekulákká kell a játékosoknak összeállniuk. Amikor már mindenki mozdulatlan, az atomok ismét szerteszállnak, amíg el nem hangzik a következő szám.  
   

@@ -23,8 +23,6 @@ keywords:
 attachment: "278_a_pasztor_baranyai.pdf"
 ---
 
-# A pásztor elveszett báránykái
-
 A játék célja, hogy a pásztor a lehető legrövidebb idő alatt beterelje az összes bárányt a karámba. A bárányok vakok (szemüket bekötjük), és természetüknél fogva nem tudnak beszélni.
 
 A pásztor lát, de nem mozoghat, és nem érintheti meg a bárányokat. Ezért a csoportnak ki kell találni egy beszéd-és érintésmentes kommunikációt. A jelek és a stratégia kitalálására 15 perc áll rendelkezésükre. Ekkor még nem tudják a játékosok, hogy ki lesz közülük a pásztor.

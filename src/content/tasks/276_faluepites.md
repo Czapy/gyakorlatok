@@ -53,8 +53,6 @@ keywords:
 attachment: "276_faluepites.pdf"
 ---
 
-# Faluépítés
-
 Instrukció
 
 _„Építsétek fel a falut, hogy milyen kérdésekre várok választ, az a játék közben kiderül! Szabály: Az információkat megoszthatjátok, de a kártyáitokat nem mutathatjátok meg másnak! Rendelkezésetekre áll a tábla.”_

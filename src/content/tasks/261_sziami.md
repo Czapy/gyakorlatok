@@ -21,7 +21,5 @@ keywords:
 attachment: "261_sziami.pdf"
 ---
 
-# Sziámi
-
  A résztvevők párokat formálnak. Egy általuk kiválasztott ponton (testfelületen) a párok „összenőnek” (pl.: egymás felé eső vállukat vagy karjukat összeszorítva mozognak). Az egyetlen szabály: az összeszorított testrészek nem válhatnak el a játék során – mintha ketten egy test lennének. A pároknak mindenféle jel, megbeszélés nélkül kell mozogniuk, megállniuk, kedvük szerint újra elindulhatnak, leülhetnek, leguggolhatnak stb.  
   

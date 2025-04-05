@@ -21,8 +21,6 @@ keywords:
 attachment: "149_hajotores.pdf"
 ---
 
-# Hajótörés
-
 Alkossunk nagyjából egyforma létszámú (5-6 fős) csoportokat! A csoportok számára rendelkezésre áll egy-egy tornapad, esetleg szorosan egymás mellé állított székek, vagy a földre ragasztott keskeny, egy cipő szélességű sáv. Instrukció: A csoport hajótörést szenvedett a háborgó tengeren, ami tele van cápákkal. Gyorsan be kell ugrani kiscsoportonként a mentőcsónakba (fellépni a padra/székekre vagy beugrani a keskeny sávba. Aki beleér a tengerbe, azt elkapják a cápák.
 
 Ezután a tréner különböző instrukciókkal helycserére készteti a résztvevőket (’_A hajó elsüllyed, ha nem nagyság szerinti sorrendben helyezkedtek el – elöl legyen a legalacsonyabb, és így tovább!’_ ’Utána: _A rangidősnek kell vezetni a hajót, és így tovább, rendeződjetek születési sorba, mert különben elsüllyed a hajó!’_ ’_Most az álljon elöl, akinek a legrövidebb haja van’, ’akinek a legidősebb tesója van’, ’aki életében a legtávolabbra utazott’,_ stb., tehát olyan kérdéseket is feltehetünk, amiben a résztvevők információkat tudnak meg egymásról.

@@ -24,8 +24,6 @@ keywords:
 attachment: "233_stan_es_pan.pdf"
 ---
 
-# Stan és Pan
-
 Minden játékos kap egy szerepkártyát, és időt kap arra, hogy belehelyezkedjen a szerepbe.
 
 Párokat alkotnak, és kérdésekkel, állításokkal mutatkoznak be, de nem árulhatják el, kik ők, milyen szerepet kaptak.

@@ -19,8 +19,6 @@ keywords:
 attachment: "84_visszajelzo_halo.pdf"
 ---
 
-# Visszajelző háló
-
 A csoport tagjai üljenek körbe. Az egyik csoporttag elkezdi a gyakorlatot: megfogja a fonal végét, a gombolyagot pedig továbbadja egy általa választott másik csoporttársának. Közben néhány pozitív visszajelzést ad a társának és a csoportnak a közös tevékenység során átélt élményekkel kapcsolatban.
 
 Példák:

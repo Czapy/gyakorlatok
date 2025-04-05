@@ -32,7 +32,5 @@ keywords:
 attachment: "210_eselyek.pdf"
 ---
 
-# Esélyek
-
  A csoport félkörben áll, úgy, hogy jól lássák egymást, minden résztvevő kezében pohár van. A játékvezető többször végigsétál a csoport előtt, és egyeseknek vizet tölt a poharába (akár többször is), másoknak nem. A játék végére a résztvevőknek egészen különbözőképpen van teletöltve a poharuk: van, akinek teljesen tele lesz, van, akinek félig, negyedig, vagy teljesen üres. Ekkor a játékvezető közli, hogy most mindenki azt tesz a poharával, amit akar! (Várhatóan lesz, aki koccint és iszik, lesz, aki másnak tölt a magáéból, és olyan is lehet, aki majd visszautasítja azt.)  
   

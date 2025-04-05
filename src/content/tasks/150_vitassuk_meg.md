@@ -21,8 +21,6 @@ keywords:
 attachment: "150_vitassuk_meg.pdf"
 ---
 
-# Vitassuk meg!
-
 A tanár egy megvitatásra érdemes állítást fogalmaz meg. Ez bármilyen témához kapcsolódhat, ami érdekli az adott csoportot. Például: Meg kellene engedni, hogy a fiatalok már 16 éves koruktól fogyaszthassanak alkoholt.
 
 A tanulók három csoportra bomlanak. Az egyik csoport az állítás melletti, a másik pedig az ellene szóló érveket gyűjti össze. A harmadik csoport tagjai alkotják a zsűrit. Amíg a másik kettő érveket gyűjt, ők az értékelési szempontokat gondolják át.

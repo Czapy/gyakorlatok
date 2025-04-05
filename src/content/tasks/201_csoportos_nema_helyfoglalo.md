@@ -35,7 +35,5 @@ keywords:
 attachment: "201_csoportos_nema_helyfoglalo.pdf"
 ---
 
-# Csoportos néma helyfoglaló
-
  A résztvevők a térben véletlenszerűen elhelyezett székeken ülnek. Egy játékos áll az ülőktől néhány méterre. Az a célja, hogy - egyenletes, normál tempóban lépkedve - elérje a tőle viszonylag távol lévő egy darab szabad széket, és oda leüljön. A csoport feladata, hogy megakadályozza ezt azzal, hogy előtte valamelyik csoporttag - némán - elfoglalja azt. Azonban így mindig felszabadul egy-egy szék különböző helyeken, így a játék addig tart, míg az eredetileg álló játékos le nem ül. Szabály, hogy a székeket nem lehet elmozgatni a helyükről, és ha valaki már felállt a saját helyéről, ugyanoda nem ülhet vissza, ha meggondolta magát.  
   

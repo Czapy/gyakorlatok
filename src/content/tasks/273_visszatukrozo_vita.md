@@ -34,8 +34,6 @@ keywords:
 attachment: "273_visszatukrozo_vita.pdf"
 ---
 
-# Visszatükröző vita
-
 A résztvevők a térben középen állnak, a terem 4 falára 4 felirat kerül: „Egyetértek”, szemben „Nem értek egyet”, a másik két falon egymással szemben „Inkább egyetértek”, és „Inkább nem értek egyet”.
 
 A gyakorlat lényege, hogy a játékvezető állításokat mond egy-egy témában (ahol vannak a játékvezető által mondott állítás mellett és ellene is érvek), a diákok pedig a véleményüket fejezik ki azzal, hogy valamelyik fal elé mennek, majd – a játékvezető által megszólítottak) megindokolják a választásukat, és vitát folytatnak. Fontos, hogy újabb és újabb érvek hangozzanak el egymás után a szemben lévő oldalakról, de úgy, hogy – mielőtt a magáét elmondaná – minden megszólaló egy mondatban összefoglalja (visszatükrözi) az előző felszólaló véleményét. („Véleményedben te azt fejtetted ki, hogy..., én ezzel szemben azt képviselem, hogy...”).

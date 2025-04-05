@@ -27,8 +27,6 @@ keywords:
 attachment: "20_fenykepezogep.pdf"
 ---
 
-# Fényképezőgép
-
 A csoportot párokra osztjuk. Az egyik fél lesz a fényképész/fotográfus, a másik a fényképezőgép. A fényképezőgép lezárja a lencséjét (becsukja a szemét) és csak akkor nyitja ki, amikor exponál.
 
 A fotográfus feladata pedig az, hogy keressen egy számára kedves helyet, képet, amit le szeretne fotózni, állítsa be a kamerát, majd finoman nyomja meg a fényképezőt (a partnere fülét), ami kinyitja a szemét és néhány másodpercig exponál.

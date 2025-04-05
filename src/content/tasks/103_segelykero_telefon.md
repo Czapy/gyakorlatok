@@ -21,8 +21,6 @@ keywords:
 attachment: "103_segelykero_telefon.pdf"
 ---
 
-# Segélykérő telefon
-
 **Instrukció**: „Mindannyian voltunk már olyan helyzetben, amikor jól jött, hogy felhívhattuk egy barátunkat, segítséget kérve tőle vagy egyszerűen csak azért, hogy kibeszélhessük magunkat neki. Most arra kérlek benneteket, hogy képzeljetek el egy ilyen helyzetet, és „hívjatok fel” valakit a csoportból, mintha a legjobb barátotok lenne. Akit megszólítanak (felhívnak), tegyen úgy, ahogy egy igazi barát tenne ilyenkor. A beszélgetésnek akkor van vége, ha a hívó fél elbúcsúzik.”
 
 A csoport maradhat körben ülve vagy U alakot formálva, kitehetünk két széket a színpadra – egymásnak háttal.

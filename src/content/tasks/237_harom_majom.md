@@ -26,8 +26,6 @@ keywords:
 attachment: "237_harom_majom.pdf"
 ---
 
-# Három majom
-
 A gyakorlat előkészítése: átrendezzük a termet úgy, hogy a padokat a falak mellé helyezzük el, alájuk fordított székekkel a balesetveszély minimálisra csökkentése érdekében.
 
 A gyakorlat menete:

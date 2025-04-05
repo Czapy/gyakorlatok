@@ -25,8 +25,6 @@ keywords:
 attachment: "196_en_ez_vagyok.pdf"
 ---
 
-# Ez az én szerepem
-
 A gyakorlatot játszassuk kis csoportokban (4-5 fő)!
 
 A csoportok külön ülnek és a csoportokon belül mindegyik játékos elmondja, hogy milyen szerepet fog játszani – tegyék mindezt úgy, hogy nem beszélhetik meg előre, hogy mi lesz a történetük. Beszéljék el, hogy kik ők, hogyan néznek ki, mi a hobbijuk stb. Választhatnak bármilyen szerepet, lehetnek egymásnak rokonai, szomszédai stb.

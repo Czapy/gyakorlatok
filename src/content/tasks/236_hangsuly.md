@@ -18,8 +18,6 @@ keywords:
 attachment: "236_hangsuly.pdf"
 ---
 
-# Hangsúly
-
 Ez a gyakorlat kétirányú figyelemmegosztást kíván. Körben állunk, s az első négy számot mondjuk egymás után úgy, hogy közülük mindig csak az egyik legyen hangsúlyos. A hangsúly minden ismétlődés alkalmával eggyel tovább kerül:
 
 \[1\]2 3 4/1 \[2\] 3 4/1 2 \[3\] 4/1 2 3 \[4\]/\[1\] 2 3 4 stb.

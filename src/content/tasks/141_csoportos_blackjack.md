@@ -21,8 +21,6 @@ keywords:
 attachment: "141_csoportos_blackjack.pdf"
 ---
 
-# Csoportos blackjack
-
 A résztvevők egy nagy körben állnak. Minden résztvevőnek adjunk egy kártyát, és kérjük meg őket, hogy ne nézzék meg. A játék alatt a csoporttól elvesszük a hangjukat. Kérjük meg a csoportot, hogy tegyék a homlokukra a kártyájukat, így mindenki számára jól látható lesz. Huszonegyezniük kell, azaz minden résztvevőnek egy olyan csoportban kell lennie, aminek az értéke 19, 20, vagy 21 lehet.
 
 A csoportnak mindenkit be kell vonnia attól függetlenül, hogy hány résztvevője van a csoportnak. Célszerű ászokat a pakliba tenni, vagy előre kiszámolni a lapokat, hogy könnyebben menjen a játék.

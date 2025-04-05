@@ -25,8 +25,6 @@ keywords:
 attachment: "57_kozos_szabalyalkotas.pdf"
 ---
 
-# Közös szabályalkotás és szerződéskötés az osztályban
-
 Minden egyes tanuló írja fel azt az öt tulajdonságot, amely szerinte a saját osztályára jellemző. Mindenki megvitatja padszomszédjával, hogy melyik az a mindkettőjük által elfogadott öt vonás, ami a tanulócsoportra jellemző. (Ha páratlan az osztálylétszám, létrehozható háromtagú csoport: triád is.)
 
 Négy- vagy hatfős csoportok alakulnak, és a párok öt-öt jellemzőjét megvitatva döntenek a szerintük igaz öt-öt jellemzőről (a párok, illetve triádok minden esetben együtt maradnak).

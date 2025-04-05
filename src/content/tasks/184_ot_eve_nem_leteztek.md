@@ -22,8 +22,6 @@ keywords:
 attachment: "184_ot_eve_nem_leteztek.pdf"
 ---
 
-# Öt éve még nem is léteztek
-
 A tanár elmondja a diákoknak, hogy számos felmérés szerint vannak olyan népszerű foglalkozások, amelyek öt évvel ezelőtt még nem is léteztek. (Pl. zumba edző, androidra építő informatikai programfejlesztő stb.) Persze vannak olyanok is, amelyek stabilan népszerűek. De az ilyen területeken is folyamatosan változik a tudás, amivel a szakma jól fizetett képviselőinek rendelkezniük kell.
 
 2-3 fõs csoportok alakulnak. Ha van rá lehetőség, akkor az internet segítségével (5-10 percig) információkat gyűjtenek arra vonatkozóan, hogy jelenleg melyek a legnépszerűbb szakmák Magyarországon. Ha nincsenek meg a technikai feltételek ehhez, akkor saját tapasztalataik alapján próbálnak elgondolkodni ezen.

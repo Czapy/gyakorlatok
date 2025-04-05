@@ -24,8 +24,6 @@ keywords:
 attachment: "244_kartyas_puzzle.pdf"
 ---
 
-# Kártyás puzzle
-
 **A játék menete:**
 
 A kártyákat 3 különböző csoportra osztjuk.

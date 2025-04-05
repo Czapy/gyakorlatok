@@ -30,8 +30,6 @@ keywords:
 attachment: "75_tovabb_a_csomot.pdf"
 ---
 
-# Tovább a csomót!
-
 A kötélre csomót kötünk. A csoport minden tagja körben áll, és két kézzel fogja a kötelet. Feladatuk az, hogy a csomót egy általuk meghatározott irányban a kör mentén egyszer körbejuttassák.
 
 Mielőtt elkezdik a gyakorlatot, érdemes megkérdezni a csoportot, mennyi időre van szükségük ahhoz, hogy a csomó körbeérjen. A csoportkonszenzusos döntést követően mérjük az időt, majd egy újabb körben, egy újabb becslést követően javíthatnak rajta.

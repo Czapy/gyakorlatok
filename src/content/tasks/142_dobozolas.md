@@ -22,8 +22,6 @@ keywords:
 attachment: "142_dobozolas.pdf"
 ---
 
-# Dobozolás
-
 **A játék menete:** Alakítsunk 5-6 fős kisebb csoportokat, akik egymástól elkülönülnek. Minden csoport kap 13 kártyát. A kártyadobozt helyezzük el a csoportok között. A csoportok kapnak 3 percet, hogy megtervezzék a feladatot anélkül, hogy megnéznék a kártyát addig, amíg a játékvezető el nem indítja a játékot.
 
 A feladatuk, hogy kirakják a kártyákat 4 irányban: a 4 formát ásztól a királyig. Az ásznak érintenie kell a dobozt, és a 2-nek az ászt.

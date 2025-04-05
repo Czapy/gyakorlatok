@@ -21,8 +21,6 @@ keywords:
 attachment: "148_fejlodes_es_valtozas.pdf"
 ---
 
-# Fejlődés és változás
-
 A gyakorlat segíti annak tudatosulását, hogy a fejlődés és a változás állandó része a világunknak.
 
 Bevezetésképpen a tanár elmondja a diákoknak, hogy mi minden nem létezett még a mai technikai eszközök közül abban az időben, amikor ő volt gyerek (pl. okos telefon, tablet stb.).

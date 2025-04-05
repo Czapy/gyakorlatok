@@ -17,8 +17,6 @@ keywords:
 attachment: "195_egyutt_mozgas.pdf"
 ---
 
-# Együtt mozgás
-
 **Instrukció**: „A következő játékhoz azt kérem, hogy álljatok fel egy körben és kapaszkodjatok össze, fogjátok meg egymás vállát! Instrukciókat fogok mondani, amit végre kell hajtanotok, de a fontos az, hogy együtt végezzétek azokat, azaz nem engedhetitek el egymás vállát!”
 
  **Menete**:

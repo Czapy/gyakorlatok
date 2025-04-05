@@ -25,8 +25,6 @@ keywords:
 attachment: "98_mackokaland.pdf"
 ---
 
-# Mackókaland
-
 Kijelöljük Malackát, aki szeretne Mackóval beszélgetni, de ő most nem ér rá, ezért el akarja ezt kerülni. A játékosok lesznek az erdő fái, a terem egyik feléről el kell juttatniuk a másikra a macit úgy, hogy Malacka ne vegye észre.
 
 Adjunk 5 percet a játékosoknak, hogy kitalálják, milyen taktikával próbálják meg a macit eljuttatni az erdő másik felére.

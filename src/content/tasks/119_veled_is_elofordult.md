@@ -21,8 +21,6 @@ keywords:
 attachment: "119_veled_is_elofordult.pdf"
 ---
 
-# Veled is előfordult már?
-
 A gyakorlat segíti annak tudatosítását, hogy különféle formái vannak a megsemmisítésnek, megalázásnak, „lehúzásnak”, de ezek a helyzetek is kezelhetők pozitív módon.
 
 Minden tanuló kap három cédulát. Az egyikre egy olyan kifejezést ír le, amivel őt bántotta meg valaki. A másikra egy olyat, amivel ő bántott meg valakit. A harmadikra pedig egy olyat, amivel önmagát illette rossz pillanatában. A cédulákat összegyűjtik három dobozban, majd sorban felolvassák azokat. Megfigyelik, hogy van-e lényegi különbség a negatív kifejezések három csoportja között.

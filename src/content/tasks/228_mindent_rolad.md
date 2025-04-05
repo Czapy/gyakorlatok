@@ -24,8 +24,6 @@ keywords:
 attachment: "228_mindent_rolad.pdf"
 ---
 
-# Mindent rólad
-
 A játékvezető különböző állításokat mond, a játékosok az állításoknak megfelelően cselekszenek.
 
 1. Mindenki, akinek ma jó kedve van, az tapsoljon.

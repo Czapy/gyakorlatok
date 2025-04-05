@@ -23,8 +23,6 @@ keywords:
 attachment: "277_szabotazs.pdf"
 ---
 
-# Szabotázs
-
 Írjuk fel a „szabotázs” szót a táblára, és kérdezzük meg a diákoktól, mit jelent. Ha szükséges, gondoskodjunk szótárakról és tartsunk megbeszélést, hogy mindenki megértse a kifinomult zátonyra futtatás, tönkretevés és aláaknázás fogalmait.
 
 Kérjük meg a diákokat, hogy párokban sorolják föl mindazokat a módszereket, amelyekkel az osztály tagjai szabotálhatják a tanulást. Némi őszinteségre való buzdításra is szükség lehet, és a diákok nevét sem szabad leírni, csupán soroljuk fel a viselkedésmódokat.

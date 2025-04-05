@@ -18,8 +18,6 @@ keywords:
 attachment: "280_az_asszertivitas_jatekai.pdf"
 ---
 
-# Az asszertivitás játékai
-
 A csoportvezető röviden ismerteti az asszertivitás (határozottság, magbiztosság, önérvényesítés, „nyertes-nyertes” kommunikáció), az agresszivitás és a szubmisszivitás (alárendelődés, “nyusziság”) közötti különbséget.
 
 A résztvevők párokat alakítanak.

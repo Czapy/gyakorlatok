@@ -27,7 +27,5 @@ keywords:
 attachment: "227_mindenki_egy_oldalon.pdf"
 ---
 
-# Mindenki egy oldalon
-
  A játékteret két térfélre osztjuk azzal, hogy vagy egy röplabdahálót vagy egy zsinórt kifeszítünk. A csapat minden tagja a pálya egyik oldalon áll. Amikor valaki üti a másiknak a lufit, át kell futnia a másik oldalra. A játék célja, hogy mindenki átkerüljön a másik térfélre, anélkül, hogy a lufi érintené a földet. A térfélen maradó utolsó játékosnak a feladata, hogy át kell ütnie a lufit a hálón, és át kell futnia a háló alatt, mielőtt valaki beleérne. A játék folytatódik tovább, amíg a lufi nem érinti a talajt.  
   

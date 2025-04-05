@@ -28,8 +28,6 @@ keywords:
 attachment: "275_szinkronstudio.pdf"
 ---
 
-# Szinkronstúdió
-
 A gyakorlat célja a verbális és nonverbális kommunikáció összhangjának (szinkronitásának) a biztosítása, az érzelmi azonosulás gyakorlása.
 
 A csoportvezető 3 azonos létszámú részre osztja a csoportot.

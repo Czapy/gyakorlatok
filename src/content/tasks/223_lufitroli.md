@@ -24,8 +24,6 @@ keywords:
 attachment: "223_lufitroli.pdf"
 ---
 
-# Lufitroli
-
 Fújjuk fel a lufikat. A résztvevők egy oszlopban állnak, minden két résztvevő között van egy lufi. A lufit úgy kell egymás között megtartani, hogy azt nem foghatják a kezükkel, és nem szabad leesnie. A játékvezető kijelöl egy kiindulási és egy beérkezési pontot.
 
 A csoport feladata, hogy átjussanak a kijelölt területen, anélkül, hogy leesnének a lufik.

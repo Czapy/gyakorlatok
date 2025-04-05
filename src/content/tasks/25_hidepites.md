@@ -29,8 +29,6 @@ keywords:
 attachment: "25_hidepites.pdf"
 ---
 
-# Hídépítés
-
 A csoportot két csapatra osztjuk. A feladat: megépíteni mindkét csapatnak egy híd egyik felét úgy, hogy a gyakorlat végén a két félhídnak össze kell érnie, és egy kis játékautót át kell tudni gurítani az egyesített hídon.
 
 A csapatok szóvivőket választanak. Öt perc munka után a szóvivők találkozhatnak és egy percben egyeztethetik a munkát. Három megbeszélés után adunk még öt percet, majd véget ér az építés. Összeillesztjük a fél hidakat, és átgurítjuk rajta az autót.

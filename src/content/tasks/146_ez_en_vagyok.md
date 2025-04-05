@@ -19,8 +19,6 @@ keywords:
 attachment: "146_ez_en_vagyok.pdf"
 ---
 
-# Ez én vagyok
-
 A gyakorlat hozzájárulhat ahhoz, hogy a tanulókban tudatosuljon néhány személyes erősségük, és érdeklődési irányuk.
 
 A tanár mindenkinek ad egy lapot, az alábbi mondatkezdetekkel:

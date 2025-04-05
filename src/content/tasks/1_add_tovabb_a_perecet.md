@@ -24,8 +24,6 @@ keywords:
 attachment: "1_add_tovabb_a_perecet.pdf"
 ---
 
-# Add tovább a perecet
-
 A játékosok oszlopba állnak, mindenki a szájában egy ropit tart. Az indító játékos egy kis perecet „felszúr” a ropival, és megpróbálja továbbadni a mellette állónak. Ha a perec leesik, akkor elölről kell kezdeni a feladatot.
 
 Ha túlságosan könnyű a feladat számukra, akkor nehezíthetjük azzal, hogy időkorlátot állítunk, vagy versenyeztetjük a csapatot: minél gyorsabban adják a sor végéig a perecet.

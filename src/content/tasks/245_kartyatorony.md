@@ -22,8 +22,6 @@ keywords:
 attachment: "245_kartyatorony.pdf"
 ---
 
-# Kártyatorony
-
 **A játék menete**: Alakítsunk 3-5 fős csoportokat, minden csapat kapjon 10 kártyalapot (többet is lehet). A csoportok kapnak 5 percet arra, hogy megtervezzék, hogyan fogják a legmagasabb, önállóan megálló tornyot felépíteni 30 másodperc alatt. A kártyákat nem lehet meghajlítani, és semmilyen más eszközt nem használhatnak.
 
 A pontok számolásánál lehet azt a módszert alkalmazni, hogy a szintek számával szorozzuk a legmagasabb értékű lapot.

@@ -23,8 +23,6 @@ keywords:
 attachment: "290_ok_es_okozat.pdf"
 ---
 
-# Ok és okozat
-
 A játékosok körben ülnek törökülésben a földön, szőnyegen. A gyakorlatvezető annyi kártyát készít, amennyi játékos van. A kártyákra a gyakorlat céljától függő témakörben (például pályaválasztás) gondolatokat, eszközöket stb. ír fel. Ezeket a kártyákat véletlenszerűen kiosztja a játékosok között. A fonalat odaadja az egyik gyereknek.
 
 Minden játékos felolvassa a kártyáján szereplő szót, amit megpróbálnak megjegyezni (kiváló memória fejlesztő gyakorlat is egyben). A kezdő játékos megpróbál logikai kapcsolatot találni a saját kártyája és valamelyik másik kártya között, majd kicsit letekerve odadobja társának a gombolyagot. A játék végére szinte mindenki össze lesz kötve mindenkivel. A játék végén természetesen ki kell bogozódni, közben mód van a megbeszélésre.

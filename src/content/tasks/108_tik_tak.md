@@ -22,8 +22,6 @@ keywords:
 attachment: "108_tik_tak.pdf"
 ---
 
-# Tik-tak
-
 A játék olyan, mintha egy rakás rövid memóriájú embert zárnának össze, akiknek az a feladatuk, hogy a tárgyakat és azok nevét is egy ceremónia keretében továbbítsák a körben utánuk következőnek. A játék elején a két tárgy valamelyikét elnevezzük „tikk”-nek, a másikat „takk”-nak. A játék során egy meghatározott párbeszéd fog az egymás mellett ülök közt lejátszódni.
 
 Az egyik gyerek odaadja a mellette ülőnek a „tikk”-et („Ez itt egy tikk.”). Mivel az a gyerek, aki megkapta a „tikk”-et, elfelejtette a „tikk” nevét (azaz azt, hogy „tikk”), visszakérdez („Egy mi?” „Egy tikk.” „Köszönöm.”). A második gyerek ugyanezen a módon továbbadja a „tikk”-et a másik oldalán ülő gyereknek, és amikor az visszakérdez („Egy mi?”), akkor a második gyerek az elsőtől kérdezi meg újra, majd a válasszal visszafordul a harmadik gyerekhez.

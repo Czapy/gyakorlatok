@@ -22,8 +22,6 @@ keywords:
 attachment: "281_az_en_fam.pdf"
 ---
 
-# Az én fám
-
 Bekötjük a játékos szemét, megforgatjuk, közben a segítő a kötelet körbevezeti a fák között – törzsükre hurkolva a kötelet. A kötél vége egy fához vezet.
 
 A játékos feladata, hogy bekötött szemmel végigsétáljon a kötelet vezetőszárnak használva, útközben megfigyelje a terepet (akadályok, érintett fák, bokrok stb.), majd visszajön a kötél mellett.

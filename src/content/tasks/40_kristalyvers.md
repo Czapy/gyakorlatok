@@ -26,8 +26,6 @@ keywords:
 attachment: "40_kristalyvers.pdf"
 ---
 
-# Kristályvers
-
 A párok közös képverset írnak egy-egy téma összefoglalásaként. Lehetséges témák: az iskola, a munkakeresés, a probléma, a továbbtanulás, a párválasztás, a döntés, stb. Szabály, hogy minden vonalra csak egy-egy szó kerülhet (névelővel), és a pár tagjai felváltva írnak némán a következő vonalakra:
 
  \------------
