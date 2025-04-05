@@ -1,0 +1,57 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "@app/layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const tasks = await getCollection("tasks");
+  return tasks.map((task) => ({
+    params: { id: task.id },
+    props: { task },
+  }));
+}
+
+const { task } = Astro.props;
+const { Content } = await render(task);
+---
+
+<Layout>
+  <div class="w-full flex justify-center text-center pt-2">
+    <!-- <h1 class="text-3xl font-bold my-6">{task.data.title}</h1> -->
+    <div class="prose">
+      <Content />
+
+      <table>
+        <tbody>
+          <tr>
+            <th>Javasolt reflexiós kérdések, feldolgozási szempontok:</th>
+            <td>{task.data.suggestion}</td>
+          </tr>
+          <tr>
+            <th>A gyakorlat típusa:</th>
+            <td>{task.data.type?.join(", ")}</td>
+          </tr>
+          <tr>
+            <th>Javasolt korcsoport:</th>
+            <td>{task.data.age_group?.join(", ")}</td>
+          </tr>
+          <tr>
+            <th>Időigény:</th>
+            <td>{task.data.time_req}</td>
+          </tr>
+          <tr>
+            <th>Helyigény:</th>
+            <td>{task.data.space_req}</td>
+          </tr>
+          <tr>
+            <th>Eszközigény:</th>
+            <td>{task.data.tool_req}</td>
+          </tr>
+          <tr>
+            <th>Kulcsszavak:</th>
+            <td>{task.data.keywords?.join(", ")}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</Layout>

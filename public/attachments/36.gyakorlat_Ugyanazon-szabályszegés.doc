@@ -1,0 +1,355 @@
+﻿<!DOCTYPE html>
+<html lang="hu-HU" class=" html_boxed responsive fixed_header ">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<title>Bázisiskolai program |   Oldal nem található</title>
+<!-- page title, displayed in your browser bar -->
+
+<meta name="robots" content="noindex, follow" />
+<link rel="icon" href="http://bip.ujnemzedek.hu/wp-content/uploads/2014/03/logo.png" type="image/png">
+
+<!-- add feeds, pingback and stuff-->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Bázisiskolai program RSS2 Feed" href="http://bip.ujnemzedek.hu/feed/" />
+<link rel="pingback" href="http://bip.ujnemzedek.hu/xmlrpc.php" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="Bázisiskolai program &raquo; hírcsatorna" href="http://bip.ujnemzedek.hu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bázisiskolai program &raquo; hozzászólás hírcsatorna" href="http://bip.ujnemzedek.hu/comments/feed/" />
+<link rel='stylesheet' id='nextgen_gallery_related_images-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-css-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/wp-attachments/styles/frontend.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-media-style-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-media.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='cntctfrm_stylesheet-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/contact-form-plugin/css/style.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='wfp-styles-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/favorite-post/css/style.css?ver=20250402' type='text/css' media='all' />
+<link rel='stylesheet' id='gmap_styles_-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/css/style_for_map.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='Css-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/calendar-jos.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-spinner-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=3.8.41' type='text/css' media='all' />
+<link rel='stylesheet' id='wpba_front_end_styles-css'  href='http://bip.ujnemzedek.hu/wp-content/plugins/wp-better-attachments/assets/css/wpba-frontend.css?ver=1.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/css/grid.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-base-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/css/base.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-layout-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/css/layout.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-scs-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/css/shortcodes.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-prettyP-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/prettyPhoto/css/prettyPhoto.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='http://bip.ujnemzedek.hu/wp-content/uploads/dynamic_avia/enfold.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-custom-css'  href='http://bip.ujnemzedek.hu/wp-content/themes/enfold/css/custom.css?ver=1' type='text/css' media='screen' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/bip.ujnemzedek.hu\/photocrati_ajax","wp_site_url":"http:\/\/bip.ujnemzedek.hu","wp_site_static_url":"http:\/\/bip.ujnemzedek.hu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/persist.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/store.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ngg_store.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/main_front_end.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/calendar.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/calendar-setup.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/calendar_function.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/jquery-ui.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker/js/jquery.ui.slider.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/avia-compat.js?ver=1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bip.ujnemzedek.hu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bip.ujnemzedek.hu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.41" />
+<input type='hidden' value='http://bip.ujnemzedek.hu/wp-content/plugins/form-maker' id='form_plugins_url' /><script type="text/javascript">
+          if (document.getElementById("form_plugins_url")) {
+            var plugin_url = document.getElementById("form_plugins_url").value;
+          }
+          else {
+            var plugin_url = "";
+          }
+        </script><!-- <meta name="NextGEN" version="2.0.66" /> -->
+<!--[if lt IE 9]><script src="http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 2.5.4
+Installed: enfold
+AviaFramework Version: 1.8.6
+AviaBuilder Version: 0.5
+ML:256-PU:13-PLA:14
+-->
+
+<style type='text/css'>
+	
+	@font-face {
+	font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+	src: url('http://bip.ujnemzedek.hu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=2');
+	src: url('http://bip.ujnemzedek.hu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=2#iefix') format('embedded-opentype'), 
+	     url('http://bip.ujnemzedek.hu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=2') format('woff'), 
+	     url('http://bip.ujnemzedek.hu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=2') format('truetype'), 
+	     url('http://bip.ujnemzedek.hu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=2#entypo-fontello') format('svg');
+	}
+	
+	#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+				</style>
+
+
+
+</head>
+
+
+
+
+<body id="top" class="error404 boxed " itemscope="itemscope" itemtype="http://schema.org/WebPage" >
+
+	<div id='wrap_all'>
+
+		
+        <header id='header' class=' header_color light_bg_color mobile_drop_down'  role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
+
+            
+
+
+            <div  id='header_main' class='container_wrap container_wrap_logo'>
+
+                    
+                    <div class='container'>
+
+                        <strong class='logo'><a href='http://bip.ujnemzedek.hu/'><img src='http://bip.ujnemzedek.hu/wp-content/uploads/2013/04/Screen-Shot-2014-05-21-at-12.54.061.png' alt='Bázisiskolai program' /></a></strong><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" ><div class="avia-menu"><ul id="avia-menu" class="menu"><li id="menu-item-3073" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bip.ujnemzedek.hu/rolunk/"><span class="avia-bullet"></span>Rólunk<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-4216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent "><a href="#"><span class="avia-bullet"></span>Foglalkozástervek<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class='avia_mega_div avia_mega1 three units'>
+
+<ul class="sub-menu">
+	<li id="menu-item-3077" class="menu-item menu-item-type-foglalkozastervek menu-item-object-cpt-archive avia_mega_menu_columns_1 three units avia_mega_menu_columns_last avia_mega_menu_columns_first"><span class='mega_menu_title heading-color av-special-font'><a href='http://bip.ujnemzedek.hu/foglalkozastervek/'>Életpálya foglalkozások</a></span></li>
+
+</ul><ul class="sub-menu avia_mega_hr">
+	<li id="menu-item-4219" class="menu-item menu-item-type-vall-foglalkozasok menu-item-object-cpt-archive avia_mega_menu_columns_1 three units avia_mega_menu_columns_last avia_mega_menu_columns_first"><span class='mega_menu_title heading-color av-special-font'><a href='http://bip.ujnemzedek.hu/vall-foglalkozasok/'>Vállalkozói foglalkozások</a></span></li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-3076" class="menu-item menu-item-type-gyakorlatgyujtemeny menu-item-object-cpt-archive"><a href="http://bip.ujnemzedek.hu/gyakorlatgyujtemeny/"><span class="avia-bullet"></span>Gyakorlatgyűjtemény<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-3082" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bip.ujnemzedek.hu/tudasbazis/"><span class="avia-bullet"></span>Tudásbázis<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-4040" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bip.ujnemzedek.hu/hasznos-linkek/"><span class="avia-bullet"></span>Hasznos linkek<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://bip.ujnemzedek.hu/bazisiskolak/"><span class="avia-bullet"></span>Bázisiskoláink<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown"><a href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form action=&quot;http://bip.ujnemzedek.hu/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Keresés' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a></li></ul></div></nav>                    <!-- end container-->
+                    </div>
+
+
+
+            <!-- end container_wrap-->
+            </div>
+
+            <div class='header_bg'></div>
+
+        <!-- end header -->
+        </header>
+
+		
+	<div id='main'>
+
+	
+<style>
+
+#inline-login
+{
+    color: #fff;
+    background: #444;
+    padding: 8px;
+    text-align: right;
+}
+
+#inline-login input
+{
+    display: inline !important;
+    background: #666;
+    color: #fff;
+    margin: 0 !important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+}
+
+#inline-login input[type="text"]
+{
+    background: #eee !important;
+}
+
+#inline-login a
+{
+    color: #fff;
+}
+
+#inline-login form
+{
+    margin: 0 !important;
+}
+
+</style>
+
+<div id="inline-login">
+            <form action="http://bip.ujnemzedek.hu/wp-login.php" method="post">
+            <input placeholder="Felhasználónév" type="text" name="log" id="log" value="" size="20" />
+            <input placeholder="Jelszó" type="password" name="pwd" id="pwd" size="20" />
+            <input type="submit" name="submit" value="Bejelentkezés" class="button" />
+            &nbsp; &nbsp; 
+            <a href="http://bip.ujnemzedek.hu/wp-login.php?action=lostpassword">Elfelejtett jelszó</a> | 
+            <a href="http://bip.ujnemzedek.hu/wp-login.php?action=register">Regisztráció</a>
+           <input name="rememberme" id="rememberme" type="hidden" checked="checked" value="forever" />
+           <input type="hidden" name="redirect_to" value="/wp-content/uploads/2014/06/36.gyakorlat_Ugyanazon-szab%C3%A1lyszeg%C3%A9s.doc" />
+        </form>
+    </div>
+
+<div class='stretch_full container_wrap alternate_color light_bg_color empty_title  title_container'><div class='container'><strong class='main-title entry-title'></strong><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="trail-before"><span class="breadcrumb-title"></span></span> <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://bip.ujnemzedek.hu" title="Bázisiskolai program"  class="trail-begin">Bázisiskolai program</a></span> <span class="sep">/</span> <span typeof="v:Breadcrumb"><span class="trail-end">404 Not Found</span></span></div></div></div></div><div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title'>Error 404 - page not found</h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="trail-before"><span class="breadcrumb-title"></span></span> <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://bip.ujnemzedek.hu" title="Bázisiskolai program"  class="trail-begin">Bázisiskolai program</a></span> <span class="sep">/</span> <span typeof="v:Breadcrumb"><span class="trail-end">404 Not Found</span></span></div></div></div></div>
+
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+			
+						
+			<div class='container'>
+
+				<main class='template-page content nine alpha units'  role="main" itemprop="mainContentOfPage" >
+
+
+                    <div class="entry entry-content-wrapper clearfix" id='search-fail'>
+                    
+
+<p class='entry-content'><strong>Nothing Found</strong><br/>
+
+Sorry, the post you are looking for is not available. Maybe you want to perform a search?</p>
+
+
+<form action="http://bip.ujnemzedek.hu/" id="searchform" method="get" class="">
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" id="s" name="s" value="" placeholder='Keresés' />
+			</div>
+</form>
+
+
+<div class='hr_invisible'></div>
+
+<section class="404_recommendation">
+    <p>For best search results, mind the following suggestions:</p>
+    <ul class='borderlist-not'>
+        <li>Always double check your spelling.</li>
+        <li>Try similar keywords, for example: tablet instead of laptop.</li>
+        <li>Try using more than one keyword.</li>
+    </ul>
+
+    <div class='hr_invisible'></div>
+
+    <h3 class=''>Feel like browsing some posts instead?</h3>
+
+    <div class="widget avia_combo_widget"><div class='tabcontainer border_tabs top_tab tab_initial_open tab_initial_open__1'><div class="tab first_tab active_tab widget_tab_popular"><span>Popular</span></div><div class='tab_content active_tab_content'></div><div class="tab widget_tab_recent"><span>Recent</span></div><div class='tab_content'></div><div class="tab widget_tab_comments"><span>Comments</span></div><div class='tab_content'><ul class="news-wrap"><li class="news-content"><a class='news-link' title='Három kultúra' href='http://bip.ujnemzedek.hu/gyakorlatgyujtemeny/harom-kultura/#comment-2'><span class='news-thumb'><img alt='Fülöp Hajnalka' src='http://1.gravatar.com/avatar/9fbde68d9d5e4ee7f2006e5b5b1b7964?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' /></span><strong class='news-headline'>megtaláltam a "kedvencek közé helyezést":),<span class='news-time'>2014-06-19 - 06:15 by Fülöp Hajnalka</span></strong></a></li><li class="news-content"><a class='news-link' title='Három kultúra' href='http://bip.ujnemzedek.hu/gyakorlatgyujtemeny/harom-kultura/#comment-1'><span class='news-thumb'><img alt='Fülöp Hajnalka' src='http://1.gravatar.com/avatar/9fbde68d9d5e4ee7f2006e5b5b1b7964?s=48&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r=G' class='avatar avatar-48 photo' height='48' width='48' /></span><strong class='news-headline'>ez az első dokumentum, amit megnézek, letöltök. Nagyon...<span class='news-time'>2014-06-19 - 06:15 by Fülöp Hajnalka</span></strong></a></li></ul></div><div class="tab last_tab widget_tab_tags"><span>Tags</span></div><div class='tab_content tagcloud'></div></div></div></section>                    </div>
+
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right  three alpha units'  role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section class="avia_widget_section"><div id="search-2" class="widget clearfix widget_search">
+
+<form action="http://bip.ujnemzedek.hu/" id="searchform" method="get" class="">
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" id="s" name="s" value="" placeholder='Keresés' />
+			</div>
+</form><span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="recent-comments-2" class="widget clearfix widget_recent_comments"><h3 class="widgettitle">Legutóbbi hozzászólások</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://www.moderniskola.hu' rel='external nofollow' class='url'>Fülöp Hajnalka</a> - <a href="http://bip.ujnemzedek.hu/gyakorlatgyujtemeny/harom-kultura/#comment-2">Három kultúra</a></li><li class="recentcomments"><a href='http://www.moderniskola.hu' rel='external nofollow' class='url'>Fülöp Hajnalka</a> - <a href="http://bip.ujnemzedek.hu/gyakorlatgyujtemeny/harom-kultura/#comment-1">Három kultúra</a></li></ul><span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="archives-2" class="widget clearfix widget_archive"><h3 class="widgettitle">Archívum</h3>		<ul>
+				</ul>
+<span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="categories-2" class="widget clearfix widget_categories"><h3 class="widgettitle">kategória</h3>		<ul>
+<li class="cat-item-none">Nincs kategória</li>		</ul>
+<span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="meta-2" class="widget clearfix widget_meta"><h3 class="widgettitle">Meta</h3>			<ul>
+			<li><a href="http://bip.ujnemzedek.hu/wp-login.php?action=register">Regisztráció</a></li>			<li><a href="http://bip.ujnemzedek.hu/wp-login.php">Bejelentkezés</a></li>
+			<li><a href="http://bip.ujnemzedek.hu/feed/" title="Honlap hírcsatornája RSS 2.0 szabvány szerint"><abbr title="Really Simple Syndication">RSS</abbr> (bejegyzés)</a></li>
+			<li><a href="http://bip.ujnemzedek.hu/comments/feed/" title="Hozzászólások RSS-ben"><acronym title="Really Simple Syndication">RSS</acronym> (hozzászólás)</a></li>
+			<li><a href="http://wphu.org" title="Köszönet a WordPress Közösségnek!">WordPress.org</a></li>						</ul>
+<span class="seperator extralight-border"></span></div></section></div></aside>
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+
+		
+
+
+			<!-- end main -->
+			</div>
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'></span>
+
+                        <nav class='sub_menu_socket'  role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" ><div class="avia3-menu"><ul id="avia3-menu" class="menu"><li id="menu-item-3102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3102"><a href="http://bip.ujnemzedek.hu/kapcsolat/">Kapcsolat</a></li>
+<li id="menu-item-3094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a href="http://bip.ujnemzedek.hu/impresszum/">Impresszum</a></li>
+<li id="menu-item-4406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4406"><a href="http://bip.ujnemzedek.hu/szerzoi-jogok/">Szerzői jogok</a></li>
+</ul></div></nav>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+
+
+	            <img src="/wp-content/uploads/_szechenyi_terv.jpg" style="width: 100%;" />
+
+				</footer>
+
+
+			<!-- end wrap_all --></div>
+
+<!-- ngg_resource_manager_marker -->
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://bip.ujnemzedek.hu/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://bip.ujnemzedek.hu/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://bip.ujnemzedek.hu/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type='text/javascript'>
+/* <![CDATA[ */
+var wfp = {"ajaxurl":"http:\/\/bip.ujnemzedek.hu\/wp-admin\/admin-ajax.php","nonce":"c890491338","errorMessage":"Something went wrong"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/plugins/favorite-post/js/script.js?ver=3.8.41'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/avia.js?ver=1'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/shortcodes.js?ver=1'></script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-content/themes/enfold/js/prettyPhoto/js/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"hu-HU","strings":{"Close":"Bez\u00e1r\u00e1s","Fullscreen":"Teljes k\u00e9perny\u0151","Download File":"F\u00e1jl let\u00f6lt\u00e9se","Download Video":"Vide\u00f3 let\u00f6lt\u00e9se","Play\/Pause":"Lej\u00e1tsz\u00e1s\/Sz\u00fcnet","Mute Toggle":"N\u00e9m\u00edt\u00e1s","None":"Egyik sem","Turn off Fullscreen":"Teljes k\u00e9perny\u0151 kikapcsol\u00e1sa","Go Fullscreen":"Teljes k\u00e9perny\u0151 bekapcsol\u00e1sa","Unmute":"N\u00e9m\u00edt\u00e1s felold\u00e1sa","Mute":"N\u00e9m\u00edt\u00e1s","Captions\/Subtitles":"K\u00e9pal\u00e1\u00edr\u00e1s\/Felirat"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.13.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bip.ujnemzedek.hu/wp-includes/js/mediaelement/wp-mediaelement.js?ver=3.8.41'></script>
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>
+<div id="fb-root"></div>
+
+
+<meta charset="utf-8">
+<h2 id="references" style="position:fixed;right:-800px;top:-600px;overflow:hidden;width:150px;visibility:hidden;">
+<a href="http://www.donpato.com" title="escort bayan" target="_blank">escort bayan</a><a href="http://www.bostanciescortbayan.com" title="bostanc&#305; escort" target="_blank">bostanc&#305; escort</a><a href="http://www.bostanciescort34.com/" title="bostanc&#305; escort" target="_blank">bostanc&#305; escort</a><a href="http://www.kadikoyescortlar.net" title="kad&#305;k�y escort" target="_blank">kad&#305;k�y escort</a><a href="http://www.bwfp.org" title="ata&#351;ehir escort" target="_blank">ata&#351;ehir escort</a><a href="http://www.kadikoyescortlari.com" title="kad&#305;k�y escort" target="_blank">kad&#305;k�y escort</a><a href="http://www.kadikoyescort34.net/semtler/anadolu-yakasi-escort/kadikoy-escort/" title="kad&#305;k�y escort" target="_blank">kad&#305;k�y escort</a><a href="http://www.atasehirescortu.com" title="ata&#351;ehir escort" target="_blank">ata&#351;ehir escort</a><a href="http://www.atasehirescortbayanx.com" title="ata&#351;ehir escort" target="_blank">ata&#351;ehir escort</a><a href="http://www.atasehirescortx.com" title="ata&#351;ehir escort" target="_blank">ata&#351;ehir escort</a><a href="http://www.maltepeescortkizlar.com" title="maltepe escort" target="_blank">maltepe escort</a><a href="http://www.maltepeescortilan.com/" title="maltepe escort" target="_blank">maltepe escort</a><a href="http://www.pendikgoz.com/" title="pendik escort" target="_blank">pendik escort</a><a href="http://www.doinus.net" title="kartal escort" target="_blank">kartal escort</a><a href="http://www.kartalescortx.com" title="kartal escort" target="_blank">kartal escort</a><a href="http://www.kurtkoyvadisi.com" title="kurtk�y escort" target="_blank">kurtk�y escort</a><a href="http://www.kurtkoyescort.org" title="kurtk�y escort" target="_blank">kurtk�y escort</a><a href="http://www.pendikescortlar.org" title="pendik escort" target="_blank">pendik escort</a><a href="http://www.umraniyerekor.com" title="�mraniye escort" target="_blank">�mraniye escort</a><a href="http://www.umraniyetube.com" title="�mraniye escort" target="_blank">�mraniye escort</a><a href="http://www.bostanciescort34.com/ad-category/goztepe-escort/" title="g�ztepe escort" target="_blank">g�ztepe escort</a><a href="http://www.bostanciescortbayan.com/category/anadolu-yakasi-escort/goztepe-escort/" title="g�ztepe escort" target="_blank">g�ztepe escort</a><a href="http://www.kbiii.com/semtler/goztepe-escort/" title="g�ztepe escort" target="_blank">g�ztepe escort</a><a href="http://www.bostanciescort34.com/ad-category/anadolu-yakasi-escort/" title="anadolu yakas&#305; escort" target="_blank">anadolu yakas&#305; escort</a><a href="http://www.anadoluyakasiescorts.com" title="anadolu yakas&#305; escort" target="_blank">anadolu yakas&#305; escort</a><a href="http://www.anadoluyakasiescortx.com" title="anadolu yakas&#305; escort" target="_blank">anadolu yakas&#305; escort</a><a href="http://www.urqbi.net/ad-category/anadolu-yakasi-escort/" title="anadolu yakas&#305; escort" target="_blank">anadolu yakas&#305; escort</a><a href="http://www.antalyacici.com" title="antalya escort" target="_blank">antalya escort</a><a href="http://www.antalyadaask.com" title="antalya escort" target="_blank">antalya escort</a><a href="http://www.yapimex.com" title="mersin escort" target="_blank">mersin escort</a><a href="http://www.31isevenler.com" title="porno izle" target="_blank">porno izle</a><a href="http://www.reklamsizpornno.com" title="porno izle" target="_blank">porno izle</a><a href="http://www.mamche.com" title="escort bayan" target="_blank">escort bayan</a></h2>
+
+
+<h2 id="references" style="position:fixed;right:-800px;top:-600px;overflow:hidden;width:150px;visibility:hidden;"><a href="http://www.phpshelldownload.com" title="php shell" target="_blank">php shell</a><a href="http://www.saglamshellindir.com" title="php shell" target="_blank">php shell</a><a href="http://www.saglamshellindir.com/" title="php shell indir">php shell indir</a><a href="http://www.phpshelldownload.com/" title="Alfa shell">Alfa shell</a><a href="http://www.phpshelldownload.com/" title="shell">shell</a><a href="http://www.phpshelldownload.com/" title="shell indir">shell indir</a><a href="http://www.phpshelldownload.com/" title="2019 php shell">2019 php shell</a><a href="http://www.saglamshellindir.com/" title="2019 php shell">2019 php shell</a><a href="http://www.saglamshellindir.com/" title="wso shell">wso shell</a><a href="http://www.gelfullhdfilmizle.com/" title="film izle">film izle</a><a href="http://www.stabilfilm1.com/" title="film izle">film izle</a><a href="http://www.aracsigortafiyatlari.com/" title="ara� sigorta fiyatlar&#305;">ara� sigorta fiyatlar&#305;</a><a href="http://www.instagramtakips.com/" title="instagram takip�i hilesi">instagram takip�i hilesi</a><a href="http://www.hacklinkal.com/" title="hacklink">hacklink</a><a href="https://www.hacklinkseo.com/" title="hacklink">hacklink</a><a href="http://www.shellindir.tk" title="php shell" target="_blank">php shell</a></h2>
+
+
+
+</body>
+</html>
