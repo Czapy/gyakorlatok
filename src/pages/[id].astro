@@ -24,31 +24,31 @@ const { Content } = await render(task);
           <tbody>
             <tr>
               <th>Javasolt reflexiós kérdések, feldolgozási szempontok:</th>
-              <td>{task.data.suggestion}</td>
+              <td>{task.data.suggestion ?? "-"}</td>
             </tr>
             <tr>
               <th>A gyakorlat típusa:</th>
-              <td>{task.data.type?.join(", ")}</td>
+              <td>{task.data.type?.join(", ") ?? "-"}</td>
             </tr>
             <tr>
               <th>Javasolt korcsoport:</th>
-              <td>{task.data.age_group?.join(", ")}</td>
+              <td>{task.data.age_group?.join(", ") ?? "-"}</td>
             </tr>
             <tr>
               <th>Időigény:</th>
-              <td>{task.data.time_req}</td>
+              <td>{task.data.time_req ?? "-"}</td>
             </tr>
             <tr>
               <th>Helyigény:</th>
-              <td>{task.data.space_req}</td>
+              <td>{task.data.space_req ?? "-"}</td>
             </tr>
             <tr>
               <th>Eszközigény:</th>
-              <td>{task.data.tool_req}</td>
+              <td>{task.data.tool_req ?? "-"}</td>
             </tr>
             <tr>
               <th>Kulcsszavak:</th>
-              <td>{task.data.keywords?.join(", ")}</td>
+              <td>{task.data.keywords?.join(", ") ?? "-"}</td>
             </tr>
           </tbody>
         </table>

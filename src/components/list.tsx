@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 export default function List(props: {
   tasks: {
@@ -39,7 +39,7 @@ export default function List(props: {
 
   const spaceRequirements = useMemo(() => {
     return [
-      ...new Set(props.tasks.flatMap((v) => v.data.time_req).filter(Boolean)),
+      ...new Set(props.tasks.flatMap((v) => v.data.space_req).filter(Boolean)),
     ].sort((a, b) => a!.localeCompare(b!));
   }, [props.tasks]);
 
@@ -48,6 +48,13 @@ export default function List(props: {
     if (form.current) {
       const fd = new FormData(form.current);
       setFilters([...fd.entries()]);
+      sessionStorage.setItem("gy-form", formSerialize(fd));
+    }
+  }, [form.current]);
+  useEffect(() => {
+    if (form.current && sessionStorage.getItem("gy-form")) {
+      formDeserialize(form.current, sessionStorage.getItem("gy-form"));
+      search();
     }
   }, [form.current]);
   const [filters, setFilters] = useState<[string, FormDataEntryValue][]>([]);
@@ -55,7 +62,7 @@ export default function List(props: {
     return props.tasks.filter((task) => {
       if (!filters.length) return true;
       // do you evan hack bro?
-      return filters.some(
+      return filters.every(
         (filter) =>
           // @ts-ignore
           task.data[filter[0]] &&
@@ -71,8 +78,12 @@ export default function List(props: {
 
   return (
     <div className="w-full flex flex-col items-center">
-      <form className="w-full px-12" ref={form} onChange={search}>
-        <fieldset className="fieldset pt-2 pb-4 px-4 bg-base-100 border border-base-300 rounded-box w-64">
+      <form
+        className="w-full px-2 flex flex-wrap gap-4 justify-center"
+        ref={form}
+        onChange={search}
+      >
+        <fieldset className="fieldset pt-2 pb-4 px-4 bg-base-100 border border-base-300 rounded-box grid grid-cols-2 gap-x-4">
           <legend className="fieldset-legend">Típusok</legend>
           {types.map((type) => (
             <label key={type} className="fieldset-label">
@@ -83,6 +94,48 @@ export default function List(props: {
                 className="checkbox"
               />{" "}
               {type}
+            </label>
+          ))}
+        </fieldset>
+        <fieldset className="fieldset pt-2 pb-4 px-4 bg-base-100 border border-base-300 rounded-box w-44">
+          <legend className="fieldset-legend">Korcsoport</legend>
+          {ageGroups.map((ageGroup) => (
+            <label key={ageGroup} className="fieldset-label">
+              <input
+                type="checkbox"
+                value={ageGroup!}
+                name="age_group"
+                className="checkbox"
+              />{" "}
+              {ageGroup}
+            </label>
+          ))}
+        </fieldset>
+        <fieldset className="fieldset pt-2 pb-4 px-4 bg-base-100 border border-base-300 rounded-box w-44">
+          <legend className="fieldset-legend">Időigény</legend>
+          {timeRequirements.map((timeRequirement) => (
+            <label key={timeRequirement} className="fieldset-label">
+              <input
+                type="checkbox"
+                value={timeRequirement!}
+                name="time_req"
+                className="checkbox"
+              />{" "}
+              {timeRequirement}
+            </label>
+          ))}
+        </fieldset>
+        <fieldset className="fieldset pt-2 pb-4 px-4 bg-base-100 border border-base-300 rounded-box w-52">
+          <legend className="fieldset-legend">Helyigény</legend>
+          {spaceRequirements.map((spaceRequirement) => (
+            <label key={spaceRequirement} className="fieldset-label">
+              <input
+                type="checkbox"
+                value={spaceRequirement!}
+                name="space_req"
+                className="checkbox"
+              />{" "}
+              {spaceRequirement}
             </label>
           ))}
         </fieldset>
@@ -109,4 +162,29 @@ export default function List(props: {
       </ul>
     </div>
   );
+}
+
+function formSerialize(data) {
+  //https://stackoverflow.com/a/44033425/1869660
+  return new URLSearchParams(data).toString();
+}
+
+function formDeserialize(form, data) {
+  const entries = new URLSearchParams(data).entries();
+  for (const [key, val] of entries) {
+    //http://javascript-coder.com/javascript-form/javascript-form-value.phtml
+    const input = form.elements[key].values().find((i) => i.value === val);
+    console.log({ key, val, input, el: form.elements });
+    switch (input.type) {
+      case "checkbox":
+        input.checked = !!val;
+        break;
+      case "radio":
+        input.checked = !!val;
+        break;
+      default:
+        input.value = val;
+        break;
+    }
+  }
 }

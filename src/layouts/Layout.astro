@@ -19,17 +19,17 @@ const {title} = Astro.props;
     <div class="navbar bg-neutral text-neutral-content">
       <div class="navbar-start">
         {Astro.routePattern !== "/" ?
-          <a class="btn btn-ghost text-lg font-normal" href="/gyakorlatok"
-            >&lt; Vissza</a> : <></>
+          <button class="btn btn-ghost font-normal sm:text-lg" onclick="history.back()"
+            >&lt; Vissza</button> : <></>
         }
       </div>
-      <div class="navbar-center text-2xl font-semibold">{title}</div>
+      <div class="navbar-center font-semibold sm:text-2xl text-sm">{title}</div>
       <div class="navbar-end">
-        <a class="btn btn-ghost text-lg font-light" href="/gyakorlatok/utmutato"
+        <a class="btn btn-ghost font-normal sm:text-lg" href="/gyakorlatok/utmutato"
           >Útmutató</a>
       </div>
     </div>
-    <div class="flex flex-col items-center py-6" transition:animate="slide">
+    <div class="flex flex-col items-center p-6" transition:animate="slide">
       <slot />
     </div>
   </body>
