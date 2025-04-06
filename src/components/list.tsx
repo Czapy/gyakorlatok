@@ -43,7 +43,7 @@ export default function List(props: {
     ].sort((a, b) => a!.localeCompare(b!));
   }, [props.tasks]);
 
-  const form = useRef(null);
+  const form = useRef<HTMLFormElement>(null);
   const search = useCallback(() => {
     if (form.current) {
       const fd = new FormData(form.current);
@@ -53,7 +53,7 @@ export default function List(props: {
   }, [form.current]);
   useEffect(() => {
     if (form.current && sessionStorage.getItem("gy-form")) {
-      formDeserialize(form.current, sessionStorage.getItem("gy-form"));
+      formDeserialize(form.current, sessionStorage.getItem("gy-form")!);
       search();
     }
   }, [form.current]);
@@ -139,11 +139,12 @@ export default function List(props: {
         <button
           className="btn btn-accent"
           onClick={() => {
-            // @ts-ignore
-            form.current?.reset();
-            sessionStorage.setItem("gy-form", "");
-            formDeserialize(form.current, "");
-            search();
+            if (form.current) {
+              form.current.reset();
+              sessionStorage.setItem("gy-form", "");
+              formDeserialize(form.current, "");
+              search();
+            }
           }}
         >
           Keresés törlése
@@ -182,11 +183,14 @@ function formSerialize(data: any) {
   return new URLSearchParams(data).toString();
 }
 
-function formDeserialize(form: any, data: any) {
+function formDeserialize(form: HTMLFormElement, data: string) {
   const entries = new URLSearchParams(data).entries();
   for (const [key, val] of entries) {
     //http://javascript-coder.com/javascript-form/javascript-form-value.phtml
-    const input = form.elements[key].values().find((i) => i.value === val);
+    // @ts-ignore
+    const input = form.elements[key]
+      .values()
+      .find((i: HTMLInputElement) => i.value === val);
     switch (input.type) {
       case "checkbox":
         input.checked = !!val;
