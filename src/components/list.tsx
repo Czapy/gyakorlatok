@@ -177,12 +177,12 @@ export default function List(props: {
   );
 }
 
-function formSerialize(data) {
+function formSerialize(data: any) {
   //https://stackoverflow.com/a/44033425/1869660
   return new URLSearchParams(data).toString();
 }
 
-function formDeserialize(form, data) {
+function formDeserialize(form: any, data: any) {
   const entries = new URLSearchParams(data).entries();
   for (const [key, val] of entries) {
     //http://javascript-coder.com/javascript-form/javascript-form-value.phtml
