@@ -1,7 +1,7 @@
 ---
 import "@app/styles/global.css";
 
-const {title} = Astro.props;
+const { title } = Astro.props;
 ---
 
 <!doctype html>
@@ -16,15 +16,39 @@ const {title} = Astro.props;
   <body>
     <div class="navbar bg-neutral text-neutral-content">
       <div class="navbar-start">
-        {Astro.routePattern !== "/" ?
-          <button class="btn btn-ghost font-normal sm:text-lg" onclick="history.back()"
-            >&lt; Vissza</button> : <></>
+        {
+          Astro.routePattern !== "/" && (
+            <a class="btn btn-ghost font-normal lg:text-lg" href="/gyakorlatok">
+              &lt; Vissza
+            </a>
+          )
         }
       </div>
-      <div class="navbar-center font-semibold sm:text-2xl text-sm">{title}</div>
+      <div class="navbar-center font-semibold lg:text-2xl text-sm">
+        {title}
+      </div>
       <div class="navbar-end">
-        <a class="btn btn-ghost font-normal sm:text-lg" href="/gyakorlatok/utmutato"
-          >Útmutató</a>
+        {
+          Astro.routePattern !== "/utmutato" && (
+            <a
+              class="btn btn-ghost font-normal lg:text-lg"
+              href="/gyakorlatok/utmutato"
+            >
+              Útmutató
+            </a>
+          )
+        }
+
+        {
+          Astro.routePattern !== "/szerzoi-jogok" && (
+            <a
+              class="btn btn-ghost font-normal lg:text-lg"
+              href="/gyakorlatok/szerzoi-jogok"
+            >
+              Szerzői jogok
+            </a>
+          )
+        }
       </div>
     </div>
     <div class="flex flex-col items-center p-6" transition:animate="slide">
