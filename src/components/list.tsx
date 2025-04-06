@@ -62,16 +62,11 @@ export default function List(props: {
     return props.tasks.filter((task) => {
       if (!filters.length) return true;
       // do you evan hack bro?
-      return filters.every(
-        (filter) =>
-          // @ts-ignore
-          task.data[filter[0]] &&
-          // @ts-ignore
-          (task.data[filter[0]] === filter[1] ||
-            // @ts-ignore
-            (task.data[filter[0]].includes &&
-              // @ts-ignore
-              task.data[filter[0]].includes(filter[1])))
+      return (
+        filterForGroupAnd(filters, "type", task) &&
+        filterForGroupOr(filters, "age_group", task) &&
+        filterForGroupOr(filters, "time_req", task) &&
+        filterForGroupOr(filters, "space_req", task)
       );
     });
   }, [filters]);
@@ -140,6 +135,24 @@ export default function List(props: {
           ))}
         </fieldset>
       </form>
+      <div className="my-4">
+        <button
+          className="btn btn-accent"
+          onClick={() => {
+            // @ts-ignore
+            form.current?.reset();
+            sessionStorage.setItem("gy-form", "");
+            formDeserialize(form.current, "");
+            search();
+          }}
+        >
+          Keresés törlése
+        </button>
+      </div>
+      <div className="w-full text-center">
+        <h2 className="text-2xl mb-4">Találatok</h2>
+        <hr className="text-base-content/10" />
+      </div>
       <ul className="list max-w-2xl text-center text-lg">
         {filteredTasks.map((task) => (
           <li key={task.id} className="list-row">
@@ -174,7 +187,6 @@ function formDeserialize(form, data) {
   for (const [key, val] of entries) {
     //http://javascript-coder.com/javascript-form/javascript-form-value.phtml
     const input = form.elements[key].values().find((i) => i.value === val);
-    console.log({ key, val, input, el: form.elements });
     switch (input.type) {
       case "checkbox":
         input.checked = !!val;
@@ -187,4 +199,50 @@ function formDeserialize(form, data) {
         break;
     }
   }
+}
+
+function filterForGroupAnd(
+  filters: [string, FormDataEntryValue][],
+  group: string,
+  task: any
+) {
+  return (
+    filters.filter((filter) => filter[0] === group).length === 0 ||
+    filters
+      .filter((filter) => filter[0] === group)
+      .every(
+        (filter) =>
+          // @ts-ignore
+          task.data[filter[0]] &&
+          // @ts-ignore
+          (task.data[filter[0]] === filter[1] ||
+            // @ts-ignore
+            (task.data[filter[0]].includes &&
+              // @ts-ignore
+              task.data[filter[0]].includes(filter[1])))
+      )
+  );
+}
+
+function filterForGroupOr(
+  filters: [string, FormDataEntryValue][],
+  group: string,
+  task: any
+) {
+  return (
+    filters.filter((filter) => filter[0] === group).length === 0 ||
+    filters
+      .filter((filter) => filter[0] === group)
+      .some(
+        (filter) =>
+          // @ts-ignore
+          task.data[filter[0]] &&
+          // @ts-ignore
+          (task.data[filter[0]] === filter[1] ||
+            // @ts-ignore
+            (task.data[filter[0]].includes &&
+              // @ts-ignore
+              task.data[filter[0]].includes(filter[1])))
+      )
+  );
 }
